@@ -1,0 +1,111 @@
+{
+  "student_information": {
+    "register_number": "20BLA1030",
+    "name": "SRIHARAN B"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "LAW1101",
+        "CourseTitle": "Introduction to Law and Legal methods",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "N3",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "25-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "LAW1111",
+        "CourseTitle": "General English",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "N1",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "22-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "LAW1208",
+        "CourseTitle": "Political Theory",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "N3",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "22-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "LAW1209",
+        "CourseTitle": "Micro Economics",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "N3",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "25-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "LAW1210",
+        "CourseTitle": "Essentials of Sociology",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "N3",
+        "ExamMonth": "L Feb-2021",
+        "ResultDeclaredOn": "25-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "LAW1214",
+        "CourseTitle": "Colonialism in India",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "N3",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "25-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      }
+    ],
+    "basket_details": [
+      {
+        "BasketTitle": "FOREIGN LANGUAGE",
+        "FDistributionType": "UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "BasketTitle": "Co-Extra Curricular Basket",
+        "FDistributionType": "UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "0.0"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "24.0",
+        "CreditsEarned": "0.0",
+        "Cgpa": "0.00",
+        "SGrades": "0",
+        "OAGrades": "0",
+        "BGrades": "0",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "1",
+        "NGrades": "5"
+      }
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "student_information": {
+    "register_number": "23PHD1232",
+    "name": "SAIGAYATHRI"
+  },
+  "tables": {
+    "grade_history_combined": [
+      {
+        "Slno": "1",
+        "CourseCode": "RMC0001",
+        "CourseTitle": "RESEARCH AND PUBLICATION ETHICS",
+        "CourseType": "RMC",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "21-Jun-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RMC703",
+        "CourseTitle": "RESEARCH METHODOLOGY",
+        "CourseType": "RM",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "21-Jun-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "RSS01319",
+        "CourseTitle": "STRATEGIC PATHWAYS TO BRAND GROWTH",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "F",
+        "ExamMonth": "May-2025",
+        "ResultDeclaredOn": "24-Jun-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "RSS01319",
+        "CourseTitle": "STRATEGIC PATHWAYS TO BRAND GROWTH",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "19-Dec-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "RSS01320",
+        "CourseTitle": "ADVANCED STRATEGIES IN BRAND EQUITY AND MARKET DYNAMICS",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "F",
+        "ExamMonth": "May-2025",
+        "ResultDeclaredOn": "24-Jun-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "RSS01320",
+        "CourseTitle": "ADVANCED STRATEGIES IN BRAND EQUITY AND MARKET DYNAMICS",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "19-Dec-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "PMBA608L",
+        "CourseTitle": "Brand Management",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "1",
+        "CourseCode": "ENG5004",
+        "CourseTitle": "ENGLISH FOR RESEARCHERS",
+        "CourseType": "RM",
+        "Credits": "3.0",
+        "Grade": "P",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "21-Jun-2024",
+        "CourseOption": "NCPF"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "15.0",
+        "CreditsEarned": "15.0",
+        "Cgpa": "8.60",
+        "SGrades": "0",
+        "AGrades": "3",
+        "BGrades": "2",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

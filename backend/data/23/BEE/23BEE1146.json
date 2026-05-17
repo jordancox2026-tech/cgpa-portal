@@ -1,0 +1,803 @@
+{
+  "student_information": {
+    "register_number": "23BEE1146",
+    "name": "TARUN PRABHAKAR S"
+  },
+  "tables": {
+    "grade_history_combined": [
+      {
+        "Slno": "1",
+        "CourseCode": "BCHY101L",
+        "CourseTitle": "Engineering Chemistry",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "12-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "BCHY101P",
+        "CourseTitle": "Engineering Chemistry Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "A",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "12-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "BCSE101E",
+        "CourseTitle": "Computer Programming: Python",
+        "CourseType": "ETL",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "12-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBES"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "BEEE101N",
+        "CourseTitle": "Introduction to Engineering",
+        "CourseType": "PJT",
+        "Credits": "1.0",
+        "Grade": "P",
+        "ExamMonth": "L Dec-2023",
+        "ResultDeclaredOn": "12-Jan-2024",
+        "CourseOption": "NCPF",
+        "CourseDistribUtion": "NGCR"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "BEEE102L",
+        "CourseTitle": "Basic Electrical and Electronics Engineering",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A S",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "12-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBES"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "BEEE102P",
+        "CourseTitle": "Basic Electrical and Electronics Engineering Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "I S",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "12-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBES"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "BENG101N",
+        "CourseTitle": "Effective English Communication",
+        "CourseType": "LO",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "12-Jan-2024",
+        "CourseOption": "NCG",
+        "CourseDistribUtion": "BC"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "BMAT101L",
+        "CourseTitle": "Calculus",
+        "CourseType": "TH",
+        "Credits": "C 3.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "12-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "BMAT101P",
+        "CourseTitle": "Calculus Lab",
+        "CourseType": "LO",
+        "Credits": "I 1.0",
+        "Grade": "S",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "12-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "BSTS201P",
+        "CourseTitle": "Qualitative Skills Practice I",
+        "CourseType": "SS",
+        "Credits": "F 1.5",
+        "Grade": "B",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "12-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCHSS M"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "BCSE103E",
+        "CourseTitle": "Computer Programming: Java",
+        "CourseType": "F ETL",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBES"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "BEEE203L",
+        "CourseTitle": "Circuit Theory",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DLES"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "BEEE206L",
+        "CourseTitle": "Digital Electronics",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "BEEE206P",
+        "CourseTitle": "O Digital Electronics Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "A",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "28-May-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "BENG101L",
+        "CourseTitle": "Technical English Communication",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCHSS M"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "BENG101P",
+        "CourseTitle": "N Technical English Communication Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "28-May-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCHSS M"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "BHUM101N",
+        "CourseTitle": "Ethics and Values",
+        "CourseType": "OC",
+        "Credits": "2.0",
+        "Grade": "P",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "28-May-2024",
+        "CourseOption": "NCPF",
+        "CourseDistribUtion": "NGCR"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "BMAT102L",
+        "CourseTitle": "U Differential Equations and Transforms",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "BPHY101L",
+        "CourseTitle": "Engineering Physics",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "20",
+        "CourseCode": "BPHY101P",
+        "CourseTitle": "Engineering Physics Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "A",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "28-May-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "21",
+        "CourseCode": "BSTS101P",
+        "CourseTitle": "Quantitative Skills Practice I",
+        "CourseType": "SS",
+        "Credits": "1.5",
+        "Grade": "C",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "28-May-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCHSS M"
+      },
+      {
+        "Slno": "22",
+        "CourseCode": "BCHY102N",
+        "CourseTitle": "Environmental Sciences",
+        "CourseType": "OC",
+        "Credits": "2.0",
+        "Grade": "P",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "03-Jan-2025",
+        "CourseOption": "NCPF",
+        "CourseDistribUtion": "NGCR"
+      },
+      {
+        "Slno": "23",
+        "CourseCode": "BEEE201L",
+        "CourseTitle": "Electronic Materials",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DLES"
+      },
+      {
+        "Slno": "24",
+        "CourseCode": "BEEE202L",
+        "CourseTitle": "Electromagnetic Theory",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DLES"
+      },
+      {
+        "Slno": "25",
+        "CourseCode": "BEEE204L",
+        "CourseTitle": "Signals and Systems",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "26",
+        "CourseCode": "BEEE205L",
+        "CourseTitle": "Electronic Devices and Circuits",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "18-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "27",
+        "CourseCode": "BEEE205P",
+        "CourseTitle": "Electronic Devices and Circuits Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "S",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "03-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "28",
+        "CourseCode": "BEEE303L",
+        "CourseTitle": "Control Systems",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "29",
+        "CourseCode": "BEEE303P",
+        "CourseTitle": "Control Systems Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "A",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "03-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "30",
+        "CourseCode": "BMAT201L",
+        "CourseTitle": "Complex Variables and Linear Algebra",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "31",
+        "CourseCode": "BSTS202P",
+        "CourseTitle": "Qualitative Skills Practice II",
+        "CourseType": "SS",
+        "Credits": "1.5",
+        "Grade": "D",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "03-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCHSS M"
+      },
+      {
+        "Slno": "32",
+        "CourseCode": "AEXC154N",
+        "CourseTitle": "Tamil Arts and Literature",
+        "CourseType": "ECA",
+        "Credits": "2.0",
+        "Grade": "P",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "24-Jun-2025",
+        "CourseOption": "NCPF",
+        "CourseDistribUtion": "NGCR"
+      },
+      {
+        "Slno": "33",
+        "CourseCode": "BEEE208L",
+        "CourseTitle": "Analog Electronics",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "L Apr-2025",
+        "ResultDeclaredOn": "02-Jun-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "34",
+        "CourseCode": "BEEE208P",
+        "CourseTitle": "Analog Electronics Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "S",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "20-May-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "35",
+        "CourseCode": "BEEE215L",
+        "CourseTitle": "DC Machines and Transformers",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "02-Jun-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "36",
+        "CourseCode": "BEEE215P",
+        "CourseTitle": "DC Machines and Transformers Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "A A",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "20-May-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "37",
+        "CourseCode": "BEEE301L",
+        "CourseTitle": "Power Electronics",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "I B",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "02-Jun-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "38",
+        "CourseCode": "BEEE305L",
+        "CourseTitle": "Measurements and Instrumentation",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "02-Jun-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "39",
+        "CourseCode": "BEEE305P",
+        "CourseTitle": "Measurements and Instrumentation Lab",
+        "CourseType": "LO",
+        "Credits": "C 1.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "20-May-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "40",
+        "CourseCode": "BENG102P",
+        "CourseTitle": "Technical Report Writing",
+        "CourseType": "LO",
+        "Credits": "I 1.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "20-May-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCHSS M"
+      },
+      {
+        "Slno": "41",
+        "CourseCode": "BESP101L",
+        "CourseTitle": "Spanish I",
+        "CourseType": "TH",
+        "Credits": "F 2.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "02-Jun-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCHSS M"
+      },
+      {
+        "Slno": "42",
+        "CourseCode": "BMAT202L",
+        "CourseTitle": "Probability and Statistics",
+        "CourseType": "F TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "02-Jun-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "43",
+        "CourseCode": "BMAT202P",
+        "CourseTitle": "Probability and Statistics Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "A",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "20-May-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "44",
+        "CourseCode": "BSSC101N",
+        "CourseTitle": "O Essence of Traditional Knowledge",
+        "CourseType": "OC",
+        "Credits": "2.0",
+        "Grade": "F",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "20-May-2025",
+        "CourseOption": "NCPF",
+        "CourseDistribUtion": "NGCR"
+      },
+      {
+        "Slno": "45",
+        "CourseCode": "BSSC101N",
+        "CourseTitle": "Essence of Traditional Knowledge",
+        "CourseType": "OC",
+        "Credits": "2.0",
+        "Grade": "P",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "18-Dec-2025",
+        "CourseOption": "NCPF",
+        "CourseDistribUtion": "NGCR"
+      },
+      {
+        "Slno": "46",
+        "CourseCode": "BSTS102P",
+        "CourseTitle": "N Quantitative Skills Practice II",
+        "CourseType": "SS",
+        "Credits": "1.5",
+        "Grade": "C",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "20-May-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCHSS M"
+      },
+      {
+        "Slno": "47",
+        "CourseCode": "BECE355L",
+        "CourseTitle": "Advanced Cloud Computing",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "OE"
+      },
+      {
+        "Slno": "48",
+        "CourseCode": "BEEE302L",
+        "CourseTitle": "U Digital Signal Processing",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "49",
+        "CourseCode": "BEEE302P",
+        "CourseTitle": "Digital Signal Processing Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "15-Dec-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "50",
+        "CourseCode": "BEEE304L",
+        "CourseTitle": "Power Systems Engineering",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "51",
+        "CourseCode": "BEEE309L",
+        "CourseTitle": "Microprocessors and Microcontrollers",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "52",
+        "CourseCode": "BEEE309P",
+        "CourseTitle": "Microprocessors and Microcontrollers Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "S",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "15-Dec-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "53",
+        "CourseCode": "BEEE312L",
+        "CourseTitle": "AC Machines",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "54",
+        "CourseCode": "BEEE312P",
+        "CourseTitle": "AC Machines Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "S",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "15-Dec-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "55",
+        "CourseCode": "BEEE399J",
+        "CourseTitle": "Summer Industrial Internship",
+        "CourseType": "PJT",
+        "Credits": "1.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "18-Dec-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PI"
+      },
+      {
+        "Slno": "56",
+        "CourseCode": "BEEE411L",
+        "CourseTitle": "Artificial Intelligence",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "57",
+        "CourseCode": "BSTS301P",
+        "CourseTitle": "Advanced Competitive Coding – I",
+        "CourseType": "SS",
+        "Credits": "1.5",
+        "Grade": "B",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "15-Dec-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "OE"
+      },
+      {
+        "Slno": "58",
+        "CourseCode": "CFOC575M",
+        "CourseTitle": "Wildlife Ecology",
+        "CourseType": "OC",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "06-Jan-2026",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "OE"
+      }
+    ],
+    "curriculum_details": [
+      {
+        "CurriculumDistributionType": "Foundation Core - Basic Sciences and Mathematics",
+        "CreditsRequired": "L 24.0",
+        "CreditsEarned": "24.0"
+      },
+      {
+        "CurriculumDistributionType": "Foundation Core - Basic Engineering Sciences",
+        "CreditsRequired": "10.0",
+        "CreditsEarned": "10.0"
+      },
+      {
+        "CurriculumDistributionType": "Foundation Core - Humanities, Social Sciences and Management",
+        "CreditsRequired": "A 15.0",
+        "CreditsEarned": "12.0"
+      },
+      {
+        "CurriculumDistributionType": "Discipline-linked Engineering Sciences",
+        "CreditsRequired": "I 10.0",
+        "CreditsEarned": "10.0"
+      },
+      {
+        "CurriculumDistributionType": "Discipline Core",
+        "CreditsRequired": "53.0",
+        "CreditsEarned": "42.0"
+      },
+      {
+        "CurriculumDistributionType": "Discipline Elective",
+        "CreditsRequired": "C 15.0",
+        "CreditsEarned": "3.0"
+      },
+      {
+        "CurriculumDistributionType": "Projects and Internship",
+        "CreditsRequired": "9.0",
+        "CreditsEarned": "1.0"
+      },
+      {
+        "CurriculumDistributionType": "Open Elective",
+        "CreditsRequired": "I 15.0",
+        "CreditsEarned": "7.5"
+      },
+      {
+        "CurriculumDistributionType": "Non-graded Core Requirement",
+        "CreditsRequired": "F 11.0",
+        "CreditsEarned": "9.0"
+      },
+      {
+        "CurriculumDistributionType": "Bridge Course",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "2.0"
+      },
+      {
+        "CurriculumDistributionType": "Multidisciplinary Electives",
+        "CreditsRequired": "F 0.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Total Credits",
+        "CreditsRequired": "151.0",
+        "CreditsEarned": "120.5"
+      }
+    ],
+    "o_basket_details": [
+      {
+        "BasketTitle": "Foreign Language",
+        "DistributionType": "FCHSSM",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "2.0"
+      },
+      {
+        "BasketTitle": "N Extra curricular activities",
+        "DistributionType": "NGCR",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "2.0"
+      },
+      {
+        "BasketTitle": "HSM Elective",
+        "DistributionType": "FCHSSM",
+        "CreditsRequired": "3.0",
+        "CreditsEarned": "0.0"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "109.5",
+        "CreditsEarned": "109.5",
+        "Cgpa": "8.72",
+        "SGrades": "9",
+        "AGrades": "24",
+        "BGrades": "15",
+        "CGrades": "2",
+        "DGrades": "1",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

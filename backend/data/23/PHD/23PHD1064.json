@@ -1,0 +1,91 @@
+{
+  "student_information": {
+    "register_number": "23PHD1064",
+    "name": "RAVEEN KUMAR V"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "RMC0001",
+        "CourseTitle": "RESEARCH AND PUBLICATION ETHICS",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jan-2024",
+        "ResultDeclaredOn": "31-Jan-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RMC701",
+        "CourseTitle": "RESEARCH METHODOLOGY",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Jan-2024",
+        "ResultDeclaredOn": "31-Jan-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "MCSE615L",
+        "CourseTitle": "Data Analytics",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "E",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "MCSE615P",
+        "CourseTitle": "Data Analytics Lab",
+        "CourseType": "Lab",
+        "Credits": "1.0",
+        "Grade": "E",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "28-May-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "ONL00157",
+        "CourseTitle": "Energy Resources, Economics, and Sustainability",
+        "CourseType": "ONL",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "21-Jun-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "RSS00950",
+        "CourseTitle": "MODELLING AND OPTIMIZATION OF ENERGY SYSTEMS",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "21-Jun-2024",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "14.0",
+        "CreditsEarned": "14.0",
+        "Cgpa": "7.71",
+        "SGrades": "0",
+        "AGrades": "2",
+        "BGrades": "2",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "2",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

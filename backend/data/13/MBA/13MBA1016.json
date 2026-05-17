@@ -1,0 +1,476 @@
+{
+  "student_information": {
+    "register_number": "13MBA1016",
+    "name": "CHAIRMAN RAJA A"
+  },
+  "tables": {
+    "grade_history_combined": [
+      {
+        "Slno": "1",
+        "CourseCode": "MBA606",
+        "CourseTitle": "Situational Analysis and Communication",
+        "CourseType": "Lab",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "Jan-2014",
+        "ResultDeclaredOn": "26-Feb-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "MBA610",
+        "CourseTitle": "Human Resource Management",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "Jan-2014",
+        "ResultDeclaredOn": "26-Feb-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "MBA622",
+        "CourseTitle": "Macro Economic Analysis for Management",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Jan-2014",
+        "ResultDeclaredOn": "26-Feb-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "MBA623",
+        "CourseTitle": "Financial Management - I",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "D",
+        "ExamMonth": "Jan-2014",
+        "ResultDeclaredOn": "26-Feb-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "MBA625",
+        "CourseTitle": "Marketing Management - Theory & Concepts",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "Jan-2014",
+        "ResultDeclaredOn": "26-Feb-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "MBA630",
+        "CourseTitle": "Business Research Methods",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Jan-2014",
+        "ResultDeclaredOn": "26-Feb-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "MBA941",
+        "CourseTitle": "Applied Operations Research",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Jan-2014",
+        "ResultDeclaredOn": "26-Feb-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "BMT5066",
+        "CourseTitle": "Neuro Marketing",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "Feb-2015",
+        "ResultDeclaredOn": "01-Apr-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "MBA724",
+        "CourseTitle": "E-Commerce",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Feb-2015",
+        "ResultDeclaredOn": "01-Apr-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "MBA749",
+        "CourseTitle": "Services Marketing",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Feb-2015",
+        "ResultDeclaredOn": "01-Apr-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "MBA750",
+        "CourseTitle": "Strategic Marketing",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Feb-2015",
+        "ResultDeclaredOn": "01-Apr-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "MBA751",
+        "CourseTitle": "Retailing",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Feb-2015",
+        "ResultDeclaredOn": "01-Apr-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "MBA758",
+        "CourseTitle": "Business to Business Marketing",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "Feb-2015",
+        "ResultDeclaredOn": "01-Apr-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "MBA931",
+        "CourseTitle": "Human Resource Planning, Recruitment and Selection",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Feb-2015",
+        "ResultDeclaredOn": "01-Apr-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "MBA945",
+        "CourseTitle": "Learning and Development",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Feb-2015",
+        "ResultDeclaredOn": "01-Apr-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "MBA626",
+        "CourseTitle": "International Business",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "F",
+        "ExamMonth": "Apr-2014",
+        "ResultDeclaredOn": "06-Jun-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "MBA626",
+        "CourseTitle": "International Business",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "D",
+        "ExamMonth": "Oct-2014",
+        "ResultDeclaredOn": "05-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "MBA628",
+        "CourseTitle": "Financial Management - II",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "D",
+        "ExamMonth": "Apr-2014",
+        "ResultDeclaredOn": "06-Jun-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "MBA629",
+        "CourseTitle": "Marketing Management - Programmes and Strategies",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2014",
+        "ResultDeclaredOn": "06-Jun-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "20",
+        "CourseCode": "MBA723",
+        "CourseTitle": "Supply Chain Management",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "D",
+        "ExamMonth": "Apr-2014",
+        "ResultDeclaredOn": "06-Jun-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "21",
+        "CourseCode": "MBA903",
+        "CourseTitle": "Macro Organizational Behaviour",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Apr-2014",
+        "ResultDeclaredOn": "06-Jun-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "22",
+        "CourseCode": "MBA942",
+        "CourseTitle": "Case Analysis and Structured Communication",
+        "CourseType": "Theory",
+        "Credits": "1.0",
+        "Grade": "S",
+        "ExamMonth": "Apr-2014",
+        "ResultDeclaredOn": "06-Jun-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "23",
+        "CourseCode": "MBA944",
+        "CourseTitle": "Commercial Law",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "Apr-2014",
+        "ResultDeclaredOn": "06-Jun-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "24",
+        "CourseCode": "MBA946",
+        "CourseTitle": "Corporate Governance and Ethics",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "Apr-2014",
+        "ResultDeclaredOn": "06-Jun-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "25",
+        "CourseCode": "MBA911",
+        "CourseTitle": "Sales and distribution Management",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2015",
+        "ResultDeclaredOn": "19-May-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "26",
+        "CourseCode": "MBA937",
+        "CourseTitle": "Career Management",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2015",
+        "ResultDeclaredOn": "19-May-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "27",
+        "CourseCode": "MBA603",
+        "CourseTitle": "Quantitative Techniques for Managerial Decisions",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Sep-2013",
+        "ResultDeclaredOn": "05-Nov-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "28",
+        "CourseCode": "MBA604",
+        "CourseTitle": "Accounting for Managers",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "Sep-2013",
+        "ResultDeclaredOn": "05-Nov-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "29",
+        "CourseCode": "MBA901",
+        "CourseTitle": "Fundamentals of Management",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Sep-2013",
+        "ResultDeclaredOn": "05-Nov-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "30",
+        "CourseCode": "MBA902",
+        "CourseTitle": "Micro Organizational Behaviour",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Sep-2013",
+        "ResultDeclaredOn": "05-Nov-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "31",
+        "CourseCode": "MBA904",
+        "CourseTitle": "Production and Operations Management",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "Sep-2013",
+        "ResultDeclaredOn": "05-Nov-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "32",
+        "CourseCode": "MBA940",
+        "CourseTitle": "Managerial Economics",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Sep-2013",
+        "ResultDeclaredOn": "05-Nov-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "33",
+        "CourseCode": "MBA943",
+        "CourseTitle": "Information System for Management",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Sep-2013",
+        "ResultDeclaredOn": "05-Nov-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "34",
+        "CourseCode": "BMT6010",
+        "CourseTitle": "Marketing Analytics",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Oct-2014",
+        "ResultDeclaredOn": "05-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "35",
+        "CourseCode": "MBA700",
+        "CourseTitle": "Project / Internship",
+        "CourseType": "Lab",
+        "Credits": "5.0",
+        "Grade": "P",
+        "ExamMonth": "Oct-2014",
+        "ResultDeclaredOn": "05-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "36",
+        "CourseCode": "MBA702",
+        "CourseTitle": "Entrepreneurship",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Oct-2014",
+        "ResultDeclaredOn": "05-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "37",
+        "CourseCode": "MBA746",
+        "CourseTitle": "Advertising & Promotion Management",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "Oct-2014",
+        "ResultDeclaredOn": "05-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "38",
+        "CourseCode": "MBA747",
+        "CourseTitle": "Brand Management",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Oct-2014",
+        "ResultDeclaredOn": "05-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "39",
+        "CourseCode": "MBA755",
+        "CourseTitle": "Consumer Behaviour",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Oct-2014",
+        "ResultDeclaredOn": "05-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "40",
+        "CourseCode": "MBA760",
+        "CourseTitle": "Leadership and Team Building",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Oct-2014",
+        "ResultDeclaredOn": "05-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "41",
+        "CourseCode": "MBA907",
+        "CourseTitle": "Strategy Formulation and Implementation",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "D",
+        "ExamMonth": "Oct-2014",
+        "ResultDeclaredOn": "05-Dec-2014",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "81.0",
+        "CreditsEarned": "81.0",
+        "Cgpa": "7.68",
+        "SGrades": "1",
+        "AGrades": "6",
+        "BGrades": "18",
+        "CGrades": "9",
+        "DGrades": "5",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

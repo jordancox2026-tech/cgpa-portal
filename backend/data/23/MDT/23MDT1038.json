@@ -1,0 +1,135 @@
+{
+  "student_information": {
+    "register_number": "23MDT1038",
+    "name": "SRINATH D"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "ENG5003",
+        "CourseTitle": "English for Science and Technology",
+        "CourseType": "LO",
+        "Credits": "2.0",
+        "Grade": "N3",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "05-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "MAT5010",
+        "CourseTitle": "Foundations of Data Science",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N3",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "25-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "MAT5011",
+        "CourseTitle": "Matrix Theory and Linear Algebra",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N3",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "MAT5012",
+        "CourseTitle": "Probability Theory and Distributions",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "L Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "MAT6012",
+        "CourseTitle": "Programming for Data Analysis",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "A N",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "RES5001",
+        "CourseTitle": "Research Methodology",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "N3",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "SET5001",
+        "CourseTitle": "Science, Engineering and Technology Project - I",
+        "CourseType": "PJT",
+        "Credits": "2.0",
+        "Grade": "I F",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "29-Dec-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "STS4001",
+        "CourseTitle": "Essentials of Business Etiquettes",
+        "CourseType": "SS",
+        "Credits": "C 1.0",
+        "Grade": "N3",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "05-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      }
+    ],
+    "o_basket_details": [
+      {
+        "BasketTitle": "English and Foreign Language",
+        "DistributionType": "UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "BasketTitle": "N Soft Skills",
+        "DistributionType": "UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "0.0"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "21.0",
+        "CreditsEarned": "0.0",
+        "Cgpa": "0.00",
+        "USGrades": "0",
+        "AGrades": "0",
+        "BGrades": "0",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "1",
+        "NGrades": "7"
+      }
+    ]
+  }
+}

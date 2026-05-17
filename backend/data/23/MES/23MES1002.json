@@ -1,0 +1,519 @@
+{
+  "student_information": {
+    "register_number": "23MES1002",
+    "name": "ISABEL AKSHAYA V"
+  },
+  "tables": {
+    "grade_history_combined": [
+      {
+        "Slno": "1",
+        "CourseCode": "MEDS501L",
+        "CourseTitle": "Embedded System Design",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "MEDS502L",
+        "CourseTitle": "Microcontroller Architecture and Organization",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N1",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "MEDS502L",
+        "CourseTitle": "Microcontroller Architecture and Organization",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "L Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "MEDS502P",
+        "CourseTitle": "Microcontroller Architecture and Organization Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "A B",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "05-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "MEDS503L",
+        "CourseTitle": "Embedded Programming",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N1",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "MEDS503L",
+        "CourseTitle": "Embedded Programming",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "MEDS503P",
+        "CourseTitle": "Embedded Programming Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "I B",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "05-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "MEDS506L",
+        "CourseTitle": "Wireless and Mobile Communication",
+        "CourseType": "TH",
+        "Credits": "C 3.0",
+        "Grade": "N1",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "MEDS506L",
+        "CourseTitle": "Wireless and Mobile Communication",
+        "CourseType": "TH",
+        "Credits": "I 3.0",
+        "Grade": "E",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "18-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "MEDS507L",
+        "CourseTitle": "Electronic Hardware System Design",
+        "CourseType": "TH",
+        "Credits": "F 2.0",
+        "Grade": "N1",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "MEDS507L",
+        "CourseTitle": "Electronic Hardware System Design",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "E",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "MEDS507P",
+        "CourseTitle": "Electronic Hardware System Design Lab",
+        "CourseType": "F LO",
+        "Credits": "1.0",
+        "Grade": "N1",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "05-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "MEDS507P",
+        "CourseTitle": "O Electronic Hardware System Design Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "C",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "03-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "MEDS603L",
+        "CourseTitle": "Design and Analysis of Algorithms",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N1",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "MEDS603L",
+        "CourseTitle": "N Design and Analysis of Algorithms",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "MEDS696J",
+        "CourseTitle": "Study Oriented Project",
+        "CourseType": "PJT",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "29-Dec-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PI"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "MENG501P",
+        "CourseTitle": "Technical Report Writing",
+        "CourseType": "LO",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "05-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "SE"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "MSTS501P",
+        "CourseTitle": "U Qualitative Skills Practice",
+        "CourseType": "SS",
+        "Credits": "1.5",
+        "Grade": "N1",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "05-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "SE"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "MSTS501P",
+        "CourseTitle": "Qualitative Skills Practice",
+        "CourseType": "SS",
+        "Credits": "1.5",
+        "Grade": "N1",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "01-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "SE"
+      },
+      {
+        "Slno": "20",
+        "CourseCode": "MSTS501P",
+        "CourseTitle": "Qualitative Skills Practice",
+        "CourseType": "SS",
+        "Credits": "1.5",
+        "Grade": "D",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "03-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "SE"
+      },
+      {
+        "Slno": "21",
+        "CourseCode": "MEDS504L",
+        "CourseTitle": "In Vehicle Networking",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N1",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "22",
+        "CourseCode": "MEDS504L",
+        "CourseTitle": "In Vehicle Networking",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "02-Jun-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "23",
+        "CourseCode": "MEDS505L",
+        "CourseTitle": "Real Time Operating System",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N1",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "24",
+        "CourseCode": "MEDS505L",
+        "CourseTitle": "Real Time Operating System",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N1",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "02-Jun-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "25",
+        "CourseCode": "MEDS505L",
+        "CourseTitle": "Real Time Operating System",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "Aug-2025",
+        "ResultDeclaredOn": "22-Aug-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "26",
+        "CourseCode": "MEDS505P",
+        "CourseTitle": "Real Time Operating System Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "28-May-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "27",
+        "CourseCode": "MEDS602L",
+        "CourseTitle": "Advanced Digital Image Processing",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N1",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "28",
+        "CourseCode": "MEDS608L",
+        "CourseTitle": "Intelligent IoT System Design and Architecture",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "E",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "29",
+        "CourseCode": "MEDS608P",
+        "CourseTitle": "Intelligent IoT System Design and Architecture Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "28-May-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "30",
+        "CourseCode": "MEDS616L",
+        "CourseTitle": "Machine Learning and Deep Learning",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N1",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "31",
+        "CourseCode": "MEDS697J",
+        "CourseTitle": "Design Project",
+        "CourseType": "PJT",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "01-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PI"
+      },
+      {
+        "Slno": "32",
+        "CourseCode": "MSTS502P",
+        "CourseTitle": "Quantitative Skills Practice",
+        "CourseType": "SS",
+        "Credits": "1.5",
+        "Grade": "E",
+        "ExamMonth": "L May-2024",
+        "ResultDeclaredOn": "28-May-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "SE"
+      },
+      {
+        "Slno": "33",
+        "CourseCode": "MSTS601L",
+        "CourseTitle": "Advanced Competitive Coding",
+        "CourseType": "SS",
+        "Credits": "3.0",
+        "Grade": "A E",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "01-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "OE"
+      },
+      {
+        "Slno": "34",
+        "CourseCode": "MEDS698J",
+        "CourseTitle": "Internship I/ Dissertation I",
+        "CourseType": "PJT",
+        "Credits": "10.0",
+        "Grade": "A",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "03-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PI"
+      },
+      {
+        "Slno": "35",
+        "CourseCode": "MEDS606L",
+        "CourseTitle": "Modern Automotive Electronics Systems",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "I E",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "02-Jun-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "36",
+        "CourseCode": "MEDS609L",
+        "CourseTitle": "Fault Tolerance and Dependable Systems",
+        "CourseType": "TH",
+        "Credits": "C 3.0",
+        "Grade": "E",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "02-Jun-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "37",
+        "CourseCode": "MEDS699J",
+        "CourseTitle": "Internship II/ Dissertation II",
+        "CourseType": "PJT",
+        "Credits": "12.0",
+        "Grade": "C",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "12-May-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PI"
+      }
+    ],
+    "course_change_history": [
+      {
+        "CourseCode": "MEDS606L",
+        "CourseTitle": "Modern Automotive Electronics Systems",
+        "ExamMonth": "O Apr-2025",
+        "PreviousCode": "MEDS602L",
+        "PreviousTitle": "Advanced Digital Image Processing",
+        "ChangeType": "Course Substitution"
+      },
+      {
+        "CourseCode": "MEDS609L",
+        "CourseTitle": "Fault Tolerance and Dependable Systems",
+        "ExamMonth": "Apr-2025",
+        "PreviousCode": "MEDS616L",
+        "PreviousTitle": "Machine Learning and Deep Learning",
+        "ChangeType": "Course Substitution"
+      }
+    ],
+    "curriculum_details": [
+      {
+        "UCurriculumDistributionType": "Discipline Core",
+        "CreditsRequired": "24.0",
+        "CreditsEarned": "24.0"
+      },
+      {
+        "UCurriculumDistributionType": "Discipline Elective",
+        "CreditsRequired": "12.0",
+        "CreditsEarned": "12.0"
+      },
+      {
+        "UCurriculumDistributionType": "Projects and Internship",
+        "CreditsRequired": "26.0",
+        "CreditsEarned": "26.0"
+      },
+      {
+        "UCurriculumDistributionType": "Open Elective",
+        "CreditsRequired": "3.0",
+        "CreditsEarned": "3.0"
+      },
+      {
+        "UCurriculumDistributionType": "Skill Enhancement",
+        "CreditsRequired": "5.0",
+        "CreditsEarned": "5.0"
+      },
+      {
+        "UCurriculumDistributionType": "Total Credits",
+        "CreditsRequired": "70.0",
+        "CreditsEarned": "70.0"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "70.0",
+        "CreditsEarned": "70.0",
+        "Cgpa": "6.52",
+        "SGrades": "0",
+        "AGrades": "1",
+        "BGrades": "4",
+        "CGrades": "6",
+        "DGrades": "4",
+        "EGrades": "9",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

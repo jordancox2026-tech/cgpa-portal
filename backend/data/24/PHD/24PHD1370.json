@@ -1,0 +1,47 @@
+{
+  "student_information": {
+    "register_number": "24PHD1370",
+    "name": "VASANTHI I"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "RSS01477",
+        "CourseTitle": "ESSENTIAL MATHEMATICS FOR MACHINE LEARNING",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "19-Dec-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RSS01478",
+        "CourseTitle": "DIGITAL IMAGE PROCESSING",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "19-Dec-2025",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "6.0",
+        "CreditsEarned": "6.0",
+        "Cgpa": "9.50",
+        "SGrades": "1",
+        "AGrades": "1",
+        "BGrades": "0",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

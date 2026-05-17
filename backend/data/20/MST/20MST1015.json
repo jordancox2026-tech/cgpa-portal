@@ -1,0 +1,306 @@
+{
+  "student_information": {
+    "register_number": "20MST1015",
+    "name": "LAXMI M RAMDAS"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "CLE5001",
+        "CourseTitle": "Theory of Elasticity and Plasticity",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "CLE5002",
+        "CourseTitle": "Design of Concrete Structural Systems",
+        "CourseType": "ETP",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "CLE5003",
+        "CourseTitle": "Structural Dynamics",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "CLE6001",
+        "CourseTitle": "Advanced Concrete Mater ials and Technology",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "L Feb-2021",
+        "ResultDeclaredOn": "26-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "FRE5001",
+        "CourseTitle": "Francais fonctionnel",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "D",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "MAT5005",
+        "CourseTitle": "Advanced Mathematical Methods",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A B",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "SET5001",
+        "CourseTitle": "Science, Engineering and Technology Project - I",
+        "CourseType": "PJT",
+        "Credits": "2.0",
+        "Grade": "I B",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "29-Jun-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "STS5001",
+        "CourseTitle": "Essentials of Business Etiquettes",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "C",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "CLE5012",
+        "CourseTitle": "Design of Bridges",
+        "CourseType": "ETP",
+        "Credits": "C 3.0",
+        "Grade": "B",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "21-Jul-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "CLE6002",
+        "CourseTitle": "Advanced Foundation Design",
+        "CourseType": "TH",
+        "Credits": "I 3.0",
+        "Grade": "B",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "21-Jul-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "CLE6004",
+        "CourseTitle": "Repair and Rehabilitation of Structures",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "21-Jul-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "CLE6014",
+        "CourseTitle": "Finite Element Analysis",
+        "CourseType": "ETL",
+        "Credits": "F 4.0",
+        "Grade": "A",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "21-Jul-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "CLE6015",
+        "CourseTitle": "Advanced Design of Steel Structures",
+        "CourseType": "F ETP",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "21-Jul-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "CLE6016",
+        "CourseTitle": "Pre-stressed Concrete Structures",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "21-Jul-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "CLE6017",
+        "CourseTitle": "O Earthquake Resistant Design",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "21-Jul-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "SET5002",
+        "CourseTitle": "Science, Engineering and Technology Project - II",
+        "CourseType": "PJT",
+        "Credits": "2.0",
+        "Grade": "S",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "22-Jul-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "STS5002",
+        "CourseTitle": "N Preparing for Industry",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "C",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "21-Jul-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "CLE6020",
+        "CourseTitle": "Analysis and Design of Tall Structures",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Aug-2021",
+        "ResultDeclaredOn": "09-Sep-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "CLE6022",
+        "CourseTitle": "U Urban Planning and Sustainability",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Aug-2021",
+        "ResultDeclaredOn": "05-Sep-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "20",
+        "CourseCode": "CLE6099",
+        "CourseTitle": "Masters Thesis",
+        "CourseType": "PJT",
+        "Credits": "16.0",
+        "Grade": "B",
+        "ExamMonth": "Jun-2022",
+        "ResultDeclaredOn": "11-Jul-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      }
+    ],
+    "curriculum_details": [
+      {
+        "CurriculumDistributionType": "Programme Core",
+        "CreditsRequired": "19.0",
+        "CreditsEarned": "19.0"
+      },
+      {
+        "CurriculumDistributionType": "Programme Elective",
+        "CreditsRequired": "18.0",
+        "CreditsEarned": "24.0"
+      },
+      {
+        "CurriculumDistributionType": "University Core",
+        "CreditsRequired": "27.0",
+        "CreditsEarned": "27.0"
+      },
+      {
+        "CurriculumDistributionType": "University Elective",
+        "CreditsRequired": "6.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Total Credits",
+        "CreditsRequired": "70.0",
+        "CreditsEarned": "70.0"
+      }
+    ],
+    "basket_details": [
+      {
+        "BasketTitle": "Soft Skills",
+        "DistributionType": "UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "2.0"
+      },
+      {
+        "BasketTitle": "English and Foreign Language",
+        "DistributionType": "UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "2.0"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "70.0",
+        "CreditsEarned": "70.0",
+        "Cgpa": "8.16",
+        "SGrades": "2",
+        "AGrades": "2",
+        "BGrades": "13",
+        "CGrades": "L 2",
+        "DGrades": "1",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

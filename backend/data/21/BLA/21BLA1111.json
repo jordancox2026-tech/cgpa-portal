@@ -1,0 +1,300 @@
+{
+  "student_information": {
+    "register_number": "21BLA1111",
+    "name": "RAVEENA L"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "ESP1001",
+        "CourseTitle": "ESPANOL FUNDAMENTAL",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "S",
+        "ExamMonth": "Jan-2022",
+        "ResultDeclaredOn": "22-Feb-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "LAW1101",
+        "CourseTitle": "Introduction to Law and Legal methods",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "S",
+        "ExamMonth": "Jan-2022",
+        "ResultDeclaredOn": "22-Feb-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "LAW1111",
+        "CourseTitle": "General English",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Jan-2022",
+        "ResultDeclaredOn": "22-Feb-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "LAW1208",
+        "CourseTitle": "Political Theory",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "L Jan-2022",
+        "ResultDeclaredOn": "22-Feb-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "LAW1209",
+        "CourseTitle": "Micro Economics",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Jan-2022",
+        "ResultDeclaredOn": "22-Feb-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "LAW1210",
+        "CourseTitle": "Essentials of Sociology",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "S",
+        "ExamMonth": "Jan-2022",
+        "ResultDeclaredOn": "22-Feb-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "LAW1214",
+        "CourseTitle": "Colonialism in India",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "A A",
+        "ExamMonth": "Jan-2022",
+        "ResultDeclaredOn": "22-Feb-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "LAW1117",
+        "CourseTitle": "Environmental Science",
+        "CourseType": "ETP",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Jun-2022",
+        "ResultDeclaredOn": "25-Jul-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "LAW1216",
+        "CourseTitle": "Social Process and Social Change",
+        "CourseType": "ETP",
+        "Credits": "4.0",
+        "Grade": "I A",
+        "ExamMonth": "Jun-2022",
+        "ResultDeclaredOn": "25-Jul-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "LAW2101",
+        "CourseTitle": "Law of Torts, Consumer Protection and Motor Vehicles Act",
+        "CourseType": "TH",
+        "Credits": "C 4.0",
+        "Grade": "A",
+        "ExamMonth": "Jun-2022",
+        "ResultDeclaredOn": "25-Jul-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "LAW2102",
+        "CourseTitle": "Law of Contracts",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Jun-2022",
+        "ResultDeclaredOn": "25-Jul-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "LAW2104",
+        "CourseTitle": "English for Lawyers",
+        "CourseType": "ETP",
+        "Credits": "I 4.0",
+        "Grade": "A",
+        "ExamMonth": "Jun-2022",
+        "ResultDeclaredOn": "25-Jul-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "LAW2205",
+        "CourseTitle": "Principles of Modern Government",
+        "CourseType": "TH",
+        "Credits": "F 4.0",
+        "Grade": "A",
+        "ExamMonth": "Jun-2022",
+        "ResultDeclaredOn": "25-Jul-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "LAW2206",
+        "CourseTitle": "Macro Economics",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Jun-2022",
+        "ResultDeclaredOn": "25-Jul-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "LAW1223",
+        "CourseTitle": "Public Finance Theories and Practice",
+        "CourseType": "F TH",
+        "Credits": "4.0",
+        "Grade": "N3",
+        "ExamMonth": "Nov-2022",
+        "ResultDeclaredOn": "10-Jan-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "LAW2207",
+        "CourseTitle": "Law and Social Transformation",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "N3",
+        "ExamMonth": "Nov-2022",
+        "ResultDeclaredOn": "10-Jan-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "LAW3101",
+        "CourseTitle": "O Special Contracts",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "N3",
+        "ExamMonth": "Nov-2022",
+        "ResultDeclaredOn": "10-Jan-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "LAW3102",
+        "CourseTitle": "Law of Crimes- I",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "N3",
+        "ExamMonth": "Nov-2022",
+        "ResultDeclaredOn": "10-Jan-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "LAW3205",
+        "CourseTitle": "N Political Thought: Indian and Western",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "N3",
+        "ExamMonth": "Nov-2022",
+        "ResultDeclaredOn": "10-Jan-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "20",
+        "CourseCode": "LAW6115",
+        "CourseTitle": "Indian legal system",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "N3",
+        "ExamMonth": "Nov-2022",
+        "ResultDeclaredOn": "10-Jan-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UE"
+      }
+    ],
+    "curriculum_details": [
+      {
+        "CurriculumDistributionType": "Programme Core",
+        "CreditsRequired": "112.0",
+        "CreditsEarned": "24.0"
+      },
+      {
+        "CurriculumDistributionType": "Programme Elective",
+        "CreditsRequired": "56.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "University Core",
+        "CreditsRequired": "66.0",
+        "CreditsEarned": "30.0"
+      },
+      {
+        "CurriculumDistributionType": "University Elective",
+        "CreditsRequired": "12.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Total Credits",
+        "CreditsRequired": "246.0",
+        "CreditsEarned": "54.0"
+      }
+    ],
+    "basket_details": [
+      {
+        "BasketTitle": "FOREIGN LANGUAGE",
+        "DistributionType": "UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "2.0"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "78.0",
+        "CreditsEarned": "54.0",
+        "Cgpa": "6.26",
+        "SGrades": "3",
+        "AGrades": "9",
+        "BGrades": "2",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "6"
+      }
+    ]
+  }
+}

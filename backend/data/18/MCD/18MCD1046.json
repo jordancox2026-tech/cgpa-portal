@@ -1,0 +1,325 @@
+{
+  "student_information": {
+    "register_number": "18MCD1046",
+    "name": "SANIKOMMU NAGARJUNA REDDY"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "ENG5001",
+        "CourseTitle": "Fundamentals of Communication Skills",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "MAT5005",
+        "CourseTitle": "Advanced Mathematical Methods",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "MEE5013",
+        "CourseTitle": "Advanced Mechanics of Solids",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "MEE5014",
+        "CourseTitle": "Computer Graphics and Geometric Modelling",
+        "CourseType": "ETL",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "L Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "MEE5015",
+        "CourseTitle": "Finite Element Methods",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "MEE5022",
+        "CourseTitle": "Applied Materials Engineering",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A B",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "MEE5023",
+        "CourseTitle": "Design for Manufacture and Assembly",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "I B",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "MEE5024",
+        "CourseTitle": "Advanced Manufacturing Technology",
+        "CourseType": "ETP",
+        "Credits": "C 3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "SET5001",
+        "CourseTitle": "Science, Engineering and Technology Project - I",
+        "CourseType": "PJT",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "21-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "STS5001",
+        "CourseTitle": "Essentials of Business Etiquettes",
+        "CourseType": "SS",
+        "Credits": "I 1.0",
+        "Grade": "E",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "ENG5002",
+        "CourseTitle": "Professional and Communication Skills",
+        "CourseType": "LO",
+        "Credits": "F 1.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "15-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "MEE5016",
+        "CourseTitle": "Integrated Manufacturing Systems",
+        "CourseType": "F ETL",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "15-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "MEE5017",
+        "CourseTitle": "Advanced Vibration Engineering",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "15-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "MEE6012",
+        "CourseTitle": "O Design and Analysis of Experiments",
+        "CourseType": "ETP",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "15-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "MEE6031",
+        "CourseTitle": "Computational Fluid Dynamics",
+        "CourseType": "ETL",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "15-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "MEE6033",
+        "CourseTitle": "N Product Design and Life Cycle Management",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "15-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "MEE6034",
+        "CourseTitle": "Fracture Mechanics",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "15-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "SET5002",
+        "CourseTitle": "U Science, Engineering and Technology Project - II",
+        "CourseType": "PJT",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "22-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "STS5002",
+        "CourseTitle": "Preparing for Industry",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "C",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "17-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "20",
+        "CourseCode": "MEE6015",
+        "CourseTitle": "Additive Manufacturing Technology",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jun-2019",
+        "ResultDeclaredOn": "12-Jun-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "21",
+        "CourseCode": "MEE6024",
+        "CourseTitle": "Vehicle Aerodynamics",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jun-2019",
+        "ResultDeclaredOn": "12-Jun-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "22",
+        "CourseCode": "MEE6099",
+        "CourseTitle": "Masters Thesis",
+        "CourseType": "PJT",
+        "Credits": "16.0",
+        "Grade": "S",
+        "ExamMonth": "Jun-2020",
+        "ResultDeclaredOn": "13-Jun-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      }
+    ],
+    "curriculum_details": [
+      {
+        "CurriculumDistributionType": "Programme Core",
+        "CreditsRequired": "19.0",
+        "CreditsEarned": "19.0"
+      },
+      {
+        "CurriculumDistributionType": "Programme Elective",
+        "CreditsRequired": "18.0",
+        "CreditsEarned": "25.0"
+      }
+    ],
+    "curriculum_details_1": [
+      {
+        "UniversityCore": "University Elective",
+        "270": "0.0"
+      },
+      {
+        "UniversityCore": "Total Credits",
+        "270": "71.0"
+      }
+    ],
+    "basket_details": [
+      {
+        "BasketTitle": "Soft Skills",
+        "DistributionType": "UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "2.0"
+      },
+      {
+        "BasketTitle": "English and Foreign Language",
+        "DistributionType": "UC",
+        "CreditsRequired": "L 2.0",
+        "CreditsEarned": "0.0"
+      }
+    ],
+    "a_cgpa_details": [
+      {
+        "CreditsRegistered": "71.0",
+        "CreditsEarned": "71.0",
+        "Cgpa": "8.79",
+        "SGrades": "2",
+        "AGrades": "8",
+        "BGrades": "10",
+        "CGrades": "I 1",
+        "DGrades": "0",
+        "EGrades": "1",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

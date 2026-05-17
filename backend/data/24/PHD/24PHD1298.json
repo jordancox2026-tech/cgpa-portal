@@ -1,0 +1,58 @@
+{
+  "student_information": {
+    "register_number": "24PHD1298",
+    "name": "PREM KUMAR P"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "06RCH501",
+        "CourseTitle": "Applications of Advanced Instruments",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "PHYR705",
+        "CourseTitle": "Materials Science and Characterization",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "RSS01657",
+        "CourseTitle": "PHOTO PHYSICS OF QUANTUM DOTS, CARBON DOTS, AND ORGANIC FLUOROPHORES",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "19-Dec-2025",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "9.0",
+        "CreditsEarned": "6.0",
+        "Cgpa": "5.00",
+        "SGrades": "0",
+        "AGrades": "0",
+        "BGrades": "1",
+        "CGrades": "1",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "1"
+      }
+    ]
+  }
+}

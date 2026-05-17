@@ -1,0 +1,124 @@
+{
+  "student_information": {
+    "register_number": "22PHD1283",
+    "name": "NOORA SHIRIN K K"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "RMC705",
+        "CourseTitle": "RESEARCH METHODOLOGY",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Jan-2024",
+        "ResultDeclaredOn": "02-Feb-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RMC705",
+        "CourseTitle": "RESEARCH METHODOLOGY",
+        "CourseType": "RM",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Jan-2024",
+        "ResultDeclaredOn": "31-Jan-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "RSS00624",
+        "CourseTitle": "ENGLISH LANGUAGE TEACHING",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jan-2024",
+        "ResultDeclaredOn": "02-Feb-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "RSS00624",
+        "CourseTitle": "ENGLISH LANGUAGE TEACHING",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jan-2024",
+        "ResultDeclaredOn": "31-Jan-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "RSS00625",
+        "CourseTitle": "AN INTRODUCTION TO TECHNOLOGY ENHANCED LANGUAGE LEARNING",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jan-2024",
+        "ResultDeclaredOn": "02-Feb-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "RSS00625",
+        "CourseTitle": "AN INTRODUCTION TO TECHNOLOGY ENHANCED LANGUAGE LEARNING",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jan-2024",
+        "ResultDeclaredOn": "31-Jan-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "STC025",
+        "CourseTitle": "LITERARY, LINGUISTIC AND LANGUAGE TEACHING THEORIES",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jan-2024",
+        "ResultDeclaredOn": "02-Feb-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "STC025",
+        "CourseTitle": "LITERARY, LINGUISTIC AND LANGUAGE TEACHING THEORIES",
+        "CourseType": "RMC",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jan-2024",
+        "ResultDeclaredOn": "31-Jan-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "RMC0001",
+        "CourseTitle": "Research and Publication Ethics-SSL",
+        "CourseType": "Regular",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Jul-2023",
+        "ResultDeclaredOn": "31-Jul-2023",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "29.0",
+        "CreditsEarned": "29.0",
+        "Cgpa": "8.62",
+        "SGrades": "0",
+        "AGrades": "6",
+        "BGrades": "3",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

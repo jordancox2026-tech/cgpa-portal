@@ -1,0 +1,80 @@
+{
+  "student_information": {
+    "register_number": "23PHD1156",
+    "name": "Not found"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "RMC0001",
+        "CourseTitle": "RESEARCH AND PUBLICATION ETHICS",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Jan-2024",
+        "ResultDeclaredOn": "31-Jan-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RMC701",
+        "CourseTitle": "RESEARCH METHODOLOGY",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jan-2024",
+        "ResultDeclaredOn": "31-Jan-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "RSS01085",
+        "CourseTitle": "DISTRIBUTED LEDGER TECHNOLOGY AND SMART CONTRACTS",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jan-2025",
+        "ResultDeclaredOn": "13-Jan-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "RSS01086",
+        "CourseTitle": "INTELLIGENT SECURITY MANAGEMENT AND DIGITAL TRUST",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jan-2025",
+        "ResultDeclaredOn": "13-Jan-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "MCSE601L",
+        "CourseTitle": "Artificial Intelligence",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "15.0",
+        "CreditsEarned": "15.0",
+        "Cgpa": "9.00",
+        "SGrades": "1",
+        "AGrades": "3",
+        "BGrades": "1",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

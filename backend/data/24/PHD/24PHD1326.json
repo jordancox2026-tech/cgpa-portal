@@ -1,0 +1,47 @@
+{
+  "student_information": {
+    "register_number": "24PHD1326",
+    "name": "RAJITHA R"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "RSS01729",
+        "CourseTitle": "DYNAMICAL SYSTEMS AND CHAOS",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "19-Dec-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RSS01730",
+        "CourseTitle": "NONLINEAR DYNAMICS IN ECOLOGY AND EPIDEMIOLOGY",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "19-Dec-2025",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "6.0",
+        "CreditsEarned": "6.0",
+        "Cgpa": "8.50",
+        "SGrades": "0",
+        "AGrades": "1",
+        "BGrades": "1",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

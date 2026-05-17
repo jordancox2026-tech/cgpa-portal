@@ -1,0 +1,234 @@
+{
+  "student_information": {
+    "register_number": "13MCS1009",
+    "name": "BHALERAO SHIVHAR KESHAVRAO"
+  },
+  "tables": {
+    "grade_history_combined": [
+      {
+        "Slno": "1",
+        "CourseCode": "CSE502",
+        "CourseTitle": "Advanced Software Engineering",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2014",
+        "ResultDeclaredOn": "19-Jun-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "CSE504",
+        "CourseTitle": "Advanced Computer Graphics",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "May-2014",
+        "ResultDeclaredOn": "19-Jun-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "CSE510",
+        "CourseTitle": "Distributed Systems",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "May-2014",
+        "ResultDeclaredOn": "19-Jun-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "CSE511",
+        "CourseTitle": "Advanced Computer Networks",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "May-2014",
+        "ResultDeclaredOn": "19-Jun-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "CSE530",
+        "CourseTitle": "High Performance Computer Systems",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2014",
+        "ResultDeclaredOn": "19-Jun-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "CSE533",
+        "CourseTitle": "Computational Intelligence",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "May-2014",
+        "ResultDeclaredOn": "19-Jun-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "CSE610",
+        "CourseTitle": "Big Data Essentials",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "May-2014",
+        "ResultDeclaredOn": "19-Jun-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "ENG601",
+        "CourseTitle": "Professional and Communication Skills",
+        "CourseType": "TheoryLab",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "May-2014",
+        "ResultDeclaredOn": "19-Jun-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "CSE699",
+        "CourseTitle": "Masters Thesis",
+        "CourseType": "Lab",
+        "Credits": "20.0",
+        "Grade": "A",
+        "ExamMonth": "May-2015",
+        "ResultDeclaredOn": "20-May-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "CSE503",
+        "CourseTitle": "Advanced Algorithmic Analysis",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2013",
+        "ResultDeclaredOn": "08-Jan-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "CSE507",
+        "CourseTitle": "Advanced Computer Architecture",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2013",
+        "ResultDeclaredOn": "08-Jan-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "CSE509",
+        "CourseTitle": "Advanced Operating Systems",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2013",
+        "ResultDeclaredOn": "08-Jan-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "CSE515",
+        "CourseTitle": "Advanced Database Systems",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2013",
+        "ResultDeclaredOn": "08-Jan-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "ENG002",
+        "CourseTitle": "Fundamentals of Communication Skills",
+        "CourseType": "TheoryLab",
+        "Credits": "2.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2013",
+        "ResultDeclaredOn": "08-Jan-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "MAT503",
+        "CourseTitle": "Higher Mathematics",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2013",
+        "ResultDeclaredOn": "08-Jan-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "CSE506",
+        "CourseTitle": "Web Services",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2014",
+        "ResultDeclaredOn": "15-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "CSE528",
+        "CourseTitle": "Natural Language Processing",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2014",
+        "ResultDeclaredOn": "15-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "CSE535",
+        "CourseTitle": "Cloud Based Computing",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2014",
+        "ResultDeclaredOn": "15-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "1",
+        "CourseCode": "ENG603",
+        "CourseTitle": "Professional and Communication Skills -",
+        "CourseType": "Lab",
+        "Credits": "1.0",
+        "Grade": "U",
+        "ExamMonth": "Nov-2014",
+        "ResultDeclaredOn": "15-Dec-2014",
+        "CourseOption": "Audit"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "78.0",
+        "CreditsEarned": "78.0",
+        "Cgpa": "7.81",
+        "SGrades": "0",
+        "AGrades": "1",
+        "BGrades": "9",
+        "CGrades": "5",
+        "DGrades": "2",
+        "EGrades": "1",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

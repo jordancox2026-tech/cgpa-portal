@@ -1,0 +1,123 @@
+{
+  "student_information": {
+    "register_number": "21BLA1072",
+    "name": "RAGAVENDRA S P"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "ESP1001",
+        "CourseTitle": "ESPANOL FUNDAMENTAL",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "N2",
+        "ExamMonth": "Jan-2022",
+        "ResultDeclaredOn": "22-Feb-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "LAW1101",
+        "CourseTitle": "Introduction to Law and Legal methods",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "N2",
+        "ExamMonth": "Jan-2022",
+        "ResultDeclaredOn": "22-Feb-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "LAW1111",
+        "CourseTitle": "General English",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "N2",
+        "ExamMonth": "Jan-2022",
+        "ResultDeclaredOn": "22-Feb-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "LAW1208",
+        "CourseTitle": "Political Theory",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "N2",
+        "ExamMonth": "L Jan-2022",
+        "ResultDeclaredOn": "22-Feb-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "LAW1209",
+        "CourseTitle": "Micro Economics",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "N2",
+        "ExamMonth": "Jan-2022",
+        "ResultDeclaredOn": "22-Feb-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "LAW1210",
+        "CourseTitle": "Essentials of Sociology",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "N2",
+        "ExamMonth": "Jan-2022",
+        "ResultDeclaredOn": "22-Feb-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "LAW1214",
+        "CourseTitle": "Colonialism in India",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "A N2",
+        "ExamMonth": "Jan-2022",
+        "ResultDeclaredOn": "22-Feb-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      }
+    ],
+    "f_basket_details": [
+      {
+        "BasketTitle": "FOREIGN LANGUAGE",
+        "DistributionType": "F UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "BasketTitle": "Co-Extra Curricular Basket",
+        "DistributionType": "UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "0.0"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "26.0",
+        "CreditsEarned": "0.0",
+        "Cgpa": "0.00",
+        "SGrades": "N 0",
+        "AGrades": "0",
+        "BGrades": "0",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "7"
+      }
+    ]
+  }
+}

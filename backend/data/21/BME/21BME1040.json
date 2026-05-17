@@ -1,0 +1,975 @@
+{
+  "student_information": {
+    "register_number": "21BME1040",
+    "name": "SANTOSH KRISHNA S"
+  },
+  "tables": {
+    "grade_history_combined": [
+      {
+        "Slno": "1",
+        "CourseCode": "BCSE101E",
+        "CourseTitle": "Computer Programming: Python",
+        "CourseType": "ETL",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Jan-2022",
+        "ResultDeclaredOn": "22-Feb-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBES"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "BECE101L",
+        "CourseTitle": "Basic Electronics",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "Jan-2022",
+        "ResultDeclaredOn": "22-Feb-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBES"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "BECE101P",
+        "CourseTitle": "Basic Electronics Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "Jan-2022",
+        "ResultDeclaredOn": "22-Feb-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBES"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "BENG101L",
+        "CourseTitle": "Technical English Communication",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "N1",
+        "ExamMonth": "L Jan-2022",
+        "ResultDeclaredOn": "22-Feb-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCHSS M"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "BENG101P",
+        "CourseTitle": "Technical English Communication Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "N1",
+        "ExamMonth": "Jan-2022",
+        "ResultDeclaredOn": "22-Feb-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCHSS M"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "BMAT101L",
+        "CourseTitle": "Calculus",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A N1",
+        "ExamMonth": "Jan-2022",
+        "ResultDeclaredOn": "22-Feb-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "BMAT101P",
+        "CourseTitle": "Calculus Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "I N1",
+        "ExamMonth": "Jan-2022",
+        "ResultDeclaredOn": "22-Feb-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "BMEE101N",
+        "CourseTitle": "Introduction to Engineering",
+        "CourseType": "PJT",
+        "Credits": "1.0",
+        "Grade": "P",
+        "ExamMonth": "Jan-2022",
+        "ResultDeclaredOn": "22-Feb-2022",
+        "CourseOption": "NCPF",
+        "CourseDistribUtion": "NGCR"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "BMEE102P",
+        "CourseTitle": "Engineering Design Visualisation Lab",
+        "CourseType": "LO",
+        "Credits": "C 2.0",
+        "Grade": "A",
+        "ExamMonth": "Jan-2022",
+        "ResultDeclaredOn": "22-Feb-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBES"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "BPHY101L",
+        "CourseTitle": "Engineering Physics",
+        "CourseType": "TH",
+        "Credits": "I 3.0",
+        "Grade": "N1",
+        "ExamMonth": "Jan-2022",
+        "ResultDeclaredOn": "22-Feb-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "BPHY101L",
+        "CourseTitle": "Engineering Physics",
+        "CourseType": "TH",
+        "Credits": "F 3.0",
+        "Grade": "N2",
+        "ExamMonth": "Jul-2024",
+        "ResultDeclaredOn": "26-Jul-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "BPHY101P",
+        "CourseTitle": "Engineering Physics Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "E",
+        "ExamMonth": "Jan-2022",
+        "ResultDeclaredOn": "22-Feb-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "BSTS101P",
+        "CourseTitle": "Quantitative Skills Practice I",
+        "CourseType": "F LO",
+        "Credits": "1.5",
+        "Grade": "D",
+        "ExamMonth": "Jan-2022",
+        "ResultDeclaredOn": "22-Feb-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCHSS M"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "BCHY101L",
+        "CourseTitle": "O Engineering Chemistry",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N1",
+        "ExamMonth": "Jun-2022",
+        "ResultDeclaredOn": "25-Jul-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "BCHY101L",
+        "CourseTitle": "Engineering Chemistry",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N2",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "02-Jun-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "BCHY101P",
+        "CourseTitle": "N Engineering Chemistry Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "Jun-2022",
+        "ResultDeclaredOn": "25-Jul-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "BCSE103E",
+        "CourseTitle": "Computer Programming: Java",
+        "CourseType": "ETL",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "Jun-2022",
+        "ResultDeclaredOn": "25-Jul-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBES"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "BEEE101L",
+        "CourseTitle": "U Basic Electrical Engineering",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "N1",
+        "ExamMonth": "Jun-2022",
+        "ResultDeclaredOn": "25-Jul-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBES"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "BEEE101L",
+        "CourseTitle": "Basic Electrical Engineering",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "Apr-2023",
+        "ResultDeclaredOn": "24-May-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBES"
+      },
+      {
+        "Slno": "20",
+        "CourseCode": "BEEE101P",
+        "CourseTitle": "Basic Electrical Engineering Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "C",
+        "ExamMonth": "Jun-2022",
+        "ResultDeclaredOn": "25-Jul-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBES"
+      },
+      {
+        "Slno": "21",
+        "CourseCode": "BHUM101N",
+        "CourseTitle": "Ethics and Values",
+        "CourseType": "OC",
+        "Credits": "2.0",
+        "Grade": "P",
+        "ExamMonth": "Jun-2022",
+        "ResultDeclaredOn": "25-Jul-2022",
+        "CourseOption": "NCPF",
+        "CourseDistribUtion": "NGCR"
+      },
+      {
+        "Slno": "22",
+        "CourseCode": "BMAT102L",
+        "CourseTitle": "Differential Equations and Transforms",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "N1",
+        "ExamMonth": "Jun-2022",
+        "ResultDeclaredOn": "25-Jul-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "23",
+        "CourseCode": "BMEE201L",
+        "CourseTitle": "Engineering Mechanics",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N1",
+        "ExamMonth": "Jun-2022",
+        "ResultDeclaredOn": "25-Jul-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBES"
+      },
+      {
+        "Slno": "24",
+        "CourseCode": "BMEE201L",
+        "CourseTitle": "Engineering Mechanics",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N2",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "02-Jun-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBES"
+      },
+      {
+        "Slno": "25",
+        "CourseCode": "BSTS102P",
+        "CourseTitle": "Quantitative Skills Practice II",
+        "CourseType": "SS",
+        "Credits": "1.5",
+        "Grade": "D",
+        "ExamMonth": "Jun-2022",
+        "ResultDeclaredOn": "25-Jul-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCHSS M"
+      },
+      {
+        "Slno": "26",
+        "CourseCode": "BCHY102N",
+        "CourseTitle": "Environmental Sciences",
+        "CourseType": "OC",
+        "Credits": "2.0",
+        "Grade": "P",
+        "ExamMonth": "Nov-2022",
+        "ResultDeclaredOn": "10-Jan-2023",
+        "CourseOption": "NCPF",
+        "CourseDistribUtion": "NGCR"
+      },
+      {
+        "Slno": "27",
+        "CourseCode": "BMAT201L",
+        "CourseTitle": "Complex Variables and Linear Algebra",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "N2",
+        "ExamMonth": "Nov-2022",
+        "ResultDeclaredOn": "10-Jan-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "28",
+        "CourseCode": "BMEE202L",
+        "CourseTitle": "Mechanics of Solids",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N1",
+        "ExamMonth": "Nov-2022",
+        "ResultDeclaredOn": "10-Jan-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "29",
+        "CourseCode": "BMEE202P",
+        "CourseTitle": "Mechanics of Solids Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "N2",
+        "ExamMonth": "Nov-2022",
+        "ResultDeclaredOn": "10-Jan-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "30",
+        "CourseCode": "BMEE203L",
+        "CourseTitle": "Engineering Thermodynamics",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N2",
+        "ExamMonth": "Nov-2022",
+        "ResultDeclaredOn": "10-Jan-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "31",
+        "CourseCode": "BMEE206P",
+        "CourseTitle": "Machine Drawing Lab",
+        "CourseType": "LO",
+        "Credits": "2.0",
+        "Grade": "N2",
+        "ExamMonth": "Nov-2022",
+        "ResultDeclaredOn": "10-Jan-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "32",
+        "CourseCode": "BMEE206P",
+        "CourseTitle": "Machine Drawing Lab",
+        "CourseType": "LO",
+        "Credits": "2.0",
+        "Grade": "N2",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "20-May-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "33",
+        "CourseCode": "BMEE208L",
+        "CourseTitle": "Industrial Engineering",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "L Nov-2022",
+        "ResultDeclaredOn": "10-Jan-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "34",
+        "CourseCode": "BMEE209L",
+        "CourseTitle": "Materials Science and Engineering",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N1",
+        "ExamMonth": "Nov-2022",
+        "ResultDeclaredOn": "10-Jan-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DLES"
+      },
+      {
+        "Slno": "35",
+        "CourseCode": "BMEE209L",
+        "CourseTitle": "Materials Science and Engineering",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A N1",
+        "ExamMonth": "Aug-2023",
+        "ResultDeclaredOn": "08-Sep-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DLES"
+      },
+      {
+        "Slno": "36",
+        "CourseCode": "BMEE209L",
+        "CourseTitle": "Materials Science and Engineering",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "I N2",
+        "ExamMonth": "Jul-2024",
+        "ResultDeclaredOn": "26-Jul-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DLES"
+      },
+      {
+        "Slno": "37",
+        "CourseCode": "BMEE209P",
+        "CourseTitle": "Materials Science and Engineering Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2022",
+        "ResultDeclaredOn": "10-Jan-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DLES"
+      },
+      {
+        "Slno": "38",
+        "CourseCode": "BSTS201P",
+        "CourseTitle": "Qualitative Skills Practice I",
+        "CourseType": "SS",
+        "Credits": "C 1.5",
+        "Grade": "N3",
+        "ExamMonth": "Nov-2022",
+        "ResultDeclaredOn": "10-Jan-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCHSS M"
+      },
+      {
+        "Slno": "39",
+        "CourseCode": "BENG102P",
+        "CourseTitle": "Technical Report Writing",
+        "CourseType": "LO",
+        "Credits": "I 1.0",
+        "Grade": "A",
+        "ExamMonth": "Apr-2023",
+        "ResultDeclaredOn": "13-May-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCHSS M"
+      },
+      {
+        "Slno": "40",
+        "CourseCode": "BFRE101L",
+        "CourseTitle": "French I",
+        "CourseType": "TH",
+        "Credits": "F 2.0",
+        "Grade": "N1",
+        "ExamMonth": "Apr-2023",
+        "ResultDeclaredOn": "24-May-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCHSS M"
+      },
+      {
+        "Slno": "41",
+        "CourseCode": "BMAT202L",
+        "CourseTitle": "Probability and Statistics",
+        "CourseType": "F TH",
+        "Credits": "3.0",
+        "Grade": "N1",
+        "ExamMonth": "Apr-2023",
+        "ResultDeclaredOn": "24-May-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "42",
+        "CourseCode": "BMAT202P",
+        "CourseTitle": "Probability and Statistics Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2023",
+        "ResultDeclaredOn": "13-May-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "43",
+        "CourseCode": "BMEE301L",
+        "CourseTitle": "O Design of Machine Elements",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "N1",
+        "ExamMonth": "Apr-2023",
+        "ResultDeclaredOn": "24-May-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "44",
+        "CourseCode": "BMEE303L",
+        "CourseTitle": "Thermal Engineering Systems",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N1",
+        "ExamMonth": "Apr-2023",
+        "ResultDeclaredOn": "24-May-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "45",
+        "CourseCode": "BMEE303P",
+        "CourseTitle": "N Thermal Engineering Systems Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2023",
+        "ResultDeclaredOn": "13-May-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "46",
+        "CourseCode": "BMEE304L",
+        "CourseTitle": "Metal Forming and Machining",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N1",
+        "ExamMonth": "Apr-2023",
+        "ResultDeclaredOn": "24-May-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "47",
+        "CourseCode": "BMEE304L",
+        "CourseTitle": "U Metal Forming and Machining",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N2",
+        "ExamMonth": "Jul-2024",
+        "ResultDeclaredOn": "26-Jul-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "48",
+        "CourseCode": "BMEE304P",
+        "CourseTitle": "Metal Forming and Machining Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "A",
+        "ExamMonth": "Apr-2023",
+        "ResultDeclaredOn": "13-May-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "49",
+        "CourseCode": "BSTS202P",
+        "CourseTitle": "Qualitative Skills Practice II",
+        "CourseType": "SS",
+        "Credits": "1.5",
+        "Grade": "E",
+        "ExamMonth": "Apr-2023",
+        "ResultDeclaredOn": "13-May-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCHSS M"
+      },
+      {
+        "Slno": "50",
+        "CourseCode": "BMEE204L",
+        "CourseTitle": "Fluid Mechanics and Machines",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N2",
+        "ExamMonth": "Aug-2023",
+        "ResultDeclaredOn": "26-Aug-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "51",
+        "CourseCode": "BMEE204P",
+        "CourseTitle": "Fluid Mechanics and Machines Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "Aug-2023",
+        "ResultDeclaredOn": "26-Aug-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "52",
+        "CourseCode": "BMEE207L",
+        "CourseTitle": "Kinematics and Dynamics of Machines",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N2",
+        "ExamMonth": "Aug-2023",
+        "ResultDeclaredOn": "26-Aug-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "53",
+        "CourseCode": "BMEE207P",
+        "CourseTitle": "Kinematics and Dynamics of Machines Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "Aug-2023",
+        "ResultDeclaredOn": "26-Aug-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "54",
+        "CourseCode": "BMEE302L",
+        "CourseTitle": "Metal Casting and Welding",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N1",
+        "ExamMonth": "Aug-2023",
+        "ResultDeclaredOn": "26-Aug-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "55",
+        "CourseCode": "BMEE302L",
+        "CourseTitle": "Metal Casting and Welding",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N2",
+        "ExamMonth": "Jul-2024",
+        "ResultDeclaredOn": "26-Jul-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "56",
+        "CourseCode": "BMEE302L",
+        "CourseTitle": "Metal Casting and Welding",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N2",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "02-Jun-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "57",
+        "CourseCode": "BMEE302P",
+        "CourseTitle": "Metal Casting and Welding Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "Aug-2023",
+        "ResultDeclaredOn": "26-Aug-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "58",
+        "CourseCode": "BMEE308L",
+        "CourseTitle": "Control Systems",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "N3",
+        "ExamMonth": "Aug-2023",
+        "ResultDeclaredOn": "26-Aug-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DLES"
+      },
+      {
+        "Slno": "59",
+        "CourseCode": "BMEE308P",
+        "CourseTitle": "Microcontrollers and Interfacing Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "C",
+        "ExamMonth": "L Aug-2023",
+        "ResultDeclaredOn": "26-Aug-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DLES"
+      },
+      {
+        "Slno": "60",
+        "CourseCode": "AEXC118N",
+        "CourseTitle": "The Art and Skills of Photography",
+        "CourseType": "ECA",
+        "Credits": "2.0",
+        "Grade": "P",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "14-Jun-2024",
+        "CourseOption": "NCPF",
+        "CourseDistribUtion": "NGCR"
+      },
+      {
+        "Slno": "61",
+        "CourseCode": "BMEE399J",
+        "CourseTitle": "Summer Industrial Internship",
+        "CourseType": "PJT",
+        "Credits": "1.0",
+        "Grade": "A B",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "28-May-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PI"
+      },
+      {
+        "Slno": "62",
+        "CourseCode": "BMEE402L",
+        "CourseTitle": "Heat and Mass Transfer",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "I N2",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "63",
+        "CourseCode": "BMEE402P",
+        "CourseTitle": "Heat and Mass Transfer Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "N2",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "28-May-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "64",
+        "CourseCode": "BMEE401L",
+        "CourseTitle": "Computer Integrated Manufacturing",
+        "CourseType": "TH",
+        "Credits": "C 3.0",
+        "Grade": "N2",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "65",
+        "CourseCode": "BMEE401P",
+        "CourseTitle": "Computer Integrated Manufacturing Lab",
+        "CourseType": "LO",
+        "Credits": "I 1.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "03-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "66",
+        "CourseCode": "BMEE407L",
+        "CourseTitle": "Artificial Intelligence",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N1",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DLES"
+      },
+      {
+        "Slno": "67",
+        "CourseCode": "BMEE497J",
+        "CourseTitle": "Project - I",
+        "CourseType": "PJT",
+        "Credits": "F 3.0",
+        "Grade": "S",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "03-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PI"
+      },
+      {
+        "Slno": "68",
+        "CourseCode": "BMEE498J",
+        "CourseTitle": "Project - II / Internship",
+        "CourseType": "PJT",
+        "Credits": "5.0",
+        "Grade": "D",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "15-May-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PI"
+      }
+    ],
+    "additional_courses": [
+      {
+        "Slno": "1",
+        "CourseCode": "BCSE205L",
+        "NCourseTitle": "U Computer Architecture and Organization",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N2",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "MIN",
+        "CourseDistribUtion": "UE"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "BCSE303L",
+        "NCourseTitle": "Operating Systems",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N2",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "MIN",
+        "CourseDistribUtion": "UE"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "BCSE303P",
+        "NCourseTitle": "Operating Systems Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "N2",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "28-May-2024",
+        "CourseOption": "MIN",
+        "CourseDistribUtion": "UE"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "BMAT205L",
+        "NCourseTitle": "Discrete Mathematics and Graph Theory",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "N2",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "MIN",
+        "CourseDistribUtion": "UE"
+      }
+    ],
+    "curriculum_details": [
+      {
+        "CurriculumDistributionType": "Foundation Core - Basic Sciences and Mathematics",
+        "CreditsRequired": "24.0",
+        "CreditsEarned": "3.0"
+      },
+      {
+        "CurriculumDistributionType": "Foundation Core - Basic Engineering Sciences",
+        "CreditsRequired": "17.0",
+        "CreditsEarned": "14.0"
+      }
+    ],
+    "curriculum_details_1": [
+      {
+        "FoundationCoreHumanitiesSocialSciencesAndManagement": "Discipline-linked Engineering Sciences",
+        "150": "13.0",
+        "55": "2.0"
+      },
+      {
+        "FoundationCoreHumanitiesSocialSciencesAndManagement": "Discipline Core",
+        "150": "49.0",
+        "55": "6.0"
+      },
+      {
+        "FoundationCoreHumanitiesSocialSciencesAndManagement": "Discipline Elective",
+        "150": "9.0",
+        "55": "3.0"
+      },
+      {
+        "FoundationCoreHumanitiesSocialSciencesAndManagement": "Projects and Internship",
+        "150": "9.0",
+        "55": "9.0"
+      },
+      {
+        "FoundationCoreHumanitiesSocialSciencesAndManagement": "Open Elective",
+        "150": "L 0.0",
+        "55": "0.0"
+      },
+      {
+        "FoundationCoreHumanitiesSocialSciencesAndManagement": "Non-graded Core Requirement",
+        "150": "11.0",
+        "55": "7.0"
+      },
+      {
+        "FoundationCoreHumanitiesSocialSciencesAndManagement": "Bridge Course",
+        "150": "A 2.0",
+        "55": "0.0"
+      },
+      {
+        "FoundationCoreHumanitiesSocialSciencesAndManagement": "Non Credit Course",
+        "150": "0.0",
+        "55": "0.0"
+      },
+      {
+        "FoundationCoreHumanitiesSocialSciencesAndManagement": "Multidisciplinary Electives",
+        "150": "I 0.0",
+        "55": "0.0"
+      },
+      {
+        "FoundationCoreHumanitiesSocialSciencesAndManagement": "Total Credits",
+        "150": "151.0",
+        "55": "49.5"
+      }
+    ],
+    "basket_details": [
+      {
+        "BasketTitle": "Foreign Language",
+        "IDistributionType": "FCHSSM",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "BasketTitle": "Extra curricular activities",
+        "IDistributionType": "F NGCR",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "2.0"
+      },
+      {
+        "BasketTitle": "HSM Elective",
+        "IDistributionType": "FCHSSM",
+        "CreditsRequired": "3.0",
+        "CreditsEarned": "0.0"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "116.0",
+        "CreditsEarned": "42.5",
+        "Cgpa": "2.59",
+        "SGrades": "1",
+        "OAGrades": "4",
+        "BGrades": "9",
+        "CGrades": "5",
+        "DGrades": "3",
+        "EGrades": "4",
+        "FGrades": "17",
+        "NGrades": "11"
+      }
+    ]
+  }
+}

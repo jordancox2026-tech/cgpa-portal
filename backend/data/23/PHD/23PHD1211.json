@@ -1,0 +1,91 @@
+{
+  "student_information": {
+    "register_number": "23PHD1211",
+    "name": "KAVITHA E"
+  },
+  "tables": {
+    "grade_history_combined": [
+      {
+        "Slno": "1",
+        "CourseCode": "RMC0001",
+        "CourseTitle": "RESEARCH AND PUBLICATION ETHICS",
+        "CourseType": "RMC",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "21-Jun-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RMC703",
+        "CourseTitle": "RESEARCH METHODOLOGY",
+        "CourseType": "RM",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "21-Jun-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "RSS00579",
+        "CourseTitle": "WORKPLACE RELATIONSHIP",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2025",
+        "ResultDeclaredOn": "24-Jun-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "RSS00580",
+        "CourseTitle": "MENTAL HEALTH AT THE WORKPLACE",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2025",
+        "ResultDeclaredOn": "24-Jun-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "PMBA630L",
+        "CourseTitle": "Organisational Change and Development",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "1",
+        "CourseCode": "ENG5004",
+        "CourseTitle": "ENGLISH FOR RESEARCHERS",
+        "CourseType": "RM",
+        "Credits": "3.0",
+        "Grade": "P",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "21-Jun-2024",
+        "CourseOption": "NCPF"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "15.0",
+        "CreditsEarned": "15.0",
+        "Cgpa": "7.20",
+        "SGrades": "0",
+        "AGrades": "0",
+        "BGrades": "3",
+        "CGrades": "1",
+        "DGrades": "0",
+        "EGrades": "1",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

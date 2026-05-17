@@ -1,0 +1,47 @@
+{
+  "student_information": {
+    "register_number": "22PHD1188",
+    "name": "WAKEEL AHMAD BHAT"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "RES7001",
+        "CourseTitle": "Research Methodology- SCOPE",
+        "CourseType": "Regular",
+        "Credits": "3.0",
+        "Grade": "N",
+        "ExamMonth": "Jul-2023",
+        "ResultDeclaredOn": "31-Jul-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RMC0001",
+        "CourseTitle": "Research and Publication Ethics-SCOPE",
+        "CourseType": "Regular",
+        "Credits": "3.0",
+        "Grade": "F",
+        "ExamMonth": "Jul-2023",
+        "ResultDeclaredOn": "31-Jul-2023",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "6.0",
+        "CreditsEarned": "0.0",
+        "Cgpa": "0.00",
+        "SGrades": "0",
+        "AGrades": "0",
+        "BGrades": "0",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "1",
+        "NGrades": "1"
+      }
+    ]
+  }
+}

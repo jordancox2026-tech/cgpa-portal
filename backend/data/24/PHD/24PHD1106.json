@@ -1,0 +1,91 @@
+{
+  "student_information": {
+    "register_number": "24PHD1106",
+    "name": "RAJALAKSHMI R"
+  },
+  "tables": {
+    "grade_history_combined": [
+      {
+        "Slno": "1",
+        "CourseCode": "RMC0001",
+        "CourseTitle": "RESEARCH AND PUBLICATION ETHICS",
+        "CourseType": "RM",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "Jan-2025",
+        "ResultDeclaredOn": "13-Jan-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RMC701",
+        "CourseTitle": "RESEARCH METHODOLOGY",
+        "CourseType": "RM",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Jan-2025",
+        "ResultDeclaredOn": "13-Jan-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "MAEDS612",
+        "CourseTitle": "Machine Learning and Deep Learning",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "RSS01583",
+        "CourseTitle": "MACHINE VISION",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "19-Dec-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "RSS01584",
+        "CourseTitle": "SOLAR PHOTO VOLTAIC CONVERSION SYSTEMS",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "19-Dec-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "1",
+        "CourseCode": "ENG5004",
+        "CourseTitle": "ENGLISH FOR RESEARCHERS",
+        "CourseType": "RM",
+        "Credits": "3.0",
+        "Grade": "P",
+        "ExamMonth": "Jan-2025",
+        "ResultDeclaredOn": "13-Jan-2025",
+        "CourseOption": "NCPF"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "16.0",
+        "CreditsEarned": "16.0",
+        "Cgpa": "8.88",
+        "SGrades": "2",
+        "AGrades": "1",
+        "BGrades": "1",
+        "CGrades": "1",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

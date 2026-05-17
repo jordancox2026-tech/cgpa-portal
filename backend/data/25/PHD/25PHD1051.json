@@ -1,0 +1,69 @@
+{
+  "student_information": {
+    "register_number": "25PHD1051",
+    "name": "MAHALAKSHMI B"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "MAELM503",
+        "CourseTitle": "Design of Automotive Power Converters",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "PENG504N",
+        "CourseTitle": "English For Researchers",
+        "CourseType": "TheoryLab",
+        "Credits": "3.0",
+        "Grade": "P",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "PRES701L",
+        "CourseTitle": "Research Methodology",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "PRMC001L",
+        "CourseTitle": "Research And Publication Ethics",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "13.0",
+        "CreditsEarned": "10.0",
+        "Cgpa": "6.62",
+        "SGrades": "0",
+        "AGrades": "2",
+        "BGrades": "0",
+        "CGrades": "1",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

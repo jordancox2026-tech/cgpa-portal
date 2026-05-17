@@ -1,0 +1,335 @@
+{
+  "student_information": {
+    "register_number": "16BCL1042",
+    "name": "VENKATESH PRASATH R"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "CHY1001",
+        "CourseTitle": "Engineering Chemistry",
+        "CourseType": "ETLP",
+        "Credits": "5.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2016",
+        "ResultDeclaredOn": "23-Dec-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "CSE1001",
+        "CourseTitle": "Problem Solving and Programming",
+        "CourseType": "LO",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2016",
+        "ResultDeclaredOn": "23-Dec-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "ENG1002",
+        "CourseTitle": "Effective English",
+        "CourseType": "LO",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2016",
+        "ResultDeclaredOn": "23-Dec-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "BC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "MAT1011",
+        "CourseTitle": "Calculus for Engineers",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2016",
+        "ResultDeclaredOn": "23-Dec-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "MEE1001",
+        "CourseTitle": "Engineering Drawing",
+        "CourseType": "ETL",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "L Nov-2016",
+        "ResultDeclaredOn": "23-Dec-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "PHY1001",
+        "CourseTitle": "Engineering Physics",
+        "CourseType": "ETLP",
+        "Credits": "5.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2016",
+        "ResultDeclaredOn": "23-Dec-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "CHY1002",
+        "CourseTitle": "Environmental Sciences",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "19-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "CLE1003",
+        "CourseTitle": "Surveying",
+        "CourseType": "ETLP",
+        "Credits": "5.0",
+        "Grade": "A C",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "19-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "ENG1011",
+        "CourseTitle": "English for Engineers",
+        "CourseType": "ELP",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "01-Jul-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "HUM1021",
+        "CourseTitle": "Ethics and Values",
+        "CourseType": "ETP",
+        "Credits": "2.0",
+        "Grade": "I B",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "19-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "MAT2001",
+        "CourseTitle": "Statistics for Engineers",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "19-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "MEE1002",
+        "CourseTitle": "Engineering Mechanics",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N1",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "19-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "MEE1004",
+        "CourseTitle": "Fluid Mechanics",
+        "CourseType": "ETL",
+        "Credits": "C 4.0",
+        "Grade": "C",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "19-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "PHY1999",
+        "CourseTitle": "Introduction to Innovative Projects",
+        "CourseType": "ETP",
+        "Credits": "I 2.0",
+        "Grade": "A",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "08-Jul-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "STS1001",
+        "CourseTitle": "Soft Skills",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "C",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "14-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "CLE1006",
+        "CourseTitle": "Environmental Engineering",
+        "CourseType": "ETLP",
+        "Credits": "F 4.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "20-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "CLE1007",
+        "CourseTitle": "Construction Materials and Techniques",
+        "CourseType": "F ETP",
+        "Credits": "3.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "20-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "CLE1011",
+        "CourseTitle": "Engineering Geology",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "20-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "CLE2002",
+        "CourseTitle": "Strength of Materials",
+        "CourseType": "ETLP",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "20-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "20",
+        "CourseCode": "MAT2002",
+        "CourseTitle": "O Applications of Differential and Difference Equations",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "20-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "21",
+        "CourseCode": "STS2001",
+        "CourseTitle": "N Soft Skills",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "N1",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "28-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "22",
+        "CourseCode": "EXC1063",
+        "CourseTitle": "Civitek",
+        "CourseType": "ECA",
+        "Credits": "2.0",
+        "Grade": "P",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "11-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      }
+    ],
+    "curriculum_details": [
+      {
+        "CurriculumDistributionType": "Programme Core",
+        "CreditsRequired": "61.0",
+        "CreditsEarned": "12.0"
+      },
+      {
+        "CurriculumDistributionType": "Programme Elective",
+        "CreditsRequired": "35.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "University Core",
+        "CreditsRequired": "72.0",
+        "CreditsEarned": "24.0"
+      },
+      {
+        "CurriculumDistributionType": "University Elective",
+        "CreditsRequired": "12.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Bridge Course",
+        "CreditsRequired": "0.0",
+        "CreditsEarned": "2.0"
+      },
+      {
+        "CurriculumDistributionType": "Total Credits",
+        "CreditsRequired": "180.0",
+        "CreditsEarned": "38.0"
+      }
+    ],
+    "basket_details": [
+      {
+        "SoftSkills": "Co-Extra Curricular Basket",
+        "Uc": "UC",
+        "60": "2.0",
+        "10": "2.0"
+      },
+      {
+        "SoftSkills": "Foreign Language Course Basket",
+        "Uc": "UC",
+        "60": "2.0",
+        "10": "0.0"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "69.0",
+        "CreditsEarned": "38.0",
+        "Cgpa": "3.94",
+        "SGrades": "0",
+        "AGrades": "2",
+        "BGrades": "3",
+        "CGrades": "L 6",
+        "DGrades": "1",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "9"
+      }
+    ]
+  }
+}

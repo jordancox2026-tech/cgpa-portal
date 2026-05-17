@@ -1,0 +1,345 @@
+{
+  "student_information": {
+    "register_number": "24MCS1012",
+    "name": "VADDEPALLI SRIVARTHIN"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "MCSE501L",
+        "CourseTitle": "Data Structures and Algorithms",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "MCSE501P",
+        "CourseTitle": "Data Structures and Algorithms Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "A",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "03-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "MCSE503L",
+        "CourseTitle": "Computer Architecture and Organisation",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "MCSE503P",
+        "CourseTitle": "Computer Architecture and Organisation Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "A",
+        "ExamMonth": "L Dec-2024",
+        "ResultDeclaredOn": "03-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "MCSE504L",
+        "CourseTitle": "Operating Systems",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "MCSE504P",
+        "CourseTitle": "Operating Systems Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "A A",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "03-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "MCSE506L",
+        "CourseTitle": "Database Systems",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "MCSE506P",
+        "CourseTitle": "Database Systems Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "I A",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "03-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "MCSE616L",
+        "CourseTitle": "Data Visualization",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "MCSE616P",
+        "CourseTitle": "Data Visualization Lab",
+        "CourseType": "LO",
+        "Credits": "C 1.0",
+        "Grade": "A",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "03-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "MENG501P",
+        "CourseTitle": "Technical Report Writing",
+        "CourseType": "LO",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "03-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "SE"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "MSTS501P",
+        "CourseTitle": "Qualitative Skills Practice",
+        "CourseType": "SS",
+        "Credits": "1.5",
+        "Grade": "B",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "03-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "SE"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "MCSE502L",
+        "CourseTitle": "Design and Analysis of Algorithms",
+        "CourseType": "TH",
+        "Credits": "I 3.0",
+        "Grade": "C",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "02-Jun-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "MCSE502P",
+        "CourseTitle": "Design and Analysis of Algorithms Lab",
+        "CourseType": "LO",
+        "Credits": "F 1.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "20-May-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "MCSE505L",
+        "CourseTitle": "Computer Networks",
+        "CourseType": "F TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "02-Jun-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "MCSE505P",
+        "CourseTitle": "Computer Networks Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "20-May-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "MCSE603L",
+        "CourseTitle": "Deep Learning",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "02-Jun-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "MCSE603P",
+        "CourseTitle": "O Deep Learning Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "A",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "20-May-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "MCSE605L",
+        "CourseTitle": "Machine vision",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "02-Jun-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "20",
+        "CourseCode": "MCSE620L",
+        "CourseTitle": "Analytics for Internet of Things",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "02-Jun-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "21",
+        "CourseCode": "MCSE620P",
+        "CourseTitle": "N Analytics for Internet of Things Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "A",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "20-May-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "22",
+        "CourseCode": "MSTS502P",
+        "CourseTitle": "U Quantitative Skills Practice",
+        "CourseType": "SS",
+        "Credits": "1.5",
+        "Grade": "B",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "20-May-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "SE"
+      },
+      {
+        "Slno": "23",
+        "CourseCode": "MSTS601L",
+        "CourseTitle": "Advanced Competitive Coding",
+        "CourseType": "SS",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "20-May-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "OE"
+      },
+      {
+        "Slno": "24",
+        "CourseCode": "MCSE698J",
+        "CourseTitle": "INTERNSHIP I/ DISSERTATION I",
+        "CourseType": "PJT",
+        "Credits": "10.0",
+        "Grade": "S",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "24-Dec-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PI"
+      }
+    ],
+    "curriculum_details": [
+      {
+        "CurriculumDistributionType": "Discipline Core",
+        "CreditsRequired": "24.0",
+        "CreditsEarned": "24.0"
+      },
+      {
+        "CurriculumDistributionType": "Discipline Elective",
+        "CreditsRequired": "12.0",
+        "CreditsEarned": "12.0"
+      },
+      {
+        "CurriculumDistributionType": "Projects and Internship",
+        "CreditsRequired": "26.0",
+        "CreditsEarned": "10.0"
+      },
+      {
+        "CurriculumDistributionType": "Open Elective",
+        "CreditsRequired": "3.0",
+        "CreditsEarned": "3.0"
+      }
+    ],
+    "curriculum_details_1": [
+      {
+        "SkillEnhancement": "Bridge Course",
+        "50": "0.0"
+      },
+      {
+        "SkillEnhancement": "Total Credits",
+        "50": "54.0"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "54.0",
+        "CreditsEarned": "54.0",
+        "Cgpa": "8.52",
+        "SGrades": "2",
+        "AGrades": "8",
+        "BGrades": "11",
+        "ACGrades": "3",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

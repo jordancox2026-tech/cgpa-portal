@@ -1,0 +1,175 @@
+{
+  "student_information": {
+    "register_number": "25BLB1030",
+    "name": "SIVAGURU N K"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "TLAW101L",
+        "CourseTitle": "Introduction to Law and Legal methods",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "E",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "CMC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "TLAW102L",
+        "CourseTitle": "Law of Torts, Consumer Protection and Motor Vehicles Act",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "E",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "CMC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "TLAW103L",
+        "CourseTitle": "Law of Contracts",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "CMC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "TLAW140L",
+        "CourseTitle": "Environmental Science",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "L Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "CMC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "TLAW181L",
+        "CourseTitle": "General English",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "ELC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "TLAW186L",
+        "CourseTitle": "Principles of Management",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "MAC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "TLAW187L",
+        "CourseTitle": "Business Statistics",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "A C",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "MIC"
+      }
+    ],
+    "i_curriculum_details": [
+      {
+        "CurriculumDistributionType": "Open Elective",
+        "CreditsRequired": "F 8.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "English Language Courses",
+        "CreditsRequired": "8.0",
+        "CreditsEarned": "4.0"
+      },
+      {
+        "CurriculumDistributionType": "Minor Courses",
+        "CreditsRequired": "F 24.0",
+        "CreditsEarned": "4.0"
+      },
+      {
+        "CurriculumDistributionType": "Major Courses",
+        "CreditsRequired": "24.0",
+        "CreditsEarned": "4.0"
+      },
+      {
+        "CurriculumDistributionType": "Compulsory Courses",
+        "CreditsRequired": "102.0",
+        "CreditsEarned": "14.0"
+      },
+      {
+        "CurriculumDistributionType": "Compulsory Clinical Courses",
+        "CreditsRequired": "O 16.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Optional Courses",
+        "CreditsRequired": "24.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Honors Courses",
+        "CreditsRequired": "N 32.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Foreign Language",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Total Credits",
+        "CreditsRequired": "240.0",
+        "CreditsEarned": "26.0"
+      }
+    ],
+    "basket_details": [
+      {
+        "BasketTitle": "Extracurricular Activities",
+        "DistributionType": "CMC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "BasketTitle": "Foreign Language",
+        "DistributionType": "FL",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "0.0"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "26.0",
+        "CreditsEarned": "26.0",
+        "Cgpa": "6.62",
+        "SGrades": "0",
+        "AGrades": "0",
+        "BGrades": "3",
+        "CGrades": "1",
+        "DGrades": "1",
+        "EGrades": "2",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

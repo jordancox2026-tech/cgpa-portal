@@ -1,0 +1,165 @@
+{
+  "student_information": {
+    "register_number": "25MDT1166",
+    "name": "MELVIN IMMANUEL G"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "PMDS501L",
+        "CourseTitle": "Applied Linear Algebra",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "PMDS502L",
+        "CourseTitle": "Probability and Distribution Models",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "PMDS506L",
+        "CourseTitle": "Database Management Systems",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "PMDS506P",
+        "CourseTitle": "Database Management Systems Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "A",
+        "ExamMonth": "L Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "PMDS508L",
+        "CourseTitle": "Python Programming",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "PMDS508P",
+        "CourseTitle": "Python Programming Lab",
+        "CourseType": "LO",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "PMDS601L",
+        "CourseTitle": "Artificial Intelligence",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A B",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "PMDS601P",
+        "CourseTitle": "Artificial Intelligence Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "PSTS501P",
+        "CourseTitle": "Qualitative Skills Practice",
+        "CourseType": "SS",
+        "Credits": "1.5",
+        "Grade": "I B",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "SE"
+      }
+    ],
+    "f_curriculum_details": [
+      {
+        "CurriculumDistributionType": "Discipline Core",
+        "CreditsRequired": "28.0",
+        "CreditsEarned": "14.0"
+      },
+      {
+        "CurriculumDistributionType": "Discipline Elective",
+        "CreditsRequired": "F 21.0",
+        "CreditsEarned": "4.0"
+      },
+      {
+        "CurriculumDistributionType": "Projects and Internship",
+        "CreditsRequired": "20.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Open Elective",
+        "CreditsRequired": "O 6.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Skill Enhancement",
+        "CreditsRequired": "5.0",
+        "CreditsEarned": "1.5"
+      },
+      {
+        "CurriculumDistributionType": "Total Credits",
+        "CreditsRequired": "80.0",
+        "CreditsEarned": "19.5"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "19.5",
+        "CreditsEarned": "19.5",
+        "Cgpa": "8.87",
+        "SGrades": "1",
+        "AGrades": "5",
+        "BGrades": "3",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

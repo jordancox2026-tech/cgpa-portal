@@ -1,0 +1,147 @@
+{
+  "student_information": {
+    "register_number": "20MCA1019",
+    "name": "JIMAN LAL"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "ENG5003",
+        "CourseTitle": "English for Science and Technology",
+        "CourseType": "LO",
+        "Credits": "2.0",
+        "Grade": "N3",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "ITA5002",
+        "CourseTitle": "Problem solving with Data structures and Algorithms",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "ITA5003",
+        "CourseTitle": "Data Communication and Networking",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N3",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "ITA5005",
+        "CourseTitle": "Object Oriented Software Engineering",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N3",
+        "ExamMonth": "L Feb-2021",
+        "ResultDeclaredOn": "26-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "ITA5006",
+        "CourseTitle": "Distributed Operating Systems",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "A N",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "ITA5008",
+        "CourseTitle": "Database Technologies",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "MAT5007",
+        "CourseTitle": "Applied Statistical Methods",
+        "CourseType": "ETL",
+        "Credits": "3.0",
+        "Grade": "I N",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "SET5001",
+        "CourseTitle": "Science, Engineering and Technology Project - I",
+        "CourseType": "PJT",
+        "Credits": "C 2.0",
+        "Grade": "F",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "12-Mar-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "STS4011",
+        "CourseTitle": "Essentials of Business Etiquettes",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "N3",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      }
+    ],
+    "basket_details": [
+      {
+        "BasketTitle": "N English and Foreign Language",
+        "DistributionType": "UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "BasketTitle": "Soft Skills",
+        "DistributionType": "UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "0.0"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "25.0",
+        "CreditsEarned": "0.0",
+        "Cgpa": "0.00",
+        "SGrades": "0",
+        "AGrades": "0",
+        "BGrades": "0",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "1",
+        "NGrades": "8"
+      }
+    ]
+  }
+}

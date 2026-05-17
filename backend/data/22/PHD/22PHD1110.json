@@ -1,0 +1,102 @@
+{
+  "student_information": {
+    "register_number": "22PHD1110",
+    "name": "ANTHONY JOSEPH"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "RES7002",
+        "CourseTitle": "Research Methodology- VITSOL",
+        "CourseType": "RM",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Feb-2023",
+        "ResultDeclaredOn": "28-Feb-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RMC0001",
+        "CourseTitle": "Research and Publication Ethics-VITSOL",
+        "CourseType": "RMC",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Feb-2023",
+        "ResultDeclaredOn": "28-Feb-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "ONL00243",
+        "CourseTitle": "CONTEXUALIZING GENDER",
+        "CourseType": "ONL",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "30-Apr-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "RSS01253",
+        "CourseTitle": "GENDER AND LAW",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "May-2025",
+        "ResultDeclaredOn": "24-Jun-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "RSS01253",
+        "CourseTitle": "GENDER AND LAW",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "19-Dec-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "RSS01254",
+        "CourseTitle": "WOMEN AND LEGAL PROFESSION",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "May-2025",
+        "ResultDeclaredOn": "24-Jun-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "RSS01254",
+        "CourseTitle": "WOMEN AND LEGAL PROFESSION",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "19-Dec-2025",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "15.0",
+        "CreditsEarned": "15.0",
+        "Cgpa": "8.40",
+        "SGrades": "0",
+        "AGrades": "3",
+        "BGrades": "1",
+        "CGrades": "1",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "student_information": {
+    "register_number": "22MAI1036",
+    "name": "M C LENIN BABU"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "MCSE503L",
+        "CourseTitle": "Computer Architecture and Organisation",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N2",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "MCSE503P",
+        "CourseTitle": "Computer Architecture and Organisation Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "N2",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "MCSE506L",
+        "CourseTitle": "Database Systems",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N2",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "MCSE506P",
+        "CourseTitle": "Database Systems Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "N2",
+        "ExamMonth": "L Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "MCSE602L",
+        "CourseTitle": "Machine Learning",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "N2",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "SPE"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "MCSE602P",
+        "CourseTitle": "Machine Learning Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "N2",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "SPE"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "MENG501P",
+        "CourseTitle": "Technical Report Writing",
+        "CourseType": "LO",
+        "Credits": "2.0",
+        "Grade": "A N3",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "SE"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "13.0",
+        "CreditsEarned": "0.0",
+        "Cgpa": "0.00",
+        "SGrades": "0",
+        "OAGrades": "0",
+        "BGrades": "0",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "7"
+      }
+    ]
+  }
+}

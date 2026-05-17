@@ -1,0 +1,80 @@
+{
+  "student_information": {
+    "register_number": "22PHD1291",
+    "name": "ANTHUVAN EZHILARASI P"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "RSS00100",
+        "CourseTitle": "ADVANCED FLUID DYNAMICS",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jan-2024",
+        "ResultDeclaredOn": "31-Jan-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "MATR705",
+        "CourseTitle": "Topics in Applicable Mathematics",
+        "CourseType": "RMC",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Jul-2023",
+        "ResultDeclaredOn": "31-Jul-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "RES701",
+        "CourseTitle": "Research Methodology- SAS",
+        "CourseType": "RM",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jul-2023",
+        "ResultDeclaredOn": "31-Jul-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "RMC0001",
+        "CourseTitle": "Research and Publication Ethics-SAS",
+        "CourseType": "RMC",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Jul-2023",
+        "ResultDeclaredOn": "31-Jul-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "ONLx1002",
+        "CourseTitle": "COMPUTATIONAL FLUID DYNAMICS AND HEAT TRANSFER",
+        "CourseType": "ONL",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "Oct-2023",
+        "ResultDeclaredOn": "31-Oct-2023",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "15.0",
+        "CreditsEarned": "15.0",
+        "Cgpa": "7.60",
+        "SGrades": "0",
+        "AGrades": "2",
+        "BGrades": "1",
+        "CGrades": "1",
+        "DGrades": "0",
+        "EGrades": "1",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

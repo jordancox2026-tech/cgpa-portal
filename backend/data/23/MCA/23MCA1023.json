@@ -1,0 +1,376 @@
+{
+  "student_information": {
+    "register_number": "23MCA1023",
+    "name": "LELE VIVEK VISHNU VAISHALI"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "PENG501P",
+        "CourseTitle": "Technical Report Writing",
+        "CourseType": "LO",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "05-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "SE"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "PMAT501L",
+        "CourseTitle": "Probability and Statistics",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "PMCA501L",
+        "CourseTitle": "Data structures and Algorithms",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "PMCA501P",
+        "CourseTitle": "Data structures and Algorithms Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "L Dec-2023",
+        "ResultDeclaredOn": "05-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "PMCA503L",
+        "CourseTitle": "Database Systems",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "PMCA503P",
+        "CourseTitle": "Database Systems Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "05-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "PMCA504L",
+        "CourseTitle": "Software Engineering",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A D",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "PMCA601L",
+        "CourseTitle": "Full Stack Web Development",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "PMCA601P",
+        "CourseTitle": "Full Stack Web Development Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "I S",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "05-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "PMCA602L",
+        "CourseTitle": "Python Programming",
+        "CourseType": "TH",
+        "Credits": "C 2.0",
+        "Grade": "C",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "PMCA602P",
+        "CourseTitle": "Python Programming Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "A",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "05-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "PMCA696J",
+        "CourseTitle": "Study Oriented Project",
+        "CourseType": "PJT",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "06-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PI"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "PSTS501P",
+        "CourseTitle": "Qualitative Skills Practice",
+        "CourseType": "SS",
+        "Credits": "I 1.5",
+        "Grade": "D",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "05-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "SE"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "PMCA502L",
+        "CourseTitle": "Java Programming",
+        "CourseType": "TH",
+        "Credits": "F 3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "PMCA502P",
+        "CourseTitle": "Java Programming Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "A",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "28-May-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "PMCA505L",
+        "CourseTitle": "Data Communication and Networking",
+        "CourseType": "F TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "PMCA506L",
+        "CourseTitle": "Cloud Computing",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "PMCA507L",
+        "CourseTitle": "Machine Learning",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "PMCA507P",
+        "CourseTitle": "O Machine Learning Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "28-May-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "20",
+        "CourseCode": "PMCA610L",
+        "CourseTitle": "Blockchain Technologies",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "21",
+        "CourseCode": "PMCA620L",
+        "CourseTitle": "Programming in C#",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "22",
+        "CourseCode": "PMCA620P",
+        "CourseTitle": "N Programming in C# Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "A",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "28-May-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "23",
+        "CourseCode": "PMCA697J",
+        "CourseTitle": "Design Project",
+        "CourseType": "PJT",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "01-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PI"
+      },
+      {
+        "Slno": "24",
+        "CourseCode": "PSTS502P",
+        "CourseTitle": "U Quantitative Skills Practice",
+        "CourseType": "SS",
+        "Credits": "1.5",
+        "Grade": "C",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "28-May-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "SE"
+      },
+      {
+        "Slno": "25",
+        "CourseCode": "PSTS601L",
+        "CourseTitle": "Advanced Competitive Coding",
+        "CourseType": "SS",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "01-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "OE"
+      },
+      {
+        "Slno": "26",
+        "CourseCode": "PMCA698J",
+        "CourseTitle": "Internship I/ Dissertation I",
+        "CourseType": "PJT",
+        "Credits": "12.0",
+        "Grade": "A",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "03-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PI"
+      },
+      {
+        "Slno": "27",
+        "CourseCode": "PMCA699J",
+        "CourseTitle": "Internship II/ Dissertation II",
+        "CourseType": "PJT",
+        "Credits": "15.0",
+        "Grade": "A",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "19-May-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PI"
+      }
+    ],
+    "curriculum_details": [
+      {
+        "CurriculumDistributionType": "Discipline Core",
+        "CreditsRequired": "28.0",
+        "CreditsEarned": "28.0"
+      },
+      {
+        "CurriculumDistributionType": "Discipline Elective",
+        "CreditsRequired": "13.0",
+        "CreditsEarned": "14.0"
+      },
+      {
+        "CurriculumDistributionType": "Projects and Internship",
+        "CreditsRequired": "31.0",
+        "CreditsEarned": "31.0"
+      }
+    ],
+    "curriculum_details_1": [
+      {
+        "OpenElective": "Skill Enhancement",
+        "30": "5.0"
+      },
+      {
+        "OpenElective": "Total Credits",
+        "30": "81.0"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "81.0",
+        "CreditsEarned": "81.0",
+        "Cgpa": "8.12",
+        "SGrades": "1",
+        "AGrades": "7",
+        "BGrades": "11",
+        "ACGrades": "5",
+        "DGrades": "3",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

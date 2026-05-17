@@ -1,0 +1,91 @@
+{
+  "student_information": {
+    "register_number": "22PHD1196",
+    "name": "AGILA HARSHINI T"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "RSS00655",
+        "CourseTitle": "IOT SECURITY",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Jan-2024",
+        "ResultDeclaredOn": "31-Jan-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RSS00656",
+        "CourseTitle": "CLOUD COMPUTING AND DATA ANALYTICS IN HEALTHCARE",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Jan-2024",
+        "ResultDeclaredOn": "31-Jan-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "MCSE603L",
+        "CourseTitle": "Deep Learning",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "MCSE603P",
+        "CourseTitle": "Deep Learning Lab",
+        "CourseType": "Lab",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "28-May-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "RES7001",
+        "CourseTitle": "Research Methodology- SCOPE",
+        "CourseType": "Regular",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Jul-2023",
+        "ResultDeclaredOn": "31-Jul-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "RMC0001",
+        "CourseTitle": "Research and Publication Ethics-SCOPE",
+        "CourseType": "Regular",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Jul-2023",
+        "ResultDeclaredOn": "31-Jul-2023",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "15.0",
+        "CreditsEarned": "15.0",
+        "Cgpa": "7.80",
+        "SGrades": "0",
+        "AGrades": "0",
+        "BGrades": "5",
+        "CGrades": "1",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

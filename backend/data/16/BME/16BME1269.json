@@ -1,0 +1,722 @@
+{
+  "student_information": {
+    "register_number": "16BME1269",
+    "name": "AVIRAL SHRIVASTAVA"
+  },
+  "tables": {
+    "grade_history_combined": [
+      {
+        "Slno": "1",
+        "CourseCode": "CHY1001",
+        "CourseTitle": "Engineering Chemistry",
+        "CourseType": "ETLP",
+        "Credits": "5.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2016",
+        "ResultDeclaredOn": "23-Dec-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "CSE1001",
+        "CourseTitle": "Problem Solving and Programming",
+        "CourseType": "LO",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Nov-2016",
+        "ResultDeclaredOn": "23-Dec-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "ENG1011",
+        "CourseTitle": "English for Engineers",
+        "CourseType": "ELP",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2016",
+        "ResultDeclaredOn": "27-Dec-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "MAT1011",
+        "CourseTitle": "Calculus for Engineers",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2016",
+        "ResultDeclaredOn": "23-Dec-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "MEE1001",
+        "CourseTitle": "Engineering Drawing",
+        "CourseType": "ETL",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "L Nov-2016",
+        "ResultDeclaredOn": "23-Dec-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "PHY1001",
+        "CourseTitle": "Engineering Physics",
+        "CourseType": "ETLP",
+        "Credits": "5.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2016",
+        "ResultDeclaredOn": "23-Dec-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "CHY1002",
+        "CourseTitle": "Environmental Sciences",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "19-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "FRE1001",
+        "CourseTitle": "Francais quotidien",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "A A",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "19-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "HUM1021",
+        "CourseTitle": "Ethics and Values",
+        "CourseType": "ETP",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "19-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "MAT2001",
+        "CourseTitle": "Statistics for Engineers",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "I B",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "19-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "MEE1002",
+        "CourseTitle": "Engineering Mechanics",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "19-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "MEE1003",
+        "CourseTitle": "Engineering Thermodynamics",
+        "CourseType": "TH",
+        "Credits": "C 3.0",
+        "Grade": "A",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "19-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "MEE1005",
+        "CourseTitle": "Materials Engineering and Technology",
+        "CourseType": "ETLP",
+        "Credits": "I 4.0",
+        "Grade": "B",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "19-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "MEE2001",
+        "CourseTitle": "Machine Drawing",
+        "CourseType": "ETLP",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "19-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "PHY1999",
+        "CourseTitle": "Introduction to Innovative Projects",
+        "CourseType": "ETP",
+        "Credits": "F 2.0",
+        "Grade": "C",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "08-Jul-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "STS1001",
+        "CourseTitle": "Soft Skills",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "A",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "14-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "EEE1001",
+        "CourseTitle": "Basic Electrical and Electronics Engineering",
+        "CourseType": "F ETL",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "20-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "MAT2002",
+        "CourseTitle": "O Applications of Differential and Difference Equations",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "20-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "MEE1007",
+        "CourseTitle": "Manufacturing Processes",
+        "CourseType": "ETL",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "20-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "20",
+        "CourseCode": "MEE1011",
+        "CourseTitle": "N Renewable Energy Sources",
+        "CourseType": "ETLP",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "20-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "21",
+        "CourseCode": "MEE1014",
+        "CourseTitle": "Industrial Engineering and Management",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "20-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "22",
+        "CourseCode": "MEE2003",
+        "CourseTitle": "U Thermal Engineering Systems",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "20-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "23",
+        "CourseCode": "MGT1022",
+        "CourseTitle": "Lean Start-up Management",
+        "CourseType": "ETP",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "20-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "24",
+        "CourseCode": "STS2001",
+        "CourseTitle": "Soft Skills",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "28-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "25",
+        "CourseCode": "EXC1019",
+        "CourseTitle": "Basic Art and Craft Techniques(The Fine Arts Club)",
+        "CourseType": "ECA",
+        "Credits": "2.0",
+        "Grade": "P",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "11-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "26",
+        "CourseCode": "MAT3003",
+        "CourseTitle": "Complex Variables and Partial Differential Equations",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "27",
+        "CourseCode": "MEE1004",
+        "CourseTitle": "Fluid Mechanics",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "28",
+        "CourseCode": "MEE2002",
+        "CourseTitle": "Strength of Materials",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "29",
+        "CourseCode": "MEE2004",
+        "CourseTitle": "Mechanics of Machines",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "30",
+        "CourseCode": "MEE2010",
+        "CourseTitle": "Design of Composite Materials",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "31",
+        "CourseCode": "MEE2022",
+        "CourseTitle": "Power Plant Engineering",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "32",
+        "CourseCode": "STS2002",
+        "CourseTitle": "Introduction to Etiquette",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "33",
+        "CourseCode": "CSE1002",
+        "CourseTitle": "Problem Solving and Object Oriented Programming",
+        "CourseType": "LO",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "34",
+        "CourseCode": "MAT3005",
+        "CourseTitle": "Applied Numerical Methods",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "35",
+        "CourseCode": "MEE2005",
+        "CourseTitle": "Heat Transfer",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "36",
+        "CourseCode": "MEE2006",
+        "CourseTitle": "Machining Processes and Metrology",
+        "CourseType": "ETL",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "L Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "37",
+        "CourseCode": "MEE2020",
+        "CourseTitle": "Metal Forming Theory and Practice",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A B",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "38",
+        "CourseCode": "MEE3001",
+        "CourseTitle": "Design of Machine Elements",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "39",
+        "CourseCode": "MEE3099",
+        "CourseTitle": "Industrial Internship",
+        "CourseType": "PJT",
+        "Credits": "2.0",
+        "Grade": "I S",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "40",
+        "CourseCode": "STS3001",
+        "CourseTitle": "Preparedness for External Opportunities",
+        "CourseType": "SS",
+        "Credits": "C 1.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "41",
+        "CourseCode": "MEE2016",
+        "CourseTitle": "Rapid Manufacturing Technologies",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "15-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "42",
+        "CourseCode": "MEE2025",
+        "CourseTitle": "Fluid Power Systems",
+        "CourseType": "ETL",
+        "Credits": "I 4.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "15-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "43",
+        "CourseCode": "MEE2026",
+        "CourseTitle": "Turbo Machines",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "15-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "44",
+        "CourseCode": "MEE3999",
+        "CourseTitle": "Technical Answers for Real World Problems (TARP)",
+        "CourseType": "ETP",
+        "Credits": "F 3.0",
+        "Grade": "A",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "17-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "45",
+        "CourseCode": "MEE4007",
+        "CourseTitle": "Design of Transmission Systems",
+        "CourseType": "F ETP",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "15-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "46",
+        "CourseCode": "MGT1028",
+        "CourseTitle": "O Accounting and Financial Management",
+        "CourseType": "ETP",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "15-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UE"
+      },
+      {
+        "Slno": "47",
+        "CourseCode": "STS3005",
+        "CourseTitle": "Code Mithra",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "E",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "17-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "48",
+        "CourseCode": "MEE1012",
+        "CourseTitle": "Alternative Fuels",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2019",
+        "ResultDeclaredOn": "07-Feb-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "49",
+        "CourseCode": "MEE2008",
+        "CourseTitle": "N Product Design for Manufacturing",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2019",
+        "ResultDeclaredOn": "07-Feb-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "50",
+        "CourseCode": "MEE2014",
+        "CourseTitle": "Metal Casting Technology",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2019",
+        "ResultDeclaredOn": "07-Feb-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "51",
+        "CourseCode": "MEE3003",
+        "CourseTitle": "U Engineering Failure Analysis",
+        "CourseType": "ETP",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2019",
+        "ResultDeclaredOn": "07-Feb-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "52",
+        "CourseCode": "MEE4098",
+        "CourseTitle": "Comprehensive Examination",
+        "CourseType": "PJT",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2019",
+        "ResultDeclaredOn": "07-Feb-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "53",
+        "CourseCode": "STS3007",
+        "CourseTitle": "Career Skill Development",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2019",
+        "ResultDeclaredOn": "07-Feb-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "54",
+        "CourseCode": "MEE4099",
+        "CourseTitle": "Capstone Project",
+        "CourseType": "PJT",
+        "Credits": "20.0",
+        "Grade": "S",
+        "ExamMonth": "Jun-2020",
+        "ResultDeclaredOn": "13-Jun-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      }
+    ],
+    "curriculum_details": [
+      {
+        "CurriculumDistributionType": "Programme Core",
+        "CreditsRequired": "60.0",
+        "CreditsEarned": "60.0"
+      },
+      {
+        "CurriculumDistributionType": "Programme Elective",
+        "CreditsRequired": "36.0",
+        "CreditsEarned": "44.0"
+      },
+      {
+        "CurriculumDistributionType": "University Core",
+        "CreditsRequired": "72.0",
+        "CreditsEarned": "72.0"
+      }
+    ],
+    "curriculum_details_1": [
+      {
+        "UniversityElective": "Bridge Course",
+        "120": "0.0",
+        "40": "0.0"
+      },
+      {
+        "UniversityElective": "Total Credits",
+        "120": "180.0",
+        "40": "180.0"
+      }
+    ],
+    "basket_details": [
+      {
+        "BasketTitle": "Soft Skills",
+        "DistributionType": "UC",
+        "CreditsRequired": "6.0",
+        "CreditsEarned": "6.0"
+      },
+      {
+        "BasketTitle": "Co-Extra Curricular Basket",
+        "DistributionType": "UC",
+        "CreditsRequired": "L 2.0",
+        "CreditsEarned": "2.0"
+      },
+      {
+        "BasketTitle": "Foreign Language Course Basket",
+        "DistributionType": "UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "2.0"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "180.0",
+        "CreditsEarned": "180.0",
+        "Cgpa": "8.48",
+        "SGrades": "3",
+        "AGrades": "18",
+        "BGrades": "25",
+        "ICGrades": "6",
+        "DGrades": "0",
+        "EGrades": "1",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

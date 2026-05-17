@@ -1,0 +1,304 @@
+{
+  "student_information": {
+    "register_number": "19BME1017",
+    "name": "SRIVAIKUNTHAN N"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "CHY1002",
+        "CourseTitle": "Environmental Sciences",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N3",
+        "ExamMonth": "Nov-2019",
+        "ResultDeclaredOn": "08-Feb-2020",
+        "CourseOption": "NC",
+        "CourseDistribUtion": "NC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "ENG1902",
+        "CourseTitle": "Technical English - II",
+        "CourseType": "LO",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2019",
+        "ResultDeclaredOn": "08-Feb-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "FRE1001",
+        "CourseTitle": "Francais quotidien",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "S",
+        "ExamMonth": "Nov-2019",
+        "ResultDeclaredOn": "08-Feb-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "MAT1011",
+        "CourseTitle": "Calculus for Engineers",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2019",
+        "ResultDeclaredOn": "08-Feb-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "MEE1001",
+        "CourseTitle": "Engineering Drawing",
+        "CourseType": "ETL",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2019",
+        "ResultDeclaredOn": "02-Mar-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "MEE1005",
+        "CourseTitle": "Materials Engineering and Technology",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "S",
+        "ExamMonth": "L Nov-2019",
+        "ResultDeclaredOn": "08-Feb-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "PHY1701",
+        "CourseTitle": "Engineering Physics",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "S",
+        "ExamMonth": "Nov-2019",
+        "ResultDeclaredOn": "08-Feb-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "STS1201",
+        "CourseTitle": "Introduction to Problem Solving",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "A B",
+        "ExamMonth": "Nov-2019",
+        "ResultDeclaredOn": "17-Feb-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "CHY1701",
+        "CourseTitle": "Engineering Chemistry",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Jun-2020",
+        "ResultDeclaredOn": "16-Jun-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "CSE1001",
+        "CourseTitle": "Problem Solving and Programming",
+        "CourseType": "LO",
+        "Credits": "3.0",
+        "Grade": "I S",
+        "ExamMonth": "Jun-2020",
+        "ResultDeclaredOn": "16-Jun-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "ECE1001",
+        "CourseTitle": "Fundamentals of Electrical Circuits",
+        "CourseType": "ETL",
+        "Credits": "C 3.0",
+        "Grade": "A",
+        "ExamMonth": "Jun-2020",
+        "ResultDeclaredOn": "16-Jun-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UE"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "ECE1002",
+        "CourseTitle": "Semiconductor Devices and Circuits",
+        "CourseType": "ETL",
+        "Credits": "I 4.0",
+        "Grade": "B",
+        "ExamMonth": "Jun-2020",
+        "ResultDeclaredOn": "16-Jun-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UE"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "HUM1021",
+        "CourseTitle": "Ethics and Values",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Jun-2020",
+        "ResultDeclaredOn": "16-Jun-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "MAT2001",
+        "CourseTitle": "Statistics for Engineers",
+        "CourseType": "ETL",
+        "Credits": "F 4.0",
+        "Grade": "A",
+        "ExamMonth": "Jun-2020",
+        "ResultDeclaredOn": "16-Jun-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "MEE1003",
+        "CourseTitle": "Engineering Thermodynamics",
+        "CourseType": "F TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jun-2020",
+        "ResultDeclaredOn": "16-Jun-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "ONL1011",
+        "CourseTitle": "Computer Networks",
+        "CourseType": "OC",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jun-2020",
+        "ResultDeclaredOn": "12-Aug-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UE"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "ONL1022",
+        "CourseTitle": "Operating Systems",
+        "CourseType": "OC",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jun-2020",
+        "ResultDeclaredOn": "12-Aug-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UE"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "PHY1901",
+        "CourseTitle": "O Introduction to Innovative Projects",
+        "CourseType": "TH",
+        "Credits": "1.0",
+        "Grade": "S",
+        "ExamMonth": "Jun-2020",
+        "ResultDeclaredOn": "19-Jun-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "STS1202",
+        "CourseTitle": "N Introduction to Quantitative, Logical and Verbal Ability",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "Jun-2020",
+        "ResultDeclaredOn": "24-Jun-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      }
+    ],
+    "curriculum_details": [
+      {
+        "CurriculumDistributionType": "Programme Core",
+        "CreditsRequired": "60.0",
+        "CreditsEarned": "10.0"
+      },
+      {
+        "CurriculumDistributionType": "Programme Elective",
+        "CreditsRequired": "35.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "University Core",
+        "CreditsRequired": "53.0",
+        "CreditsEarned": "28.0"
+      },
+      {
+        "CurriculumDistributionType": "University Elective",
+        "CreditsRequired": "12.0",
+        "CreditsEarned": "13.0"
+      },
+      {
+        "CurriculumDistributionType": "Bridge Course",
+        "CreditsRequired": "4.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Non Credit Course",
+        "CreditsRequired": "5.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Total Credits",
+        "CreditsRequired": "160.0",
+        "CreditsEarned": "51.0"
+      }
+    ],
+    "basket_details": [
+      {
+        "SoftSkills": "Co-Extra Curricular Basket",
+        "Uc": "NC",
+        "60": "2.0",
+        "20": "0.0"
+      },
+      {
+        "SoftSkills": "Foreign Language Course Basket",
+        "Uc": "UC",
+        "60": "2.0",
+        "20": "2.0"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "51.0",
+        "CreditsEarned": "51.0",
+        "Cgpa": "9.08",
+        "SGrades": "5",
+        "AGrades": "8",
+        "BGrades": "5",
+        "CGrades": "L 0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

@@ -1,0 +1,499 @@
+{
+  "student_information": {
+    "register_number": "23BLA1081",
+    "name": "K ANIRUTHAN"
+  },
+  "tables": {
+    "grade_history_combined": [
+      {
+        "Slno": "1",
+        "CourseCode": "TLAW101L",
+        "CourseTitle": "Introduction to Law and Legal methods",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "N1",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "CMC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "TLAW101L",
+        "CourseTitle": "Introduction to Law and Legal methods",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "CMC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "TLAW140L",
+        "CourseTitle": "Environmental Science",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "CMC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "TLAW161L",
+        "CourseTitle": "Colonialism in India",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "L Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "MAC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "TLAW163L",
+        "CourseTitle": "Micro Economics",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "MIC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "TLAW165L",
+        "CourseTitle": "Political Theory",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "D",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "MAC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "TLAW167L",
+        "CourseTitle": "Principles of Sociology",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "A B",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "25-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "MIC"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "TLAW181L",
+        "CourseTitle": "General English",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "D",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "ELC"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "TGER101L",
+        "CourseTitle": "German I",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "17-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FL"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "TLAW102L",
+        "CourseTitle": "Law of Torts, Consumer Protection and Motor Vehicles Act",
+        "CourseType": "ETL",
+        "Credits": "C 4.0",
+        "Grade": "I B",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "17-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "CMC"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "TLAW103L",
+        "CourseTitle": "Law of Contracts",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "17-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "CMC"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "TLAW162L",
+        "CourseTitle": "Principles of Modern Government",
+        "CourseType": "TH",
+        "Credits": "I 4.0",
+        "Grade": "A",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "17-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "MAC"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "TLAW164L",
+        "CourseTitle": "Social Process and Social Change",
+        "CourseType": "TH",
+        "Credits": "F 4.0",
+        "Grade": "B",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "17-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "MIC"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "TLAW166L",
+        "CourseTitle": "Macro Economics",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "17-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "MIC"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "TLAW182L",
+        "CourseTitle": "English for Lawyers",
+        "CourseType": "F TH",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "17-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "ELC"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "TLAW201L",
+        "CourseTitle": "Special Contracts",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "D",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "CMC"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "TLAW202L",
+        "CourseTitle": "Law of Crimes- I",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "CMC"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "TLAW261L",
+        "CourseTitle": "O Political Thought: Indian and Western",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "MAC"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "TLAW262L",
+        "CourseTitle": "Public Finance Theory and Practice",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "MIC"
+      },
+      {
+        "Slno": "20",
+        "CourseCode": "TLAW263L",
+        "CourseTitle": "N Law and Social Transformation",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "MIC"
+      },
+      {
+        "Slno": "21",
+        "CourseCode": "TLAW448L",
+        "CourseTitle": "Indian Legal System",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "OE"
+      },
+      {
+        "Slno": "22",
+        "CourseCode": "AEXC140N",
+        "CourseTitle": "U Sports for Healthy Life",
+        "CourseType": "ECA",
+        "Credits": "2.0",
+        "Grade": "P",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "03-Jun-2025",
+        "CourseOption": "NCPF",
+        "CourseDistribUtion": "CMC"
+      },
+      {
+        "Slno": "23",
+        "CourseCode": "TLAW203L",
+        "CourseTitle": "Constitutional Law- I",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "02-Jun-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "CMC"
+      },
+      {
+        "Slno": "24",
+        "CourseCode": "TLAW204L",
+        "CourseTitle": "Family Law – I (Marriage, Legitimacy and Guardianship)",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "02-Jun-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "CMC"
+      },
+      {
+        "Slno": "25",
+        "CourseCode": "TLAW205L",
+        "CourseTitle": "Law of Crimes – II (Cr.P.C.)",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "02-Jun-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "CMC"
+      },
+      {
+        "Slno": "26",
+        "CourseCode": "TLAW206L",
+        "CourseTitle": "Labour and Industrial Law I",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "02-Jun-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "CMC"
+      },
+      {
+        "Slno": "27",
+        "CourseCode": "TLAW207L",
+        "CourseTitle": "Jurisprudence",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "02-Jun-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "CMC"
+      },
+      {
+        "Slno": "28",
+        "CourseCode": "TLAW264L",
+        "CourseTitle": "Public Administration",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "02-Jun-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "MAC"
+      },
+      {
+        "Slno": "29",
+        "CourseCode": "TLAW301L",
+        "CourseTitle": "Constitutional Law II",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "CMC"
+      },
+      {
+        "Slno": "30",
+        "CourseCode": "TLAW302L",
+        "CourseTitle": "Law of Evidence",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "CMC"
+      },
+      {
+        "Slno": "31",
+        "CourseCode": "TLAW303L",
+        "CourseTitle": "Family Law-II",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "CMC"
+      },
+      {
+        "Slno": "32",
+        "CourseCode": "TLAW304L",
+        "CourseTitle": "Code of Civil Procedure and Limitation",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "CMC"
+      },
+      {
+        "Slno": "33",
+        "CourseCode": "TLAW312L",
+        "CourseTitle": "International Relations",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "E",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "MAC"
+      },
+      {
+        "Slno": "34",
+        "CourseCode": "TLAW450L",
+        "CourseTitle": "Interpretation of Statues",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "OE"
+      }
+    ],
+    "curriculum_details": [
+      {
+        "CurriculumDistributionType": "Open Elective",
+        "CreditsRequired": "A 8.0",
+        "CreditsEarned": "8.0"
+      },
+      {
+        "CurriculumDistributionType": "English Language Courses",
+        "CreditsRequired": "8.0",
+        "CreditsEarned": "8.0"
+      },
+      {
+        "CurriculumDistributionType": "Minor Courses",
+        "CreditsRequired": "I 24.0",
+        "CreditsEarned": "24.0"
+      },
+      {
+        "CurriculumDistributionType": "Major Courses",
+        "CreditsRequired": "24.0",
+        "CreditsEarned": "24.0"
+      },
+      {
+        "CurriculumDistributionType": "Compulsory Courses",
+        "CreditsRequired": "C 102.0",
+        "CreditsEarned": "60.0"
+      },
+      {
+        "CurriculumDistributionType": "Compulsory Clinical Courses",
+        "CreditsRequired": "16.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Optional Courses",
+        "CreditsRequired": "I 24.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Honors Courses",
+        "CreditsRequired": "F 32.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Foreign Language",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "2.0"
+      },
+      {
+        "CurriculumDistributionType": "Total Credits",
+        "CreditsRequired": "240.0",
+        "CreditsEarned": "126.0"
+      }
+    ],
+    "basket_details": [
+      {
+        "OBasketTitle": "Extracurricular Activities",
+        "DistributionType": "CMC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "2.0"
+      },
+      {
+        "OBasketTitle": "Foreign Language",
+        "DistributionType": "FL",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "2.0"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "124.0",
+        "CreditsEarned": "124.0",
+        "Cgpa": "7.39",
+        "USGrades": "0",
+        "AGrades": "1",
+        "BGrades": "17",
+        "CGrades": "9",
+        "DGrades": "4",
+        "EGrades": "1",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

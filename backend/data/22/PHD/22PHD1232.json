@@ -1,0 +1,91 @@
+{
+  "student_information": {
+    "register_number": "22PHD1232",
+    "name": "SANGEETH VENU"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "MEDS603L",
+        "CourseTitle": "Design and Analysis of Algorithms",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Jan-2024",
+        "ResultDeclaredOn": "31-Jan-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RSS00563",
+        "CourseTitle": "ROS2 FOR BEGINNERS",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Jan-2024",
+        "ResultDeclaredOn": "31-Jan-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "RSS00563",
+        "CourseTitle": "ROS2 FOR BEGINNERS",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Jul-2023",
+        "ResultDeclaredOn": "31-Jul-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "ONL00090",
+        "CourseTitle": "ADVANCED ROBOTICS",
+        "CourseType": "ONL",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Apr-2024",
+        "ResultDeclaredOn": "30-Apr-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "RES7001",
+        "CourseTitle": "Research Methodology",
+        "CourseType": "RM",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "Jul-2023",
+        "ResultDeclaredOn": "31-Jul-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "RMC0001",
+        "CourseTitle": "Research and Publication Ethics",
+        "CourseType": "RMC",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Jul-2023",
+        "ResultDeclaredOn": "31-Jul-2023",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "15.0",
+        "CreditsEarned": "15.0",
+        "Cgpa": "7.33",
+        "SGrades": "0",
+        "AGrades": "0",
+        "BGrades": "2",
+        "CGrades": "3",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "student_information": {
+    "register_number": "22PHD1133",
+    "name": "RANJITH KUMAR T"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "RES701",
+        "CourseTitle": "RESEARCH METHODOLOGY- SENSE",
+        "CourseType": "RM",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Feb-2023",
+        "ResultDeclaredOn": "23-Feb-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RMC0001",
+        "CourseTitle": "RESEARCH AND PUBLICATION ETHICS- SENSE",
+        "CourseType": "RMC",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Feb-2023",
+        "ResultDeclaredOn": "23-Feb-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "MVLD507L",
+        "CourseTitle": "IC Technology",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "30-Jun-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "RSS00441",
+        "CourseTitle": "PHYSICS OF VLSI DEVICES",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "23-Jun-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "RSS00442",
+        "CourseTitle": "NANOSCALE DEVICES AND CIRCUIT DESIGN",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "23-Jun-2023",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "15.0",
+        "CreditsEarned": "15.0",
+        "Cgpa": "8.40",
+        "SGrades": "1",
+        "AGrades": "1",
+        "BGrades": "2",
+        "CGrades": "1",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

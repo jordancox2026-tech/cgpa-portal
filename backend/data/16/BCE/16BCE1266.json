@@ -1,0 +1,455 @@
+{
+  "student_information": {
+    "register_number": "16BCE1266",
+    "name": "MIHIR MADHANI"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "CHY1001",
+        "CourseTitle": "Engineering Chemistry",
+        "CourseType": "ETLP",
+        "Credits": "5.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2016",
+        "ResultDeclaredOn": "23-Dec-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "CSE1001",
+        "CourseTitle": "Problem Solving and Programming",
+        "CourseType": "LO",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2016",
+        "ResultDeclaredOn": "23-Dec-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "EEE1001",
+        "CourseTitle": "Basic Electrical and Electronics Engineering",
+        "CourseType": "ETL",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2016",
+        "ResultDeclaredOn": "23-Dec-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "ENG1011",
+        "CourseTitle": "English for Engineers",
+        "CourseType": "ELP",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "L Nov-2016",
+        "ResultDeclaredOn": "27-Dec-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "FRE1001",
+        "CourseTitle": "Francais quotidien",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2016",
+        "ResultDeclaredOn": "23-Dec-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "HUM1021",
+        "CourseTitle": "Ethics and Values",
+        "CourseType": "ETP",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2016",
+        "ResultDeclaredOn": "23-Dec-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "MAT1011",
+        "CourseTitle": "Calculus for Engineers",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "A A",
+        "ExamMonth": "Nov-2016",
+        "ResultDeclaredOn": "23-Dec-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "PHY1001",
+        "CourseTitle": "Engineering Physics",
+        "CourseType": "ETLP",
+        "Credits": "5.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2016",
+        "ResultDeclaredOn": "26-Dec-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "CHY1002",
+        "CourseTitle": "Environmental Sciences",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "19-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "CSE1002",
+        "CourseTitle": "Problem Solving and Object Oriented Programming",
+        "CourseType": "LO",
+        "Credits": "C 3.0",
+        "Grade": "I S",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "19-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "CSE1003",
+        "CourseTitle": "Digital Logic and Design",
+        "CourseType": "ETLP",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "19-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "CSE2004",
+        "CourseTitle": "Database Management Systems",
+        "CourseType": "ETLP",
+        "Credits": "I 4.0",
+        "Grade": "B",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "19-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "MAT2001",
+        "CourseTitle": "Statistics for Engineers",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "19-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "MAT2002",
+        "CourseTitle": "Applications of Differential and Difference Equations",
+        "CourseType": "ETL",
+        "Credits": "F 4.0",
+        "Grade": "C",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "19-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "PHY1999",
+        "CourseTitle": "Introduction to Innovative Projects",
+        "CourseType": "F ETP",
+        "Credits": "2.0",
+        "Grade": "S",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "08-Jul-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "STS1001",
+        "CourseTitle": "Soft Skills",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "A",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "14-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "CSE2001",
+        "CourseTitle": "O Computer Architecture and Organization",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "20-Feb-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "CSE2003",
+        "CourseTitle": "N Data Structures and Algorithms",
+        "CourseType": "ETLP",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "20-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "CSE3001",
+        "CourseTitle": "Software Engineering",
+        "CourseType": "ETLP",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "20-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "20",
+        "CourseCode": "CSE3002",
+        "CourseTitle": "Internet and Web Programming",
+        "CourseType": "ETLP",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "20-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "21",
+        "CourseCode": "MAT1014",
+        "CourseTitle": "U Discrete Mathematics and Graph Theory",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "20-Feb-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "22",
+        "CourseCode": "MGT1022",
+        "CourseTitle": "Lean Start-up Management",
+        "CourseType": "ETP",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "20-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "23",
+        "CourseCode": "STS2001",
+        "CourseTitle": "Soft Skills",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "28-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "24",
+        "CourseCode": "CSE1004",
+        "CourseTitle": "Network and Communication",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "25",
+        "CourseCode": "CSE2002",
+        "CourseTitle": "Theory of Computation and Compiler Design",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "26",
+        "CourseCode": "CSE2005",
+        "CourseTitle": "Operating Systems",
+        "CourseType": "ETLP",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "27",
+        "CourseCode": "CSE2006",
+        "CourseTitle": "Microprocessor and Interfacing",
+        "CourseType": "ETLP",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "28",
+        "CourseCode": "CSE3020",
+        "CourseTitle": "Data Visualization",
+        "CourseType": "ETLP",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "29",
+        "CourseCode": "EXC1064",
+        "CourseTitle": "Skills of Quizing(Quiz Club)",
+        "CourseType": "ECA",
+        "Credits": "2.0",
+        "Grade": "P",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "11-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "30",
+        "CourseCode": "MAT3004",
+        "CourseTitle": "Applied Linear Algebra",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "31",
+        "CourseCode": "STS2002",
+        "CourseTitle": "Introduction to Etiquette",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "A",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      }
+    ],
+    "curriculum_details": [
+      {
+        "CurriculumDistributionType": "Programme Core",
+        "CreditsRequired": "58.0",
+        "CreditsEarned": "54.0"
+      },
+      {
+        "CurriculumDistributionType": "Programme Elective",
+        "CreditsRequired": "L 38.0",
+        "CreditsEarned": "4.0"
+      },
+      {
+        "CurriculumDistributionType": "University Core",
+        "CreditsRequired": "72.0",
+        "CreditsEarned": "42.0"
+      },
+      {
+        "CurriculumDistributionType": "University Elective",
+        "CreditsRequired": "12.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Bridge Course",
+        "CreditsRequired": "A 0.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Total Credits",
+        "CreditsRequired": "180.0",
+        "CreditsEarned": "100.0"
+      }
+    ],
+    "basket_details": [
+      {
+        "BasketTitle": "Chemistry / Biology",
+        "CDistributionType": "UC",
+        "CreditsRequired": "5.0",
+        "CreditsEarned": "5.0"
+      },
+      {
+        "BasketTitle": "Soft Skills",
+        "CDistributionType": "I UC",
+        "CreditsRequired": "6.0",
+        "CreditsEarned": "3.0"
+      },
+      {
+        "BasketTitle": "Co-Extra Curricular Basket",
+        "CDistributionType": "UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "2.0"
+      },
+      {
+        "BasketTitle": "Foreign Language Course Basket",
+        "CDistributionType": "F UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "2.0"
+      }
+    ],
+    "f_cgpa_details": [
+      {
+        "CreditsRegistered": "100.0",
+        "CreditsEarned": "100.0",
+        "Cgpa": "8.52",
+        "SGrades": "3",
+        "AGrades": "O 15",
+        "BGrades": "10",
+        "CGrades": "2",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

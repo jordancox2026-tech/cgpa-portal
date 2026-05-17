@@ -1,0 +1,497 @@
+{
+  "student_information": {
+    "register_number": "17BLC1092",
+    "name": "BABBURI VENKATA SASI KIRAN"
+  },
+  "tables": {
+    "grade_history_combined": [
+      {
+        "Slno": "1",
+        "CourseCode": "CHY1002",
+        "CourseTitle": "Environmental Sciences",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "19-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "CSE1001",
+        "CourseTitle": "Problem Solving and Programming",
+        "CourseType": "LO",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "19-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "ECM1001",
+        "CourseTitle": "Circuit Theory",
+        "CourseType": "ETL",
+        "Credits": "3.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "20-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "ECM1001",
+        "CourseTitle": "Circuit Theory",
+        "CourseType": "ETL",
+        "Credits": "3.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "ENG1011",
+        "CourseTitle": "English for Engineers",
+        "CourseType": "LO",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "L Nov-2017",
+        "ResultDeclaredOn": "19-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "HUM1021",
+        "CourseTitle": "Ethics and Values",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "E",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "19-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "MAT1011",
+        "CourseTitle": "Calculus for Engineers",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "20-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "PHY1701",
+        "CourseTitle": "Engineering Physics",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "A N",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "20-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "PHY1701",
+        "CourseTitle": "Engineering Physics",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Jul-2018",
+        "ResultDeclaredOn": "17-Jul-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "STS1001",
+        "CourseTitle": "Introduction to Soft Skills",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "I C",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "28-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "CHI1001",
+        "CourseTitle": "Chinese for Engineers",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "CHY1701",
+        "CourseTitle": "Engineering Chemistry",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "E",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "CSE1002",
+        "CourseTitle": "Problem Solving and Object Oriented Programming",
+        "CourseType": "LO",
+        "Credits": "C I 3.0",
+        "Grade": "C",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "ECE1002",
+        "CourseTitle": "Semiconductor Devices and Circuits",
+        "CourseType": "ETL",
+        "Credits": "F 4.0",
+        "Grade": "C",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "ECE1005",
+        "CourseTitle": "Sensors and Instrumentation",
+        "CourseType": "ETP",
+        "Credits": "2.0",
+        "Grade": "N",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "ECE1005",
+        "CourseTitle": "Sensors and Instrumentation",
+        "CourseType": "F ETP",
+        "Credits": "2.0",
+        "Grade": "N",
+        "ExamMonth": "Jul-2018",
+        "ResultDeclaredOn": "17-Jul-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "ECE1008",
+        "CourseTitle": "O Electronics Hardware Trouble Shooting",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "MAT2002",
+        "CourseTitle": "Applications of Differential and Difference Equations",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "PHY1999",
+        "CourseTitle": "N Introduction to Innovative Projects",
+        "CourseType": "ETP",
+        "Credits": "2.0",
+        "Grade": "N",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "20",
+        "CourseCode": "PHY1999",
+        "CourseTitle": "Introduction to Innovative Projects",
+        "CourseType": "ETP",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "21",
+        "CourseCode": "STS1002",
+        "CourseTitle": "U Introduction to Business Communication",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "C",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "22",
+        "CourseCode": "ECE2002",
+        "CourseTitle": "Analog Electronic Circuits",
+        "CourseType": "ETLP",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "23",
+        "CourseCode": "ECE2003",
+        "CourseTitle": "Digital Logic Design",
+        "CourseType": "ETL",
+        "Credits": "3.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "24",
+        "CourseCode": "ECM1002",
+        "CourseTitle": "Analysis of Data Structures and Algorithms",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "25",
+        "CourseCode": "MAT1014",
+        "CourseTitle": "Discrete Mathematics and Graph Theory",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "N2",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "26",
+        "CourseCode": "MAT2001",
+        "CourseTitle": "Statistics for Engineers",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "27",
+        "CourseCode": "STS2001",
+        "CourseTitle": "Reasoning Skill Enhancement",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "28",
+        "CourseCode": "ECE1004",
+        "CourseTitle": "Signals and Systems",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "N",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "15-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "29",
+        "CourseCode": "ECE3003",
+        "CourseTitle": "Microcontroller and its Applications",
+        "CourseType": "ETLP",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "17-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "30",
+        "CourseCode": "ECE3004",
+        "CourseTitle": "Computer Organization and Architectures",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "15-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "31",
+        "CourseCode": "ECE3013",
+        "CourseTitle": "Linear Integrated Circuits",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "15-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "32",
+        "CourseCode": "EXC1003",
+        "CourseTitle": "ABCD-AnyBody Can Dance(Dance Club)",
+        "CourseType": "ECA",
+        "Credits": "2.0",
+        "Grade": "P",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "11-Jul-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "33",
+        "CourseCode": "MAT3004",
+        "CourseTitle": "Applied Linear Algebra",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "N2",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "15-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "34",
+        "CourseCode": "MGT1022",
+        "CourseTitle": "Lean Start-up Management",
+        "CourseType": "ETP",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "17-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "35",
+        "CourseCode": "STS2002",
+        "CourseTitle": "Introduction to Etiquette",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "D",
+        "ExamMonth": "L Apr-2019",
+        "ResultDeclaredOn": "17-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      }
+    ],
+    "i_curriculum_details": [
+      {
+        "CurriculumDistributionType": "Programme Core",
+        "CreditsRequired": "C 59.0",
+        "CreditsEarned": "7.0"
+      },
+      {
+        "CurriculumDistributionType": "Programme Elective",
+        "CreditsRequired": "39.0",
+        "CreditsEarned": "1.0"
+      },
+      {
+        "CurriculumDistributionType": "University Core",
+        "CreditsRequired": "I 70.0",
+        "CreditsEarned": "29.0"
+      },
+      {
+        "CurriculumDistributionType": "University Elective",
+        "CreditsRequired": "F 12.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Bridge Course",
+        "CreditsRequired": "0.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Total Credits",
+        "CreditsRequired": "180.0",
+        "CreditsEarned": "37.0"
+      }
+    ],
+    "basket_details": [
+      {
+        "OBasketTitle": "Soft Skills",
+        "DistributionType": "UC",
+        "CreditsRequired": "6.0",
+        "CreditsEarned": "4.0"
+      },
+      {
+        "OBasketTitle": "Co-Extra Curricular Basket",
+        "DistributionType": "UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "2.0"
+      },
+      {
+        "OBasketTitle": "N Foreign Language Course Basket",
+        "DistributionType": "UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "2.0"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "88.0",
+        "CreditsEarned": "37.0",
+        "Cgpa": "2.81",
+        "USGrades": "0",
+        "AGrades": "3",
+        "BGrades": "2",
+        "CGrades": "6",
+        "DGrades": "3",
+        "EGrades": "2",
+        "FGrades": "0",
+        "NGrades": "14"
+      }
+    ]
+  }
+}

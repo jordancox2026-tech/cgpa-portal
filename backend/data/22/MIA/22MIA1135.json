@@ -1,0 +1,256 @@
+{
+  "student_information": {
+    "register_number": "22MIA1135",
+    "name": "SRI SAHITI THOGARRATE VENKATA"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "CHY1002",
+        "CourseTitle": "Environmental Sciences",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NC",
+        "CourseDistribUtion": "NC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "CSE1013",
+        "CourseTitle": "Problem Solving and programming in C",
+        "CourseType": "LO",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "ENG1902",
+        "CourseTitle": "Technical English - II",
+        "CourseType": "LO",
+        "Credits": "2.0",
+        "Grade": "S",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "FRE1001",
+        "CourseTitle": "Francais quotidien",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "L Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "HUM1021",
+        "CourseTitle": "Ethics and Values",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "E",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "MAT5015",
+        "CourseTitle": "Mathematics for Engineers",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "PHY1701",
+        "CourseTitle": "Engineering Physics",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "A B",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "06-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "STS1021",
+        "CourseTitle": "Introduction to Soft Skills",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "C",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "CSE1018",
+        "CourseTitle": "Problem Solving and Object Oriented Programming in Java",
+        "CourseType": "LO",
+        "Credits": "3.0",
+        "Grade": "I N3",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "09-Jul-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "CSE1021",
+        "CourseTitle": "Digital Logic and Computer Organization",
+        "CourseType": "TH",
+        "Credits": "C 3.0",
+        "Grade": "N2",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "23-Jul-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "EEE1019",
+        "CourseTitle": "Foundations of Electrical and Electronics Engineering",
+        "CourseType": "ETL",
+        "Credits": "I 4.0",
+        "Grade": "N",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "23-Jul-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "MAT1021",
+        "CourseTitle": "Probability and Statistics for Engineers",
+        "CourseType": "ETL",
+        "Credits": "F 4.0",
+        "Grade": "N",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "23-Jul-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "STS1022",
+        "CourseTitle": "Introduction to Business Communication",
+        "CourseType": "F SS",
+        "Credits": "1.0",
+        "Grade": "N3",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "09-Jul-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "SWE1004",
+        "CourseTitle": "Database Management Systems",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "23-Jul-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "SWE2001",
+        "CourseTitle": "O Data Structures and Algorithms",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "23-Jul-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      }
+    ],
+    "curriculum_details": [
+      {
+        "CurriculumDistributionType": "Programme Core",
+        "CreditsRequired": "84.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Programme Elective",
+        "CreditsRequired": "67.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "University Core",
+        "CreditsRequired": "59.0",
+        "CreditsEarned": "18.0"
+      },
+      {
+        "CurriculumDistributionType": "University Elective",
+        "CreditsRequired": "12.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Bridge Course",
+        "CreditsRequired": "4.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Non Credit Course",
+        "CreditsRequired": "4.0",
+        "CreditsEarned": "3.0"
+      },
+      {
+        "CurriculumDistributionType": "Total Credits",
+        "CreditsRequired": "222.0",
+        "CreditsEarned": "21.0"
+      }
+    ],
+    "basket_details": [
+      {
+        "BasketTitle": "Soft Skills",
+        "DistributionType": "UC",
+        "CreditsRequired": "8.0",
+        "CreditsEarned": "1.0"
+      },
+      {
+        "BasketTitle": "Co-Extra Curricular Basket",
+        "DistributionType": "NC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "0.0"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "41.0",
+        "CreditsEarned": "18.0",
+        "Cgpa": "3.61",
+        "SGrades": "1",
+        "AGrades": "2",
+        "BGrades": "2",
+        "CGrades": "1",
+        "DGrades": "0",
+        "EGrades": "1",
+        "FGrades": "0",
+        "NGrades": "7"
+      }
+    ]
+  }
+}

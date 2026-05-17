@@ -1,0 +1,102 @@
+{
+  "student_information": {
+    "register_number": "25MES1002",
+    "name": "SUMIT PRASHANT DHAN"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "MAEDS501",
+        "CourseTitle": "Embedded System Design",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "MAEDS502",
+        "CourseTitle": "Microcontroller Architecture and Organization",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "MAEDS503",
+        "CourseTitle": "Embedded Programming",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "MAEDS506",
+        "CourseTitle": "System Design using FPGA",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "MAEDS612",
+        "CourseTitle": "Machine Learning and Deep Learning",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "MAENG501",
+        "CourseTitle": "Technical Report Writing",
+        "CourseType": "TheoryLab",
+        "Credits": "3.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "MASTS501",
+        "CourseTitle": "Qualitative and Quantitative Skills Practice I",
+        "CourseType": "SS",
+        "Credits": "3.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "18-Dec-2025",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "26.0",
+        "CreditsEarned": "0.0",
+        "Cgpa": "0.00",
+        "SGrades": "0",
+        "AGrades": "0",
+        "BGrades": "0",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "7"
+      }
+    ]
+  }
+}

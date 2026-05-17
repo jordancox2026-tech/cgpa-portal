@@ -1,0 +1,791 @@
+{
+  "student_information": {
+    "register_number": "15BEE1008",
+    "name": "BHAVIK BARVE"
+  },
+  "tables": {
+    "grade_history_combined": [
+      {
+        "Slno": "1",
+        "CourseCode": "CHY1001",
+        "CourseTitle": "Engineering Chemistry",
+        "CourseType": "ETLP",
+        "Credits": "5.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "23-Dec-2015",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "CSE1001",
+        "CourseTitle": "Problem Solving and Programming",
+        "CourseType": "LO",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "23-Dec-2015",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "EEE1002",
+        "CourseTitle": "Electric Circuits",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "23-Dec-2015",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "ENG1011",
+        "CourseTitle": "English for Engineers",
+        "CourseType": "ETL",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "23-Dec-2015",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "MAT1011",
+        "CourseTitle": "Calculus for Engineers",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "L Nov-2015",
+        "ResultDeclaredOn": "23-Dec-2015",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "PHY1001",
+        "CourseTitle": "Engineering Physics",
+        "CourseType": "ETLP",
+        "Credits": "5.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "23-Dec-2015",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "CHY1002",
+        "CourseTitle": "Environmental Sciences",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "22-Jun-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "EEE1003",
+        "CourseTitle": "Electrical Workshop",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "A S",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "10-Jun-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "EEE1004",
+        "CourseTitle": "Engineering Electromagnetics",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "10-Jun-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "EEE2001",
+        "CourseTitle": "Network Theory",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "I B",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "10-Jun-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "EEE2002",
+        "CourseTitle": "Semiconductor Devices and Circuits",
+        "CourseType": "ETLP",
+        "Credits": "C 4.0",
+        "Grade": "B",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "10-Jun-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "GER1001",
+        "CourseTitle": "Basic German",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "10-Jun-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "HUM1021",
+        "CourseTitle": "Ethics and Values",
+        "CourseType": "ETP",
+        "Credits": "I 2.0",
+        "Grade": "D",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "15-Jul-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "MAT2002",
+        "CourseTitle": "Applications of Differential and Difference Equations",
+        "CourseType": "ETL",
+        "Credits": "F 4.0",
+        "Grade": "C",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "10-Jun-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "PHY1999",
+        "CourseTitle": "Introduction to Innovative Projects",
+        "CourseType": "F ETP",
+        "Credits": "2.0",
+        "Grade": "S",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "05-Jul-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "STS1001",
+        "CourseTitle": "Soft Skills",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "28-Jun-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "ECE1005",
+        "CourseTitle": "O Sensors and Instrumentation",
+        "CourseType": "ETP",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2016",
+        "ResultDeclaredOn": "23-Dec-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UE"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "EEE1005",
+        "CourseTitle": "Signals and Systems",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2016",
+        "ResultDeclaredOn": "23-Dec-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "EEE1018",
+        "CourseTitle": "N Nanotechnology Fundamentals and its Applications",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2016",
+        "ResultDeclaredOn": "23-Dec-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "20",
+        "CourseCode": "EEE2003",
+        "CourseTitle": "Electromechanical Energy Conversion",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2016",
+        "ResultDeclaredOn": "23-Dec-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "21",
+        "CourseCode": "EEE2004",
+        "CourseTitle": "U Measurement and Instrumentation",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2016",
+        "ResultDeclaredOn": "23-Dec-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "22",
+        "CourseCode": "MAT3003",
+        "CourseTitle": "Complex Variables and Partial Differential Equations",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2016",
+        "ResultDeclaredOn": "23-Dec-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "23",
+        "CourseCode": "MEE1006",
+        "CourseTitle": "Applied Mechanics and Thermal Engineering",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2016",
+        "ResultDeclaredOn": "23-Dec-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "24",
+        "CourseCode": "MGT1027",
+        "CourseTitle": "Product Design, Management Techniques and Entrepreneurship",
+        "CourseType": "ETP",
+        "Credits": "4.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2016",
+        "ResultDeclaredOn": "23-Dec-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UE"
+      },
+      {
+        "Slno": "25",
+        "CourseCode": "STS2001",
+        "CourseTitle": "Soft Skills",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2016",
+        "ResultDeclaredOn": "03-Jan-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "26",
+        "CourseCode": "EEE3001",
+        "CourseTitle": "Control Systems",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "19-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "27",
+        "CourseCode": "EEE3002",
+        "CourseTitle": "Analog and Digital Circuits",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "19-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "28",
+        "CourseCode": "EEE3004",
+        "CourseTitle": "Power Electronics and Drives",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "19-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "29",
+        "CourseCode": "EEE3005",
+        "CourseTitle": "Design of Electrical Apparatus",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "N",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "19-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "30",
+        "CourseCode": "EEE3006",
+        "CourseTitle": "Special Electrical Machines",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "19-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "31",
+        "CourseCode": "EXC1059",
+        "CourseTitle": "National Entrepreneurship Network",
+        "CourseType": "ECA",
+        "Credits": "2.0",
+        "Grade": "P",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "14-Jul-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "32",
+        "CourseCode": "MAT3005",
+        "CourseTitle": "Applied Numerical Methods",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "19-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "33",
+        "CourseCode": "MGT1022",
+        "CourseTitle": "Lean Start-up Management",
+        "CourseType": "ETP",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "L May-2017",
+        "ResultDeclaredOn": "19-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "34",
+        "CourseCode": "STS2002",
+        "CourseTitle": "Soft Skills",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "14-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "35",
+        "CourseCode": "EEE3003",
+        "CourseTitle": "Power System Engineering",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "A C",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "20-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "36",
+        "CourseCode": "EEE3099",
+        "CourseTitle": "Industrial Internship",
+        "CourseType": "PJT",
+        "Credits": "2.0",
+        "Grade": "I S",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "10-Jan-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "37",
+        "CourseCode": "EEE4001",
+        "CourseTitle": "Microprocessor and Microcontroller",
+        "CourseType": "ETL",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "20-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "38",
+        "CourseCode": "EEE4015",
+        "CourseTitle": "Power Converter Analysis and Design",
+        "CourseType": "ETP",
+        "Credits": "C 3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "20-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "39",
+        "CourseCode": "EEE4017",
+        "CourseTitle": "Industrial Drives and Automation",
+        "CourseType": "ETP",
+        "Credits": "I 4.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "20-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "40",
+        "CourseCode": "EEE4018",
+        "CourseTitle": "Advanced Control Theory",
+        "CourseType": "ETP",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "20-Feb-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "41",
+        "CourseCode": "MAT2001",
+        "CourseTitle": "Statistics for Engineers",
+        "CourseType": "ETL",
+        "Credits": "F 4.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "20-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "42",
+        "CourseCode": "STS3001",
+        "CourseTitle": "Soft Skills",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "28-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "43",
+        "CourseCode": "CSE1002",
+        "CourseTitle": "Problem Solving and Object Oriented Programming",
+        "CourseType": "F LO",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "44",
+        "CourseCode": "EEE1007",
+        "CourseTitle": "O Neural Network and Fuzzy Control",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "45",
+        "CourseCode": "EEE2005",
+        "CourseTitle": "Digital Signal Processing",
+        "CourseType": "ETL",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "46",
+        "CourseCode": "EEE3999",
+        "CourseTitle": "N Technical Answers for Real World Problems (TARP)",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "47",
+        "CourseCode": "EEE4004",
+        "CourseTitle": "Distributed Generation and Microgrids",
+        "CourseType": "ETP",
+        "Credits": "4.0",
+        "Grade": "D",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "48",
+        "CourseCode": "EEE4020",
+        "CourseTitle": "U Embedded System Design",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "49",
+        "CourseCode": "HUM1039",
+        "CourseTitle": "Community Development in India",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UE"
+      },
+      {
+        "Slno": "50",
+        "CourseCode": "PHY1002",
+        "CourseTitle": "Materials Science",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "51",
+        "CourseCode": "STS3005",
+        "CourseTitle": "Code Mithra",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "A",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "52",
+        "CourseCode": "EEE4008",
+        "CourseTitle": "High Voltage Engineering",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "May-2018",
+        "ResultDeclaredOn": "07-Jun-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "53",
+        "CourseCode": "EEE4002",
+        "CourseTitle": "Power System Protection and Switchgear",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "54",
+        "CourseCode": "EEE4016",
+        "CourseTitle": "Electric Vehicles",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "55",
+        "CourseCode": "EEE4098",
+        "CourseTitle": "Comprehensive Examination",
+        "CourseType": "PJT",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "56",
+        "CourseCode": "MGT1046",
+        "CourseTitle": "Sales and Distribution Management",
+        "CourseType": "ETP",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UE"
+      },
+      {
+        "Slno": "57",
+        "CourseCode": "STS3007",
+        "CourseTitle": "Career Skill Development",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "58",
+        "CourseCode": "EEE4099",
+        "CourseTitle": "Capstone Project",
+        "CourseType": "PJT",
+        "Credits": "20.0",
+        "Grade": "S",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "22-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      }
+    ],
+    "course_change_history": [
+      {
+        "CourseCode": "EEE4004",
+        "CourseTitle": "Distributed Generation and Microgrids",
+        "ExamMonth": "Apr-2018",
+        "PreviousCode": "EEE3005",
+        "PreviousTitle": "Design of Electrical Apparatus",
+        "ChangeType": "Course Substitution"
+      },
+      {
+        "CourseCode": "EEE4008",
+        "CourseTitle": "High Voltage Engineering",
+        "ExamMonth": "May-2018",
+        "PreviousCode": "L EEE4018",
+        "PreviousTitle": "Advanced Control Theory",
+        "ChangeType": "Course Substitution"
+      }
+    ],
+    "a_curriculum_details": [
+      {
+        "CurriculumDistributionType": "Programme Core",
+        "CreditsRequired": "59.0",
+        "CreditsEarned": "59.0"
+      },
+      {
+        "CurriculumDistributionType": "Programme Elective",
+        "CreditsRequired": "I 37.0",
+        "CreditsEarned": "41.0"
+      },
+      {
+        "CurriculumDistributionType": "University Core",
+        "CreditsRequired": "72.0",
+        "CreditsEarned": "72.0"
+      },
+      {
+        "CurriculumDistributionType": "University Elective",
+        "CreditsRequired": "C 12.0",
+        "CreditsEarned": "13.0"
+      },
+      {
+        "CurriculumDistributionType": "Bridge Course",
+        "CreditsRequired": "I 0.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Total Credits",
+        "CreditsRequired": "180.0",
+        "CreditsEarned": "185.0"
+      }
+    ],
+    "basket_details": [
+      {
+        "BasketTitle": "Soft Skills",
+        "FDistributionType": "UC",
+        "CreditsRequired": "6.0",
+        "CreditsEarned": "6.0"
+      },
+      {
+        "BasketTitle": "Co-Extra Curricular Basket",
+        "FDistributionType": "UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "2.0"
+      },
+      {
+        "BasketTitle": "O Foreign Language Course Basket",
+        "FDistributionType": "UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "2.0"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "185.0",
+        "CreditsEarned": "185.0",
+        "Cgpa": "7.87",
+        "NSGrades": "6",
+        "AGrades": "8",
+        "BGrades": "20",
+        "CGrades": "12",
+        "DGrades": "7",
+        "EGrades": "2",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

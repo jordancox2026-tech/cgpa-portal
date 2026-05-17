@@ -1,0 +1,91 @@
+{
+  "student_information": {
+    "register_number": "23PHD1040",
+    "name": "SHANJU JOSSIAN"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "RMC0001",
+        "CourseTitle": "RESEARCH AND PUBLICATION ETHICS",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jan-2024",
+        "ResultDeclaredOn": "31-Jan-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RMC701",
+        "CourseTitle": "RESEARCH METHODOLOGY",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Jan-2024",
+        "ResultDeclaredOn": "31-Jan-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "MCDM608L",
+        "CourseTitle": "Computational Fluid Dynamics",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "MCDM608P",
+        "CourseTitle": "Computational Fluid Dynamics Lab",
+        "CourseType": "Lab",
+        "Credits": "1.0",
+        "Grade": "S",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "28-May-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "RSS00933",
+        "CourseTitle": "ADVANCED POWDER PRODUCTION AND CHARACTERIZATION TECHNOLOGIES",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "21-Jun-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "RSS00934",
+        "CourseTitle": "PRODUCT DESIGN AND LIFE CYCLE MANAGEMENT",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "21-Jun-2024",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "16.0",
+        "CreditsEarned": "16.0",
+        "Cgpa": "8.69",
+        "SGrades": "1",
+        "AGrades": "3",
+        "BGrades": "2",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

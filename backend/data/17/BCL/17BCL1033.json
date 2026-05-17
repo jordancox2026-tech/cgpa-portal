@@ -1,0 +1,473 @@
+{
+  "student_information": {
+    "register_number": "17BCL1033",
+    "name": "SHIVANSHU"
+  },
+  "tables": {
+    "grade_history_combined": [
+      {
+        "Slno": "1",
+        "CourseCode": "CHY1701",
+        "CourseTitle": "Engineering Chemistry",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "20-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "ENG1011",
+        "CourseTitle": "English for Engineers",
+        "CourseType": "LO",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "19-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "HUM1021",
+        "CourseTitle": "Ethics and Values",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "19-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "MAT1011",
+        "CourseTitle": "Calculus for Engineers",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "20-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "MEE1001",
+        "CourseTitle": "Engineering Drawing",
+        "CourseType": "ETL",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "08-Jan-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "PHY1701",
+        "CourseTitle": "Engineering Physics",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "L Nov-2017",
+        "ResultDeclaredOn": "20-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "STS1001",
+        "CourseTitle": "Introduction to Soft Skills",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2017",
+        "ResultDeclaredOn": "28-Dec-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "CHI1001",
+        "CourseTitle": "Chinese for Engineers",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "CHY1002",
+        "CourseTitle": "Environmental Sciences",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A B",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "CLE1003",
+        "CourseTitle": "Surveying",
+        "CourseType": "ETLP",
+        "Credits": "5.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "CLE1007",
+        "CourseTitle": "Construction Materials and Techniques",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "I B",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "CSE1001",
+        "CourseTitle": "Problem Solving and Programming",
+        "CourseType": "LO",
+        "Credits": "C 3.0",
+        "Grade": "E",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "MAT2001",
+        "CourseTitle": "Statistics for Engineers",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "MEE1002",
+        "CourseTitle": "Engineering Mechanics",
+        "CourseType": "TH",
+        "Credits": "I 3.0",
+        "Grade": "E",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "PHY1999",
+        "CourseTitle": "Introduction to Innovative Projects",
+        "CourseType": "ETP",
+        "Credits": "F 2.0",
+        "Grade": "C",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "STS1002",
+        "CourseTitle": "Introduction to Business Communication",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "C",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "09-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "CLE1006",
+        "CourseTitle": "Environmental Engineering",
+        "CourseType": "F ETLP",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "CLE1010",
+        "CourseTitle": "O Natural Disaster Mitigation and Management",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "CLE2001",
+        "CourseTitle": "Building Drawing",
+        "CourseType": "ETLP",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "20",
+        "CourseCode": "CLE2002",
+        "CourseTitle": "Strength of Materials",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "21",
+        "CourseCode": "CLE2022",
+        "CourseTitle": "N Economics and Business Finance for Civil Engineers",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "22",
+        "CourseCode": "MAT2002",
+        "CourseTitle": "U Applications of Differential and Difference Equations",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "23",
+        "CourseCode": "MEE1004",
+        "CourseTitle": "Fluid Mechanics",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "24",
+        "CourseCode": "STS2001",
+        "CourseTitle": "Reasoning Skill Enhancement",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "25",
+        "CourseCode": "CLE1004",
+        "CourseTitle": "Soil Mechanics and Foundation Engineering",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "15-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "26",
+        "CourseCode": "CLE1011",
+        "CourseTitle": "Engineering Geology",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "N",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "15-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "27",
+        "CourseCode": "CLE2003",
+        "CourseTitle": "Structural Analysis",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N2",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "15-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "28",
+        "CourseCode": "CLE2004",
+        "CourseTitle": "Water Resource Engineering",
+        "CourseType": "ETLP",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "15-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "29",
+        "CourseCode": "CLE2005",
+        "CourseTitle": "Transportation Engineering",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "N",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "15-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "30",
+        "CourseCode": "EXC1001",
+        "CourseTitle": "Service to the Society(National Service Scheme)",
+        "CourseType": "ECA",
+        "Credits": "2.0",
+        "Grade": "P",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "11-Jul-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "31",
+        "CourseCode": "MAT3003",
+        "CourseTitle": "Complex Variables and Partial Differential Equations",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "N2",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "15-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "32",
+        "CourseCode": "MGT1022",
+        "CourseTitle": "Lean Start-up Management",
+        "CourseType": "ETP",
+        "Credits": "2.0",
+        "Grade": "F",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "17-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "33",
+        "CourseCode": "STS2002",
+        "CourseTitle": "Introduction to Etiquette",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "N2",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "17-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      }
+    ],
+    "i_curriculum_details": [
+      {
+        "CurriculumDistributionType": "Programme Core",
+        "CreditsRequired": "C 61.0",
+        "CreditsEarned": "25.0"
+      },
+      {
+        "CurriculumDistributionType": "Programme Elective",
+        "CreditsRequired": "37.0",
+        "CreditsEarned": "6.0"
+      },
+      {
+        "CurriculumDistributionType": "University Core",
+        "CreditsRequired": "I 70.0",
+        "CreditsEarned": "31.0"
+      },
+      {
+        "CurriculumDistributionType": "University Elective",
+        "CreditsRequired": "12.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Bridge Course",
+        "CreditsRequired": "F 0.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Total Credits",
+        "CreditsRequired": "180.0",
+        "CreditsEarned": "62.0"
+      }
+    ],
+    "basket_details": [
+      {
+        "OBasketTitle": "Soft Skills",
+        "DistributionType": "UC",
+        "CreditsRequired": "6.0",
+        "CreditsEarned": "3.0"
+      },
+      {
+        "OBasketTitle": "Co-Extra Curricular Basket",
+        "DistributionType": "UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "2.0"
+      },
+      {
+        "OBasketTitle": "N Foreign Language Course Basket",
+        "DistributionType": "UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "2.0"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "98.0",
+        "CreditsEarned": "62.0",
+        "Cgpa": "4.47",
+        "USGrades": "0",
+        "AGrades": "1",
+        "BGrades": "7",
+        "CGrades": "9",
+        "DGrades": "2",
+        "EGrades": "2",
+        "FGrades": "1",
+        "NGrades": "10"
+      }
+    ]
+  }
+}

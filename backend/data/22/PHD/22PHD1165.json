@@ -1,0 +1,80 @@
+{
+  "student_information": {
+    "register_number": "22PHD1165",
+    "name": "KATHIRVEL K"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "RES701",
+        "CourseTitle": "RESEARCH METHODOLOGY",
+        "CourseType": "RM",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Feb-2023",
+        "ResultDeclaredOn": "28-Feb-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RMC0001",
+        "CourseTitle": "RESEARCH AND PUBLICATION ETHICS",
+        "CourseType": "RMC",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Feb-2023",
+        "ResultDeclaredOn": "28-Feb-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "RSS00508",
+        "CourseTitle": "ADVANCED POWER CONVERTERS",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jul-2023",
+        "ResultDeclaredOn": "21-Jul-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "RSS00509",
+        "CourseTitle": "ELECTRIC VEHICLE TECHNOLOGY AND MODELING",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jul-2023",
+        "ResultDeclaredOn": "21-Jul-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "ONLx1009",
+        "CourseTitle": "Introduction to Machine Learning",
+        "CourseType": "ONL",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "Oct-2023",
+        "ResultDeclaredOn": "31-Oct-2023",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "15.0",
+        "CreditsEarned": "15.0",
+        "Cgpa": "8.07",
+        "SGrades": "0",
+        "AGrades": "3",
+        "BGrades": "1",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "1",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

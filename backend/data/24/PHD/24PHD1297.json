@@ -1,0 +1,91 @@
+{
+  "student_information": {
+    "register_number": "24PHD1297",
+    "name": "PRANEETHA J"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "PENG504N",
+        "CourseTitle": "English For Researchers",
+        "CourseType": "TheoryLab",
+        "Credits": "3.0",
+        "Grade": "P",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "02-Jun-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "PRES706L",
+        "CourseTitle": "Research Methodology",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "02-Jun-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "PRMC001L",
+        "CourseTitle": "Research And Publication Ethics",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "02-Jun-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "MAVLD502",
+        "CourseTitle": "Digital IC Design",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "RSS01603",
+        "CourseTitle": "NEXT- GEN VLSI DEVICE PHYSICS: FROM CMOS TO BEYOND",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "19-Dec-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "RSS01604",
+        "CourseTitle": "ADVANCED NANOSCALE DEVICES AND CIRCUIT DESIGN",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "19-Dec-2025",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "19.0",
+        "CreditsEarned": "16.0",
+        "Cgpa": "7.26",
+        "SGrades": "0",
+        "AGrades": "3",
+        "BGrades": "2",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

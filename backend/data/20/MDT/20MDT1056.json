@@ -1,0 +1,343 @@
+{
+  "student_information": {
+    "register_number": "20MDT1056",
+    "name": "SINDHUJA T"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "ENG5003",
+        "CourseTitle": "English for Science and Technology",
+        "CourseType": "LO",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "MAT5010",
+        "CourseTitle": "Foundations of Data Science",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N1",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "MAT5011",
+        "CourseTitle": "Matrix Theory and Linear Algebra",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N1",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "MAT5011",
+        "CourseTitle": "Matrix Theory and Linear Algebra",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N1",
+        "ExamMonth": "L Jul-2021",
+        "ResultDeclaredOn": "11-Aug-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "MAT5012",
+        "CourseTitle": "Probability Theory and Distributions",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "A N",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "MAT6012",
+        "CourseTitle": "Programming for Data Analysis",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "MAT6012",
+        "CourseTitle": "Programming for Data Analysis",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "I D",
+        "ExamMonth": "Jul-2021",
+        "ResultDeclaredOn": "11-Aug-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "RES5001",
+        "CourseTitle": "Research Methodology",
+        "CourseType": "TH",
+        "Credits": "C 2.0",
+        "Grade": "E",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "SET5001",
+        "CourseTitle": "Science, Engineering and Technology Project - I",
+        "CourseType": "PJT",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "12-Mar-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "STS4001",
+        "CourseTitle": "Essentials of Business Etiquettes",
+        "CourseType": "SS",
+        "Credits": "I 1.0",
+        "Grade": "N1",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "STS4001",
+        "CourseTitle": "Essentials of Business Etiquettes",
+        "CourseType": "SS",
+        "Credits": "F 1.0",
+        "Grade": "C",
+        "ExamMonth": "Jul-2021",
+        "ResultDeclaredOn": "11-Aug-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "CSE5007",
+        "CourseTitle": "Exploratory Data Analysis",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "N",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "21-Jul-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UE"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "MAT5013",
+        "CourseTitle": "Statistical Inference",
+        "CourseType": "F ETL",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "21-Jul-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "MAT5016",
+        "CourseTitle": "Time series analysis and Forecasting",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "21-Jul-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "MAT6002",
+        "CourseTitle": "O Regression Analysis and Predictive Models",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "21-Jul-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "MAT6005",
+        "CourseTitle": "N Machine learning for Data Science",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "21-Jul-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "SET5002",
+        "CourseTitle": "Science, Engineering and Technology Project - II",
+        "CourseType": "PJT",
+        "Credits": "2.0",
+        "Grade": "F",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "22-Jul-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "STS4002",
+        "CourseTitle": "Preparing for Industry",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "N1",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "21-Jul-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "CSE6060",
+        "CourseTitle": "U Statistical Natural Language Processing",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N3",
+        "ExamMonth": "Dec-2021",
+        "ResultDeclaredOn": "29-Jan-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UE"
+      },
+      {
+        "Slno": "20",
+        "CourseCode": "MAT5017",
+        "CourseTitle": "Multivariate Data Analysis",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Dec-2021",
+        "ResultDeclaredOn": "29-Jan-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "21",
+        "CourseCode": "MAT6007",
+        "CourseTitle": "Deep learning",
+        "CourseType": "ETL",
+        "Credits": "3.0",
+        "Grade": "N",
+        "ExamMonth": "Dec-2021",
+        "ResultDeclaredOn": "29-Jan-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "22",
+        "CourseCode": "MAT6008",
+        "CourseTitle": "Artificial intelligence for Data Science",
+        "CourseType": "ETL",
+        "Credits": "3.0",
+        "Grade": "N",
+        "ExamMonth": "Dec-2021",
+        "ResultDeclaredOn": "29-Jan-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "23",
+        "CourseCode": "MAT6010",
+        "CourseTitle": "Optimization Techniques",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "N3",
+        "ExamMonth": "Dec-2021",
+        "ResultDeclaredOn": "29-Jan-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "24",
+        "CourseCode": "MAT6011",
+        "CourseTitle": "Statistical Quality Control",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Dec-2021",
+        "ResultDeclaredOn": "09-Feb-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      }
+    ],
+    "curriculum_details": [
+      {
+        "ProgrammeCore": "Programme Elective",
+        "230": "22.0",
+        "00": "4.0"
+      },
+      {
+        "ProgrammeCore": "University Core",
+        "230": "29.0",
+        "00": "7.0"
+      },
+      {
+        "ProgrammeCore": "University Elective",
+        "230": "6.0",
+        "00": "0.0"
+      },
+      {
+        "ProgrammeCore": "Total Credits",
+        "230": "80.0",
+        "00": "11.0"
+      }
+    ],
+    "l_basket_details": [
+      {
+        "BasketTitle": "Soft Skills",
+        "DistributionType": "UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "1.0"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "64.0",
+        "CreditsEarned": "11.0",
+        "Cgpa": "1.11",
+        "SGrades": "0",
+        "AGrades": "0",
+        "BGrades": "1",
+        "ICGrades": "2",
+        "DGrades": "1",
+        "EGrades": "1",
+        "FGrades": "4",
+        "NGrades": "12"
+      }
+    ]
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "student_information": {
+    "register_number": "23MVD1042",
+    "name": "PRIYANKA CHAURASIYA"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "MENG501P",
+        "CourseTitle": "Technical Report Writing",
+        "CourseType": "LO",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "05-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "SE"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "MSTS501P",
+        "CourseTitle": "Qualitative Skills Practice",
+        "CourseType": "SS",
+        "Credits": "1.5",
+        "Grade": "D",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "05-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "SE"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "MVLD501L",
+        "CourseTitle": "Physics of VLSI Devices",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "MVLD502L",
+        "CourseTitle": "Digital IC Design",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "MVLD503L",
+        "CourseTitle": "Digital Design with FPGA",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "E",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "MVLD503P",
+        "CourseTitle": "Digital Design with FPGA Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "L Dec-2023",
+        "ResultDeclaredOn": "05-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "MVLD504L",
+        "CourseTitle": "Analog IC Design",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N1",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "18-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "MVLD504L",
+        "CourseTitle": "Analog IC Design",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A A",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "MVLD504P",
+        "CourseTitle": "Analog IC Design Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "05-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "MVLD507L",
+        "CourseTitle": "IC Technology",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "I A",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "MVLD601L",
+        "CourseTitle": "Computer Aided Design for VLSI",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "MVLD696J",
+        "CourseTitle": "Study Oriented Project",
+        "CourseType": "PJT",
+        "Credits": "C 2.0",
+        "Grade": "A",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "04-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PI"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "MSTS502P",
+        "CourseTitle": "Quantitative Skills Practice",
+        "CourseType": "SS",
+        "Credits": "I 1.5",
+        "Grade": "E",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "28-May-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "SE"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "MSTS601L",
+        "CourseTitle": "Advanced Competitive Coding",
+        "CourseType": "SS",
+        "Credits": "F 3.0",
+        "Grade": "C",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "01-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "OE"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "MVLD505L",
+        "CourseTitle": "ASIC Design",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "MVLD505P",
+        "CourseTitle": "ASIC Design Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "28-May-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "MVLD506L",
+        "CourseTitle": "VLSI Testing and Testability",
+        "CourseType": "F TH",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "MVLD506P",
+        "CourseTitle": "O VLSI Testing and Testability Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "C",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "28-May-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "MVLD602L",
+        "CourseTitle": "Low Power IC Design",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "20",
+        "CourseCode": "MVLD603L",
+        "CourseTitle": "VLSI Verification Methodologies",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "21",
+        "CourseCode": "MVLD616L",
+        "CourseTitle": "N Scripting Languages for Electronic Design Automation",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "22",
+        "CourseCode": "MVLD697J",
+        "CourseTitle": "U Design Project",
+        "CourseType": "PJT",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "28-May-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PI"
+      },
+      {
+        "Slno": "23",
+        "CourseCode": "MVLD698J",
+        "CourseTitle": "Internship I/ Dissertation I",
+        "CourseType": "PJT",
+        "Credits": "10.0",
+        "Grade": "A",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "03-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PI"
+      },
+      {
+        "Slno": "24",
+        "CourseCode": "MVLD699J",
+        "CourseTitle": "Internship II/ Dissertation II",
+        "CourseType": "PJT",
+        "Credits": "12.0",
+        "Grade": "A",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "12-May-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PI"
+      }
+    ],
+    "curriculum_details": [
+      {
+        "CurriculumDistributionType": "Discipline Core",
+        "CreditsRequired": "24.0",
+        "CreditsEarned": "24.0"
+      },
+      {
+        "CurriculumDistributionType": "Discipline Elective",
+        "CreditsRequired": "12.0",
+        "CreditsEarned": "12.0"
+      },
+      {
+        "CurriculumDistributionType": "Projects and Internship",
+        "CreditsRequired": "26.0",
+        "CreditsEarned": "26.0"
+      },
+      {
+        "CurriculumDistributionType": "Open Elective",
+        "CreditsRequired": "3.0",
+        "CreditsEarned": "3.0"
+      },
+      {
+        "CurriculumDistributionType": "Skill Enhancement",
+        "CreditsRequired": "5.0",
+        "CreditsEarned": "5.0"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "70.0",
+        "CreditsEarned": "70.0",
+        "Cgpa": "7.88",
+        "SGrades": "0",
+        "AGrades": "6",
+        "BGrades": "6",
+        "LCGrades": "7",
+        "DGrades": "1",
+        "EGrades": "3",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

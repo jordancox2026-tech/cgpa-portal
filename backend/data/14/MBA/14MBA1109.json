@@ -1,0 +1,531 @@
+{
+  "student_information": {
+    "register_number": "14MBA1109",
+    "name": "RASHMI S"
+  },
+  "tables": {
+    "grade_history_combined": [
+      {
+        "Slno": "1",
+        "CourseCode": "BMT5057",
+        "CourseTitle": "Business to Business Marketing",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Jan-2016",
+        "ResultDeclaredOn": "08-Mar-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "BMT5058",
+        "CourseTitle": "Digital and Social Media Marketing",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Jan-2016",
+        "ResultDeclaredOn": "08-Mar-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "BMT5063",
+        "CourseTitle": "New Product Strategy",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Jan-2016",
+        "ResultDeclaredOn": "08-Mar-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "BMT5064",
+        "CourseTitle": "Event Management",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Jan-2016",
+        "ResultDeclaredOn": "08-Mar-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "BMT5072",
+        "CourseTitle": "Recruitment and Selection",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Jan-2016",
+        "ResultDeclaredOn": "16-Mar-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "BMT5105",
+        "CourseTitle": "Financial Modelling Using Spreadsheet",
+        "CourseType": "TheoryLab",
+        "Credits": "2.0",
+        "Grade": "D",
+        "ExamMonth": "Jan-2016",
+        "ResultDeclaredOn": "08-Mar-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "BMT6006",
+        "CourseTitle": "Mergers, Acquisitions and Restructuring",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Jan-2016",
+        "ResultDeclaredOn": "08-Mar-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "BMT5013",
+        "CourseTitle": "Macro Economics",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Feb-2015",
+        "ResultDeclaredOn": "01-Apr-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "BMT5014",
+        "CourseTitle": "Employability Skills - Written and Oral Communication",
+        "CourseType": "Lab",
+        "Credits": "1.0",
+        "Grade": "C",
+        "ExamMonth": "Feb-2015",
+        "ResultDeclaredOn": "01-Apr-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "BMT5015",
+        "CourseTitle": "Production and Operations Management",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Feb-2015",
+        "ResultDeclaredOn": "01-Apr-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "BMT5016",
+        "CourseTitle": "Applied Operations Research",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "Feb-2015",
+        "ResultDeclaredOn": "01-Apr-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "BMT5017",
+        "CourseTitle": "Human Resource Management",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Feb-2015",
+        "ResultDeclaredOn": "01-Apr-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "BMT5026",
+        "CourseTitle": "Consumer Goods Marketing",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "Feb-2015",
+        "ResultDeclaredOn": "01-Apr-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "BMT6001",
+        "CourseTitle": "Financial Management",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Feb-2015",
+        "ResultDeclaredOn": "01-Apr-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "BMT5018",
+        "CourseTitle": "Business Research Methods",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "Apr-2015",
+        "ResultDeclaredOn": "19-Jun-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "BMT5019",
+        "CourseTitle": "Employability Skills- Interpersonal Skills",
+        "CourseType": "Lab",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2015",
+        "ResultDeclaredOn": "19-Jun-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "BMT5020",
+        "CourseTitle": "Financial Markets",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Apr-2015",
+        "ResultDeclaredOn": "19-Jun-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "BMT5021",
+        "CourseTitle": "Business Intellegence",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2015",
+        "ResultDeclaredOn": "19-Jun-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "BMT5027",
+        "CourseTitle": "Service Marketing",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2015",
+        "ResultDeclaredOn": "19-Jun-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "20",
+        "CourseCode": "BMT5028",
+        "CourseTitle": "Strategy Formulation and Implementation",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Apr-2015",
+        "ResultDeclaredOn": "19-Jun-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "21",
+        "CourseCode": "BMT5029",
+        "CourseTitle": "Legal Aspects of Business",
+        "CourseType": "Theory",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2015",
+        "ResultDeclaredOn": "19-Jun-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "22",
+        "CourseCode": "BMT6002",
+        "CourseTitle": "Supply Chain Management",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2015",
+        "ResultDeclaredOn": "19-Jun-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "23",
+        "CourseCode": "BMT5053",
+        "CourseTitle": "Wealth Management",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "13-Jun-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "24",
+        "CourseCode": "BMT5022",
+        "CourseTitle": "Employability Skills - Placement Readiness",
+        "CourseType": "Lab",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "Sep-2015",
+        "ResultDeclaredOn": "27-Nov-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "25",
+        "CourseCode": "BMT5023",
+        "CourseTitle": "Entrepreneurship",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Sep-2015",
+        "ResultDeclaredOn": "27-Nov-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "26",
+        "CourseCode": "BMT5024",
+        "CourseTitle": "Corporate Governance and Ethics",
+        "CourseType": "Theory",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "Sep-2015",
+        "ResultDeclaredOn": "27-Nov-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "27",
+        "CourseCode": "BMT5025",
+        "CourseTitle": "Project",
+        "CourseType": "Lab",
+        "Credits": "5.0",
+        "Grade": "A",
+        "ExamMonth": "Sep-2015",
+        "ResultDeclaredOn": "27-Nov-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "28",
+        "CourseCode": "BMT5030",
+        "CourseTitle": "International Business",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Sep-2015",
+        "ResultDeclaredOn": "27-Nov-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "29",
+        "CourseCode": "BMT5051",
+        "CourseTitle": "Financial Services",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "D",
+        "ExamMonth": "Sep-2015",
+        "ResultDeclaredOn": "27-Nov-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "30",
+        "CourseCode": "BMT5056",
+        "CourseTitle": "Costing Methods, Resource Allocation and Management Audit",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "D",
+        "ExamMonth": "Sep-2015",
+        "ResultDeclaredOn": "27-Nov-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "31",
+        "CourseCode": "BMT5059",
+        "CourseTitle": "Retailing",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Sep-2015",
+        "ResultDeclaredOn": "27-Nov-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "32",
+        "CourseCode": "BMT5060",
+        "CourseTitle": "Advertising and Promotions Management",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Sep-2015",
+        "ResultDeclaredOn": "27-Nov-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "33",
+        "CourseCode": "BMT5061",
+        "CourseTitle": "Social Marketing",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Sep-2015",
+        "ResultDeclaredOn": "27-Nov-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "34",
+        "CourseCode": "BMT5065",
+        "CourseTitle": "Brand Management",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Sep-2015",
+        "ResultDeclaredOn": "27-Nov-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "35",
+        "CourseCode": "BMT5001",
+        "CourseTitle": "Spreadsheet for Managers",
+        "CourseType": "Lab",
+        "Credits": "1.0",
+        "Grade": "E",
+        "ExamMonth": "Oct-2014",
+        "ResultDeclaredOn": "05-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "36",
+        "CourseCode": "BMT5002",
+        "CourseTitle": "Inner Development for Managers",
+        "CourseType": "Lab",
+        "Credits": "1.0",
+        "Grade": "S",
+        "ExamMonth": "Oct-2014",
+        "ResultDeclaredOn": "05-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "37",
+        "CourseCode": "BMT5003",
+        "CourseTitle": "Corporate Social Responsibility and Social Entrepreneurship",
+        "CourseType": "Theory",
+        "Credits": "1.0",
+        "Grade": "C",
+        "ExamMonth": "Oct-2014",
+        "ResultDeclaredOn": "05-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "38",
+        "CourseCode": "BMT5004",
+        "CourseTitle": "Short Film Making",
+        "CourseType": "Lab",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "Oct-2014",
+        "ResultDeclaredOn": "05-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "39",
+        "CourseCode": "BMT5005",
+        "CourseTitle": "Organizational Behaviour",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Oct-2014",
+        "ResultDeclaredOn": "05-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "40",
+        "CourseCode": "BMT5006",
+        "CourseTitle": "Employability Skills - Aptitude and Self Awareness",
+        "CourseType": "Lab",
+        "Credits": "1.0",
+        "Grade": "C",
+        "ExamMonth": "Oct-2014",
+        "ResultDeclaredOn": "05-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "41",
+        "CourseCode": "BMT5007",
+        "CourseTitle": "Indian Culture and Ethos",
+        "CourseType": "Theory",
+        "Credits": "1.0",
+        "Grade": "C",
+        "ExamMonth": "Oct-2014",
+        "ResultDeclaredOn": "05-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "42",
+        "CourseCode": "BMT5008",
+        "CourseTitle": "IT for Managers",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "Oct-2014",
+        "ResultDeclaredOn": "05-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "43",
+        "CourseCode": "BMT5009",
+        "CourseTitle": "Selling Skills",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Oct-2014",
+        "ResultDeclaredOn": "05-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "44",
+        "CourseCode": "BMT5010",
+        "CourseTitle": "Accounting for Decision Making",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Oct-2014",
+        "ResultDeclaredOn": "05-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "45",
+        "CourseCode": "BMT5011",
+        "CourseTitle": "Economic Analysis for Managers",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Oct-2014",
+        "ResultDeclaredOn": "05-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "46",
+        "CourseCode": "BMT5012",
+        "CourseTitle": "Statistical Modelling",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "E",
+        "ExamMonth": "Oct-2014",
+        "ResultDeclaredOn": "05-Dec-2014",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "85.0",
+        "CreditsEarned": "85.0",
+        "Cgpa": "7.95",
+        "SGrades": "1",
+        "AGrades": "13",
+        "BGrades": "18",
+        "CGrades": "9",
+        "DGrades": "3",
+        "EGrades": "2",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

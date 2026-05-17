@@ -1,0 +1,332 @@
+{
+  "student_information": {
+    "register_number": "22BEC1037",
+    "name": "BANDARU NAGA VIGNESH"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "BCSE101E",
+        "CourseTitle": "Computer Programming: Python",
+        "CourseType": "ETL",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBES"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "BECE101N",
+        "CourseTitle": "Introduction to Engineering",
+        "CourseType": "PJT",
+        "Credits": "1.0",
+        "Grade": "P",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NCPF",
+        "CourseDistribUtion": "NGCR"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "BEEE102L",
+        "CourseTitle": "Basic Electrical and Electronics Engineering",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBES"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "BEEE102P",
+        "CourseTitle": "Basic Electrical and Electronics Engineering Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "A",
+        "ExamMonth": "L Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBES"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "BENG101L",
+        "CourseTitle": "Technical English Communication",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "A A",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCHSS M"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "BENG101P",
+        "CourseTitle": "Technical English Communication Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "I A",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCHSS M"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "BMAT101L",
+        "CourseTitle": "Calculus",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "BMAT101P",
+        "CourseTitle": "Calculus Lab",
+        "CourseType": "LO",
+        "Credits": "C 1.0",
+        "Grade": "S",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "BPHY101L",
+        "CourseTitle": "Engineering Physics",
+        "CourseType": "TH",
+        "Credits": "I 3.0",
+        "Grade": "A",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "BPHY101P",
+        "CourseTitle": "Engineering Physics Lab",
+        "CourseType": "LO",
+        "Credits": "F 1.0",
+        "Grade": "S",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "BSTS201P",
+        "CourseTitle": "Qualitative Skills Practice I",
+        "CourseType": "F SS",
+        "Credits": "1.5",
+        "Grade": "A",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCHSS M"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "BCHY101L",
+        "CourseTitle": "Engineering Chemistry",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "23-Jul-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "BCHY101P",
+        "CourseTitle": "O Engineering Chemistry Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "S",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "09-Jul-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "BCSE103E",
+        "CourseTitle": "Computer Programming: Java",
+        "CourseType": "ETL",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "23-Jul-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBES"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "BECE201L",
+        "CourseTitle": "N Electronic Materials and devices",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "23-Jul-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DLES"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "BECE203L",
+        "CourseTitle": "Circuit Theory",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "23-Jul-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DLES"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "BHUM101N",
+        "CourseTitle": "U Ethics and Values",
+        "CourseType": "OC",
+        "Credits": "2.0",
+        "Grade": "P",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "09-Jul-2023",
+        "CourseOption": "NCPF",
+        "CourseDistribUtion": "NGCR"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "BMAT102L",
+        "CourseTitle": "Differential Equations and Transforms",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "23-Jul-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "BSTS101P",
+        "CourseTitle": "Quantitative Skills Practice I",
+        "CourseType": "SS",
+        "Credits": "1.5",
+        "Grade": "A",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "09-Jul-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCHSS M"
+      }
+    ],
+    "curriculum_details": [
+      {
+        "CurriculumDistributionType": "Foundation Core - Basic Sciences and Mathematics",
+        "CreditsRequired": "24.0",
+        "CreditsEarned": "16.0"
+      },
+      {
+        "CurriculumDistributionType": "Foundation Core - Basic Engineering Sciences",
+        "CreditsRequired": "10.0",
+        "CreditsEarned": "10.0"
+      }
+    ],
+    "curriculum_details_1": [
+      {
+        "FoundationCoreHumanitiesSocialSciencesAndManagement": "Discipline-linked Engineering Sciences",
+        "150": "10.0",
+        "60": "7.0"
+      },
+      {
+        "FoundationCoreHumanitiesSocialSciencesAndManagement": "Discipline Core",
+        "150": "53.0",
+        "60": "0.0"
+      },
+      {
+        "FoundationCoreHumanitiesSocialSciencesAndManagement": "Discipline Elective",
+        "150": "15.0",
+        "60": "0.0"
+      },
+      {
+        "FoundationCoreHumanitiesSocialSciencesAndManagement": "Projects and Internship",
+        "150": "9.0",
+        "60": "0.0"
+      },
+      {
+        "FoundationCoreHumanitiesSocialSciencesAndManagement": "Open Elective",
+        "150": "L 15.0",
+        "60": "0.0"
+      },
+      {
+        "FoundationCoreHumanitiesSocialSciencesAndManagement": "Non-graded Core Requirement",
+        "150": "11.0",
+        "60": "3.0"
+      },
+      {
+        "FoundationCoreHumanitiesSocialSciencesAndManagement": "Bridge Course",
+        "150": "A 2.0",
+        "60": "0.0"
+      },
+      {
+        "FoundationCoreHumanitiesSocialSciencesAndManagement": "Multidisciplinary Electives",
+        "150": "0.0",
+        "60": "0.0"
+      },
+      {
+        "FoundationCoreHumanitiesSocialSciencesAndManagement": "Total Credits",
+        "150": "I 151.0",
+        "60": "42.0"
+      }
+    ],
+    "c_basket_details": [
+      {
+        "BasketTitle": "Foreign Language",
+        "DistributionType": "I FCHSSM",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "BasketTitle": "Extra curricular activities",
+        "DistributionType": "NGCR",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "BasketTitle": "HSM Elective",
+        "DistributionType": "F FCHSSM",
+        "CreditsRequired": "3.0",
+        "CreditsEarned": "0.0"
+      }
+    ],
+    "f_cgpa_details": [
+      {
+        "CreditsRegistered": "39.0",
+        "CreditsEarned": "39.0",
+        "Cgpa": "9.23",
+        "SGrades": "6",
+        "AGrades": "O 10",
+        "BGrades": "1",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

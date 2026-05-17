@@ -1,0 +1,366 @@
+{
+  "student_information": {
+    "register_number": "15MCS1015",
+    "name": "KARTHICK A"
+  },
+  "tables": {
+    "grade_history_combined": [
+      {
+        "Slno": "1",
+        "CourseCode": "CSE511_20",
+        "CourseTitle": "Advanced Computer Networks",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "D",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "10-Jun-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "CSE601",
+        "CourseTitle": "Knowledge Representation and Reasoning",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "F",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "18-Aug-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "CSE601",
+        "CourseTitle": "Knowledge Representation and Reasoning",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2016",
+        "ResultDeclaredOn": "07-Feb-2017",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "CSE610",
+        "CourseTitle": "Big Data Essentials",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "N1",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "18-Aug-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "ENG601_20",
+        "CourseTitle": "Professional and Communication Skills",
+        "CourseType": "TheoryLab",
+        "Credits": "2.0",
+        "Grade": "E",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "10-Jun-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "SET502",
+        "CourseTitle": "Science, Engineering and Technology Project - II",
+        "CourseType": "Lab",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "29-Jun-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "STS502",
+        "CourseTitle": "Soft Skills",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "C",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "28-Jun-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "CSE699",
+        "CourseTitle": "Masters Thesis",
+        "CourseType": "Lab",
+        "Credits": "16.0",
+        "Grade": "S",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "14-Jun-2017",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "CSE503_20",
+        "CourseTitle": "Advanced Algorithmic Analysis",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "D",
+        "ExamMonth": "Jun-2016",
+        "ResultDeclaredOn": "20-Jun-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "CSE503_20",
+        "CourseTitle": "Advanced Algorithmic Analysis",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "F",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "09-Mar-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "CSE507_20",
+        "CourseTitle": "Advanced Computer Architecture",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "E",
+        "ExamMonth": "Jun-2016",
+        "ResultDeclaredOn": "20-Jun-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "CSE507_20",
+        "CourseTitle": "Advanced Computer Architecture",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "F",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "09-Mar-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "CSE509_20",
+        "CourseTitle": "Advanced Operating Systems",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "F",
+        "ExamMonth": "Jun-2016",
+        "ResultDeclaredOn": "20-Jun-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "CSE509_20",
+        "CourseTitle": "Advanced Operating Systems",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "F",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "09-Mar-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "CSE509_20",
+        "CourseTitle": "Advanced Operating Systems",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Dec-2016",
+        "ResultDeclaredOn": "23-Dec-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "CSE515",
+        "CourseTitle": "Advanced Database Systems",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "F",
+        "ExamMonth": "Jun-2016",
+        "ResultDeclaredOn": "20-Jun-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "CSE515",
+        "CourseTitle": "Advanced Database Systems",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "F",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "09-Mar-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "CSE515",
+        "CourseTitle": "Advanced Database Systems",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2016",
+        "ResultDeclaredOn": "07-Jan-2017",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "MAT503",
+        "CourseTitle": "Higher Mathematics",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "E",
+        "ExamMonth": "Jun-2016",
+        "ResultDeclaredOn": "20-Jun-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "20",
+        "CourseCode": "MAT503",
+        "CourseTitle": "Higher Mathematics",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "F",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "09-Mar-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "21",
+        "CourseCode": "CSE502",
+        "CourseTitle": "Advanced Software Engineering",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Jul-2016",
+        "ResultDeclaredOn": "22-Jul-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "22",
+        "CourseCode": "CSE506_20",
+        "CourseTitle": "Web Services",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "Jul-2016",
+        "ResultDeclaredOn": "22-Jul-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "23",
+        "CourseCode": "CSE532",
+        "CourseTitle": "Adhoc Wireless Networks",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Jul-2016",
+        "ResultDeclaredOn": "22-Jul-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "24",
+        "CourseCode": "CSE533",
+        "CourseTitle": "Computational Intelligence",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "E",
+        "ExamMonth": "Jul-2016",
+        "ResultDeclaredOn": "22-Jul-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "25",
+        "CourseCode": "CSE6013",
+        "CourseTitle": "Advanced Software Testing",
+        "CourseType": "ETLP",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "Jul-2017",
+        "ResultDeclaredOn": "18-Jul-2017",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "26",
+        "CourseCode": "SET501",
+        "CourseTitle": "Science, Engineering and Technology Project - I",
+        "CourseType": "Lab",
+        "Credits": "2.0",
+        "Grade": "E",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "02-Feb-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "27",
+        "CourseCode": "STS501",
+        "CourseTitle": "Soft Skills",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "02-Feb-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "28",
+        "CourseCode": "CSE504",
+        "CourseTitle": "Advanced Computer Graphics",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2016",
+        "ResultDeclaredOn": "23-Dec-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "29",
+        "CourseCode": "CSE510",
+        "CourseTitle": "Distributed Systems",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2016",
+        "ResultDeclaredOn": "23-Dec-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "30",
+        "CourseCode": "CSE534",
+        "CourseTitle": "Data Warehousing and Data Mining",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2016",
+        "ResultDeclaredOn": "23-Dec-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "1",
+        "CourseCode": "ENG602",
+        "CourseTitle": "Professional and Communication Skills - II",
+        "CourseType": "Lab",
+        "Credits": "1.0",
+        "Grade": "U",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "23-Dec-2015",
+        "CourseOption": "Audit"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "82.0",
+        "CreditsEarned": "78.0",
+        "Cgpa": "6.98",
+        "SGrades": "1",
+        "AGrades": "3",
+        "BGrades": "3",
+        "CGrades": "3",
+        "DGrades": "6",
+        "EGrades": "5",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

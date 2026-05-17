@@ -1,0 +1,269 @@
+{
+  "student_information": {
+    "register_number": "16BEE1164",
+    "name": "BHATTACHARYA ISHAN"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "CHY1001",
+        "CourseTitle": "Engineering Chemistry",
+        "CourseType": "ETLP",
+        "Credits": "5.0",
+        "Grade": "S",
+        "ExamMonth": "Nov-2016",
+        "ResultDeclaredOn": "23-Dec-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "CSE1001",
+        "CourseTitle": "Problem Solving and Programming",
+        "CourseType": "LO",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Nov-2016",
+        "ResultDeclaredOn": "23-Dec-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "EEE1002",
+        "CourseTitle": "Electric Circuits",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Nov-2016",
+        "ResultDeclaredOn": "23-Dec-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "EEE1003",
+        "CourseTitle": "Electrical Workshop",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "S",
+        "ExamMonth": "Nov-2016",
+        "ResultDeclaredOn": "23-Dec-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "ENG1011",
+        "CourseTitle": "English for Engineers",
+        "CourseType": "ELP",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "L Nov-2016",
+        "ResultDeclaredOn": "27-Dec-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "MAT1011",
+        "CourseTitle": "Calculus for Engineers",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2016",
+        "ResultDeclaredOn": "23-Dec-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "PHY1001",
+        "CourseTitle": "Engineering Physics",
+        "CourseType": "ETLP",
+        "Credits": "5.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2016",
+        "ResultDeclaredOn": "26-Dec-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "CSE1003",
+        "CourseTitle": "Digital Logic and Design",
+        "CourseType": "ETLP",
+        "Credits": "4.0",
+        "Grade": "A S",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "19-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UE"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "CSE2003",
+        "CourseTitle": "Data Structures and Algorithms",
+        "CourseType": "ETLP",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "21-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UE"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "EEE2001",
+        "CourseTitle": "Network Theory",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "I S",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "19-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "EEE2002",
+        "CourseTitle": "Semiconductor Devices and Circuits",
+        "CourseType": "ETLP",
+        "Credits": "C 4.0",
+        "Grade": "A",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "21-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "HUM1021",
+        "CourseTitle": "Ethics and Values",
+        "CourseType": "ETP",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "19-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "MAT2002",
+        "CourseTitle": "Applications of Differential and Difference Equations",
+        "CourseType": "ETL",
+        "Credits": "I 4.0",
+        "Grade": "S",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "19-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "PHY1999",
+        "CourseTitle": "Introduction to Innovative Projects",
+        "CourseType": "ETP",
+        "Credits": "F 2.0",
+        "Grade": "B",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "08-Jul-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "STS1001",
+        "CourseTitle": "Soft Skills",
+        "CourseType": "F SS",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "14-Jun-2017",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "EXC1064",
+        "CourseTitle": "Skills of Quizing(Quiz Club)",
+        "CourseType": "ECA",
+        "Credits": "2.0",
+        "Grade": "P",
+        "ExamMonth": "Apr-2018",
+        "ResultDeclaredOn": "11-May-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      }
+    ],
+    "curriculum_details": [
+      {
+        "CurriculumDistributionType": "U Programme Core",
+        "CreditsRequired": "59.0",
+        "CreditsEarned": "15.0"
+      },
+      {
+        "CurriculumDistributionType": "Programme Elective",
+        "CreditsRequired": "37.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "University Core",
+        "CreditsRequired": "72.0",
+        "CreditsEarned": "26.0"
+      },
+      {
+        "CurriculumDistributionType": "University Elective",
+        "CreditsRequired": "12.0",
+        "CreditsEarned": "8.0"
+      },
+      {
+        "CurriculumDistributionType": "Bridge Course",
+        "CreditsRequired": "0.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Total Credits",
+        "CreditsRequired": "180.0",
+        "CreditsEarned": "49.0"
+      }
+    ],
+    "basket_details": [
+      {
+        "BasketTitle": "Soft Skills",
+        "DistributionType": "UC",
+        "CreditsRequired": "6.0",
+        "CreditsEarned": "1.0"
+      },
+      {
+        "BasketTitle": "Co-Extra Curricular Basket",
+        "DistributionType": "UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "2.0"
+      },
+      {
+        "BasketTitle": "Foreign Language Course Basket",
+        "DistributionType": "UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "0.0"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "49.0",
+        "CreditsEarned": "49.0",
+        "Cgpa": "9.38",
+        "SGrades": "7",
+        "AGrades": "5",
+        "BGrades": "3",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

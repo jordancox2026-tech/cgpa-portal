@@ -1,0 +1,91 @@
+{
+  "student_information": {
+    "register_number": "23PHD1109",
+    "name": "ANANDAN R"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "RMC0001",
+        "CourseTitle": "RESEARCH AND PUBLICATION ETHICS",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jan-2024",
+        "ResultDeclaredOn": "31-Jan-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RMC701",
+        "CourseTitle": "RESEARCH METHODOLOGY",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Jan-2024",
+        "ResultDeclaredOn": "31-Jan-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "RSS01002",
+        "CourseTitle": "PROBABILITY AND STATISTICS FOR MACHINE LEARNING AND DATA SCIENCE",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Jan-2025",
+        "ResultDeclaredOn": "13-Jan-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "RSS01072",
+        "CourseTitle": "MACHINE LEARNING",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Jan-2025",
+        "ResultDeclaredOn": "13-Jan-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "RSS01427",
+        "CourseTitle": "DEEP LEARNING AND COMPUTER VISION FOR MEDICAL IMAGE ANALYSIS",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "May-2025",
+        "ResultDeclaredOn": "24-Jun-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "ONL00144",
+        "CourseTitle": "INTRODUCTION TO INTERNET OF THINGS",
+        "CourseType": "ONL",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Oct-2024",
+        "ResultDeclaredOn": "31-Oct-2024",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "18.0",
+        "CreditsEarned": "18.0",
+        "Cgpa": "9.33",
+        "SGrades": "3",
+        "AGrades": "2",
+        "BGrades": "1",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

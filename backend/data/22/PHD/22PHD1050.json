@@ -1,0 +1,91 @@
+{
+  "student_information": {
+    "register_number": "22PHD1050",
+    "name": "Not found"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "RES7001",
+        "CourseTitle": "Research Methodology- SAS",
+        "CourseType": "RM",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Feb-2023",
+        "ResultDeclaredOn": "28-Feb-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "CHY6010",
+        "CourseTitle": "Nanomaterials",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2023",
+        "ResultDeclaredOn": "01-Jun-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "RES701",
+        "CourseTitle": "Research Methodology",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "May-2023",
+        "ResultDeclaredOn": "01-Jun-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "RMC0001",
+        "CourseTitle": "Research and Publication Ethics",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "May-2023",
+        "ResultDeclaredOn": "01-Jun-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "RMC4",
+        "CourseTitle": "Applications of Advanced Instruments",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2023",
+        "ResultDeclaredOn": "01-Jun-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "RSS00468",
+        "CourseTitle": "Synthesis and Applications of Nanofluids",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "May-2023",
+        "ResultDeclaredOn": "01-Jun-2023",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "19.0",
+        "CreditsEarned": "19.0",
+        "Cgpa": "8.21",
+        "SGrades": "0",
+        "AGrades": "1",
+        "BGrades": "5",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

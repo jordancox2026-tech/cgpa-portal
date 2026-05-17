@@ -1,0 +1,357 @@
+{
+  "student_information": {
+    "register_number": "22MCD1001",
+    "name": "SUBASREE S R"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "MCDM501L",
+        "CourseTitle": "Advanced Mechanics of Solids",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "MCDM502L",
+        "CourseTitle": "Applied Materials Engineering",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "21-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "MCDM503L",
+        "CourseTitle": "Computer Graphics and Geometric Modelling",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "MCDM503P",
+        "CourseTitle": "Computer Graphics and Geometric Modelling Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "S",
+        "ExamMonth": "L Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "MCDM504L",
+        "CourseTitle": "Finite Element Methods",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "MCDM504P",
+        "CourseTitle": "Finite Element Methods Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "A S",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "MCDM505L",
+        "CourseTitle": "Integrated Manufacturing Systems",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "I A",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "MCDM505P",
+        "CourseTitle": "Integrated Manufacturing Systems Lab",
+        "CourseType": "LO",
+        "Credits": "C 1.0",
+        "Grade": "S",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "MCDM506L",
+        "CourseTitle": "Advanced Vibration Engineering",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "MCDM696J",
+        "CourseTitle": "Study Oriented Project",
+        "CourseType": "PJT",
+        "Credits": "I 2.0",
+        "Grade": "S",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "06-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PI"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "MENG501P",
+        "CourseTitle": "Technical Report Writing",
+        "CourseType": "LO",
+        "Credits": "2.0",
+        "Grade": "S",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "SE"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "MSTS501P",
+        "CourseTitle": "Qualitative Skills Practice",
+        "CourseType": "SS",
+        "Credits": "F 1.5",
+        "Grade": "B",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "SE"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "MCDM604L",
+        "CourseTitle": "Fracture Mechanics",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "23-Jul-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "MCDM605L",
+        "CourseTitle": "Manufacturing and Mechanics of Composites Materials",
+        "CourseType": "F TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "23-Jul-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "MCDM608L",
+        "CourseTitle": "O Computational Fluid Dynamics",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "23-Jul-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "MCDM608P",
+        "CourseTitle": "Computational Fluid Dynamics Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "S",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "09-Jul-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "MCDM697J",
+        "CourseTitle": "N Design Project",
+        "CourseType": "PJT",
+        "Credits": "2.0",
+        "Grade": "S",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "23-Jul-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PI"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "MCSE602L",
+        "CourseTitle": "Machine Learning",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "S",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "23-Jul-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "OE"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "MCSE602P",
+        "CourseTitle": "Machine Learning Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "S",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "09-Jul-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "OE"
+      },
+      {
+        "Slno": "20",
+        "CourseCode": "MMAE503L",
+        "CourseTitle": "U Additive Manufacturing Technology",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "23-Jul-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "21",
+        "CourseCode": "MMAE503P",
+        "CourseTitle": "Additive Manufacturing Technology Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "S",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "09-Jul-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "22",
+        "CourseCode": "MMAE608L",
+        "CourseTitle": "Design and Analysis of Experiments",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "23-Jul-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "23",
+        "CourseCode": "MSTS502P",
+        "CourseTitle": "Quantitative Skills Practice",
+        "CourseType": "SS",
+        "Credits": "1.5",
+        "Grade": "B",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "09-Jul-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "SE"
+      },
+      {
+        "Slno": "24",
+        "CourseCode": "MCDM698J",
+        "CourseTitle": "Internship I/ Dissertation I",
+        "CourseType": "PJT",
+        "Credits": "10.0",
+        "Grade": "S",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "16-Jul-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PI"
+      },
+      {
+        "Slno": "25",
+        "CourseCode": "MCDM699J",
+        "CourseTitle": "Internship II/ Dissertation II",
+        "CourseType": "PJT",
+        "Credits": "12.0",
+        "Grade": "S",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "02-Jul-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PI"
+      }
+    ],
+    "curriculum_details": [
+      {
+        "CurriculumDistributionType": "Discipline Core",
+        "CreditsRequired": "24.0",
+        "CreditsEarned": "24.0"
+      },
+      {
+        "CurriculumDistributionType": "Discipline Elective",
+        "CreditsRequired": "12.0",
+        "CreditsEarned": "13.0"
+      },
+      {
+        "CurriculumDistributionType": "Projects and Internship",
+        "CreditsRequired": "26.0",
+        "CreditsEarned": "26.0"
+      },
+      {
+        "CurriculumDistributionType": "Open Elective",
+        "CreditsRequired": "3.0",
+        "CreditsEarned": "3.0"
+      },
+      {
+        "CurriculumDistributionType": "Skill Enhancement",
+        "CreditsRequired": "5.0",
+        "CreditsEarned": "5.0"
+      },
+      {
+        "CurriculumDistributionType": "Total Credits",
+        "CreditsRequired": "70.0",
+        "CreditsEarned": "71.0"
+      }
+    ],
+    "i_cgpa_details": [
+      {
+        "CreditsRegistered": "71.0",
+        "CreditsEarned": "71.0",
+        "Cgpa": "9.59",
+        "SGrades": "16",
+        "AGrades": "6",
+        "CBGrades": "3",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

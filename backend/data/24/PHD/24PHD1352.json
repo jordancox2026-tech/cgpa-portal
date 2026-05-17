@@ -1,0 +1,58 @@
+{
+  "student_information": {
+    "register_number": "24PHD1352",
+    "name": "MONIKA R"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "MACSE519",
+        "CourseTitle": "Machine Learning and Applications",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RSS01479",
+        "CourseTitle": "FAULT ANALYSIS AND PROGNOSTICS TECHNIQUES IN POWER CONVERTERS",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "19-Dec-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "RSS01480",
+        "CourseTitle": "ELECTROCHEMICAL ENERGY STORAGE SYSTEMS: BATTERIES, FUEL CELLS AND SUPERCAPACITORS",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "19-Dec-2025",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "10.0",
+        "CreditsEarned": "10.0",
+        "Cgpa": "7.50",
+        "SGrades": "0",
+        "AGrades": "1",
+        "BGrades": "1",
+        "CGrades": "0",
+        "DGrades": "1",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

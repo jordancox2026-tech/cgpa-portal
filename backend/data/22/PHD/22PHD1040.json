@@ -1,0 +1,80 @@
+{
+  "student_information": {
+    "register_number": "22PHD1040",
+    "name": "SERMARAJAN"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "RES7001",
+        "CourseTitle": "Research Methodology",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "May-2023",
+        "ResultDeclaredOn": "01-Jun-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RMC0001",
+        "CourseTitle": "Research and Publication Ethics",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "May-2023",
+        "ResultDeclaredOn": "01-Jun-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "RMC4",
+        "CourseTitle": "Applications of Advanced Instruments",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "May-2023",
+        "ResultDeclaredOn": "01-Jun-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "RSS00373",
+        "CourseTitle": "Molecular modeling and drug designing",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "May-2023",
+        "ResultDeclaredOn": "01-Jun-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "RSS00374",
+        "CourseTitle": "Concepts in Bio-physical Chemistry",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "S",
+        "ExamMonth": "May-2023",
+        "ResultDeclaredOn": "01-Jun-2023",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "17.0",
+        "CreditsEarned": "17.0",
+        "Cgpa": "8.76",
+        "SGrades": "1",
+        "AGrades": "2",
+        "BGrades": "1",
+        "CGrades": "1",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

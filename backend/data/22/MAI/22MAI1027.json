@@ -1,0 +1,234 @@
+{
+  "student_information": {
+    "register_number": "22MAI1027",
+    "name": "RAMESH KANNAN M"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "MCSE501L",
+        "CourseTitle": "Data Structures and Algorithms",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "MCSE501P",
+        "CourseTitle": "Data Structures and Algorithms Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "S",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "MCSE503L",
+        "CourseTitle": "Computer Architecture and Organisation",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "L Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "MCSE503P",
+        "CourseTitle": "Computer Architecture and Organisation Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "S",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "MCSE504L",
+        "CourseTitle": "Operating Systems",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A A",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "MCSE504P",
+        "CourseTitle": "Operating Systems Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "S",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "MCSE696J",
+        "CourseTitle": "STUDY ORIENTED PROJECT",
+        "CourseType": "PJT",
+        "Credits": "2.0",
+        "Grade": "I S",
+        "ExamMonth": "Jan-2023",
+        "ResultDeclaredOn": "04-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PI"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "MCSE502L",
+        "CourseTitle": "Design and Analysis of Algorithms",
+        "CourseType": "TH",
+        "Credits": "C 3.0",
+        "Grade": "N3",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "23-Jul-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "MCSE502P",
+        "CourseTitle": "Design and Analysis of Algorithms Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "N3",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "09-Jul-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "MCSE601L",
+        "CourseTitle": "Artificial Intelligence",
+        "CourseType": "TH",
+        "Credits": "I 3.0",
+        "Grade": "N3",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "23-Jul-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "SPE"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "MCSE603L",
+        "CourseTitle": "Deep Learning",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "N3",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "23-Jul-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "SPE"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "MCSE603P",
+        "CourseTitle": "Deep Learning Lab",
+        "CourseType": "LO",
+        "Credits": "F 1.0",
+        "Grade": "N3",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "09-Jul-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "SPE"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "MCSE615L",
+        "CourseTitle": "Data Analytics",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "N3",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "23-Jul-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "OE"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "MCSE615P",
+        "CourseTitle": "Data Analytics Lab",
+        "CourseType": "F LO",
+        "Credits": "1.0",
+        "Grade": "N3",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "09-Jul-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "OE"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "MCSE697J",
+        "CourseTitle": "DESIGN PROJECT",
+        "CourseType": "PJT",
+        "Credits": "2.0",
+        "Grade": "F",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "11-Jul-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PI"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "MSTS502P",
+        "CourseTitle": "O Quantitative Skills Practice",
+        "CourseType": "SS",
+        "Credits": "1.5",
+        "Grade": "N3",
+        "ExamMonth": "Jun-2023",
+        "ResultDeclaredOn": "09-Jul-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "SE"
+      }
+    ],
+    "u_curriculum_details": [
+      {
+        "CurriculumDistributionType": "Discipline Core",
+        "CreditsRequired": "24.0",
+        "CreditsEarned": "12.0"
+      },
+      {
+        "CurriculumDistributionType": "Projects and Internship",
+        "CreditsRequired": "26.0",
+        "CreditsEarned": "2.0"
+      },
+      {
+        "CurriculumDistributionType": "Open Elective",
+        "CreditsRequired": "3.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Skill Enhancement",
+        "CreditsRequired": "5.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Specialization Elective",
+        "CreditsRequired": "12.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Total Credits",
+        "CreditsRequired": "70.0",
+        "CreditsEarned": "14.0"
+      }
+    ]
+  }
+}

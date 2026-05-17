@@ -1,0 +1,486 @@
+{
+  "student_information": {
+    "register_number": "18MVD1043",
+    "name": "MUDIAM NARASIMHA REDDY"
+  },
+  "tables": {
+    "grade_history_combined": [
+      {
+        "Slno": "1",
+        "CourseCode": "ECE5015",
+        "CourseTitle": "Digital IC Design",
+        "CourseType": "ETP",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "ECE5015",
+        "CourseTitle": "Digital IC Design",
+        "CourseType": "ETP",
+        "Credits": "4.0",
+        "Grade": "D",
+        "ExamMonth": "Jun-2019",
+        "ResultDeclaredOn": "12-Jun-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "ECE5016",
+        "CourseTitle": "Analog IC Design",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "ECE5016",
+        "CourseTitle": "Analog IC Design",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2019",
+        "ResultDeclaredOn": "07-Feb-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "ECE5017",
+        "CourseTitle": "Digital Design with FPGA",
+        "CourseType": "ETLP",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "ECE5017",
+        "CourseTitle": "Digital Design with FPGA",
+        "CourseType": "ETLP",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "L Nov-2019",
+        "ResultDeclaredOn": "07-Feb-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "ECE5018",
+        "CourseTitle": "Physics of VLSI Devices",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N1",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "ECE5018",
+        "CourseTitle": "Physics of VLSI Devices",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Jun-2019",
+        "ResultDeclaredOn": "12-Jun-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "ECE5019",
+        "CourseTitle": "Computer Aided Design for VLSI",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A N1",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "ECE5019",
+        "CourseTitle": "Computer Aided Design for VLSI",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "I E",
+        "ExamMonth": "Nov-2019",
+        "ResultDeclaredOn": "08-Feb-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "ENG5001",
+        "CourseTitle": "Fundamentals of Communication Skills",
+        "CourseType": "LO",
+        "Credits": "C 1.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "MAT5009",
+        "CourseTitle": "Advanced Computer Arithmetic",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N1",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "MAT5009",
+        "CourseTitle": "Advanced Computer Arithmetic",
+        "CourseType": "TH",
+        "Credits": "I 3.0",
+        "Grade": "N1",
+        "ExamMonth": "Nov-2019",
+        "ResultDeclaredOn": "08-Feb-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "MAT5009",
+        "CourseTitle": "Advanced Computer Arithmetic",
+        "CourseType": "TH",
+        "Credits": "F 3.0",
+        "Grade": "E",
+        "ExamMonth": "Jul-2020",
+        "ResultDeclaredOn": "04-Jul-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "SET5001",
+        "CourseTitle": "Science, Engineering and Technology Project - I",
+        "CourseType": "F PJT",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "21-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "STS5001",
+        "CourseTitle": "Essentials of Business Etiquettes",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "E",
+        "ExamMonth": "Nov-2018",
+        "ResultDeclaredOn": "19-Dec-2018",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "ECE5014",
+        "CourseTitle": "O ASIC Design",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "15-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "ECE5014",
+        "CourseTitle": "ASIC Design",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "Jun-2020",
+        "ResultDeclaredOn": "10-Jun-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "ECE5021",
+        "CourseTitle": "N Scripting Languages and Verification",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "15-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "20",
+        "CourseCode": "ECE5021",
+        "CourseTitle": "Scripting Languages and Verification",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "D",
+        "ExamMonth": "Jun-2020",
+        "ResultDeclaredOn": "10-Jun-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "21",
+        "CourseCode": "ECE5024",
+        "CourseTitle": "IC Technology",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N2",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "15-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "22",
+        "CourseCode": "ECE5024",
+        "CourseTitle": "U IC Technology",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "Jul-2020",
+        "ResultDeclaredOn": "31-Jul-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "23",
+        "CourseCode": "ECE5025",
+        "CourseTitle": "System-on-Chip Design",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N1",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "15-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "24",
+        "CourseCode": "ECE5025",
+        "CourseTitle": "System-on-Chip Design",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "Jul-2020",
+        "ResultDeclaredOn": "04-Jul-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "25",
+        "CourseCode": "ECE5029",
+        "CourseTitle": "VLSI Testing and Testability",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N1",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "15-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "26",
+        "CourseCode": "ECE5029",
+        "CourseTitle": "VLSI Testing and Testability",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Jun-2020",
+        "ResultDeclaredOn": "10-Jun-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "27",
+        "CourseCode": "ECE6025",
+        "CourseTitle": "Low Power IC Design",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "N",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "15-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "28",
+        "CourseCode": "ECE6025",
+        "CourseTitle": "Low Power IC Design",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Jun-2020",
+        "ResultDeclaredOn": "10-Jun-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "29",
+        "CourseCode": "ENG5002",
+        "CourseTitle": "Professional and Communication Skills",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "C",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "15-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "30",
+        "CourseCode": "SET5002",
+        "CourseTitle": "Science, Engineering and Technology Project - II",
+        "CourseType": "PJT",
+        "Credits": "2.0",
+        "Grade": "D",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "22-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "31",
+        "CourseCode": "STS5002",
+        "CourseTitle": "Preparing for Industry",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "C",
+        "ExamMonth": "Apr-2019",
+        "ResultDeclaredOn": "17-May-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "32",
+        "CourseCode": "ECE5022",
+        "CourseTitle": "VLSI Digital Signal Processing",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N1",
+        "ExamMonth": "Jun-2019",
+        "ResultDeclaredOn": "12-Jun-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "33",
+        "CourseCode": "ECE5022",
+        "CourseTitle": "VLSI Digital Signal Processing",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Jun-2020",
+        "ResultDeclaredOn": "10-Jun-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "34",
+        "CourseCode": "ECE5027",
+        "CourseTitle": "Advanced Computer Architecture",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "Jun-2019",
+        "ResultDeclaredOn": "12-Jun-2019",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UE"
+      },
+      {
+        "Slno": "35",
+        "CourseCode": "ECE6099",
+        "CourseTitle": "Masters Thesis",
+        "CourseType": "PJT",
+        "Credits": "16.0",
+        "Grade": "E",
+        "ExamMonth": "Jun-2020",
+        "ResultDeclaredOn": "13-Jun-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      }
+    ],
+    "curriculum_details": [
+      {
+        "CurriculumDistributionType": "Programme Core",
+        "ICreditsRequired": "19.0",
+        "CreditsEarned": "19.0"
+      },
+      {
+        "CurriculumDistributionType": "Programme Elective",
+        "ICreditsRequired": "C 18.0",
+        "CreditsEarned": "22.0"
+      },
+      {
+        "CurriculumDistributionType": "University Core",
+        "ICreditsRequired": "27.0",
+        "CreditsEarned": "27.0"
+      },
+      {
+        "CurriculumDistributionType": "University Elective",
+        "ICreditsRequired": "I 6.0",
+        "CreditsEarned": "3.0"
+      },
+      {
+        "CurriculumDistributionType": "Total Credits",
+        "ICreditsRequired": "F 70.0",
+        "CreditsEarned": "71.0"
+      }
+    ],
+    "f_basket_details": [
+      {
+        "BasketTitle": "Soft Skills",
+        "DistributionType": "UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "2.0"
+      },
+      {
+        "BasketTitle": "O English and Foreign Language",
+        "DistributionType": "UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "0.0"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "71.0",
+        "CreditsEarned": "71.0",
+        "Cgpa": "5.82",
+        "NSGrades": "0",
+        "AGrades": "0",
+        "BGrades": "0",
+        "CGrades": "8",
+        "DGrades": "6",
+        "EGrades": "7",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "student_information": {
+    "register_number": "25BMV1039",
+    "name": "MUTHEESWARA S"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "BACHY101",
+        "CourseTitle": "Environmental Sciences",
+        "CourseType": "OC",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "24-Dec-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "BACHY109",
+        "CourseTitle": "Applied Chemistry for Enginners",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "BACSE101",
+        "CourseTitle": "Problem Solving Using Python",
+        "CourseType": "Lab",
+        "Credits": "2.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "18-Dec-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "BAEEE101",
+        "CourseTitle": "Basic Engineering",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "BAENG100",
+        "CourseTitle": "Effective English Communication",
+        "CourseType": "Lab",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "18-Dec-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "BAMAT101",
+        "CourseTitle": "Multivariable Calculus and Differential Equations",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "BAMEE101",
+        "CourseTitle": "Manufacturing Processes",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "22.0",
+        "CreditsEarned": "18.0",
+        "Cgpa": "5.82",
+        "SGrades": "0",
+        "AGrades": "0",
+        "BGrades": "3",
+        "CGrades": "1",
+        "DGrades": "2",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "1"
+      }
+    ]
+  }
+}

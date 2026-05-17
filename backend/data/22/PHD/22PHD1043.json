@@ -1,0 +1,69 @@
+{
+  "student_information": {
+    "register_number": "22PHD1043",
+    "name": "MEENAL T S"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "RES705",
+        "CourseTitle": "Research Methodology FOR ENGLISH",
+        "CourseType": "RM",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Feb-2023",
+        "ResultDeclaredOn": "28-Feb-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RMC0001",
+        "CourseTitle": "Research and Publication Ethics",
+        "CourseType": "RMC",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "Feb-2023",
+        "ResultDeclaredOn": "28-Feb-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "RSS00594",
+        "CourseTitle": "INITIATION À LA TRADUCTION",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Feb-2023",
+        "ResultDeclaredOn": "28-Feb-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "RSS00595",
+        "CourseTitle": "LES TECHNIQUES DE LA TRADUCTION",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Feb-2023",
+        "ResultDeclaredOn": "28-Feb-2023",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "12.0",
+        "CreditsEarned": "12.0",
+        "Cgpa": "8.83",
+        "SGrades": "2",
+        "AGrades": "0",
+        "BGrades": "1",
+        "CGrades": "1",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "student_information": {
+    "register_number": "19BLB1066",
+    "name": "BABU AATHITHYAN V S"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "LAW1101",
+        "CourseTitle": "Introduction to Law and Legal methods",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "N3",
+        "ExamMonth": "Nov-2019",
+        "ResultDeclaredOn": "07-Feb-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "LAW1111",
+        "CourseTitle": "General English",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "N3",
+        "ExamMonth": "Nov-2019",
+        "ResultDeclaredOn": "07-Feb-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "LAW1301",
+        "CourseTitle": "Managerial Economics",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "N3",
+        "ExamMonth": "Nov-2019",
+        "ResultDeclaredOn": "07-Feb-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "LAW1303",
+        "CourseTitle": "Principles of Management",
+        "CourseType": "ETP",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2019",
+        "ResultDeclaredOn": "07-Feb-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "LAW1304",
+        "CourseTitle": "Business Statistics",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "N3",
+        "ExamMonth": "L Nov-2019",
+        "ResultDeclaredOn": "07-Feb-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "LAW1305",
+        "CourseTitle": "Financial Accounting",
+        "CourseType": "ETP",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2019",
+        "ResultDeclaredOn": "07-Feb-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "LAW2101",
+        "CourseTitle": "Law of Torts, Consumer Protection and Motor Vehicles Act",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "A N",
+        "ExamMonth": "Jan-2021",
+        "ResultDeclaredOn": "01-Mar-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "LAW2102",
+        "CourseTitle": "Law of Contracts",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "N3",
+        "ExamMonth": "Jan-2021",
+        "ResultDeclaredOn": "01-Mar-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "LAW2104",
+        "CourseTitle": "English for Lawyers",
+        "CourseType": "ETP",
+        "Credits": "4.0",
+        "Grade": "I N",
+        "ExamMonth": "Jan-2021",
+        "ResultDeclaredOn": "01-Mar-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      }
+    ],
+    "basket_details": [
+      {
+        "BasketTitle": "O FOREIGN LANGUAGE",
+        "DistributionType": "UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "BasketTitle": "Co-Extra Curricular Basket",
+        "DistributionType": "UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "0.0"
+      }
+    ],
+    "n_cgpa_details": [
+      {
+        "CreditsRegistered": "36.0",
+        "CreditsEarned": "0.0",
+        "Cgpa": "0.00",
+        "SGrades": "U 0",
+        "AGrades": "0",
+        "BGrades": "0",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "1",
+        "NGrades": "8"
+      }
+    ]
+  }
+}

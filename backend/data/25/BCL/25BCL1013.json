@@ -1,0 +1,80 @@
+{
+  "student_information": {
+    "register_number": "25BCL1013",
+    "name": "NANDHINISRI R"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "BACHY101",
+        "CourseTitle": "Environmental Sciences",
+        "CourseType": "OC",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "24-Dec-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "BACHY103",
+        "CourseTitle": "Chemistry for Civil Engineers",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "BACSE101",
+        "CourseTitle": "Problem Solving Using Python",
+        "CourseType": "Lab",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "18-Dec-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "BAEEE101",
+        "CourseTitle": "Basic Engineering",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "BAMAT101",
+        "CourseTitle": "Multivariable Calculus and Differential Equations",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "16.0",
+        "CreditsEarned": "16.0",
+        "Cgpa": "7.50",
+        "SGrades": "0",
+        "AGrades": "1",
+        "BGrades": "1",
+        "CGrades": "3",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

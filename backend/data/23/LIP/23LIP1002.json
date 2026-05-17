@@ -1,0 +1,191 @@
+{
+  "student_information": {
+    "register_number": "23LIP1002",
+    "name": "P PETE CANISIUS"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "LLM1001",
+        "CourseTitle": "Research Methods and Legal Writing",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "31-Dec-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "LLM1002",
+        "CourseTitle": "Comparative Public Law",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N1",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "31-Dec-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "LLM1002",
+        "CourseTitle": "Comparative Public Law",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N1",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "31-Dec-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "LLM1002",
+        "CourseTitle": "Comparative Public Law",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "May-2025",
+        "ResultDeclaredOn": "01-Jul-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "LLM3001",
+        "CourseTitle": "Law of Copyright",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "L Dec-2023",
+        "ResultDeclaredOn": "31-Dec-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "LLM3002",
+        "CourseTitle": "Law of Patents",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "31-Dec-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "LLM3103",
+        "CourseTitle": "IPR Litigation and IP Valuation",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "A C",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "31-Dec-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "LLM1003",
+        "CourseTitle": "Law and Justice in a Globalizing World",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "05-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "LLM1004",
+        "CourseTitle": "Dissertation",
+        "CourseType": "PJT",
+        "Credits": "5.0",
+        "Grade": "I C",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "05-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "LLM3003",
+        "CourseTitle": "Law of Trademark",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "05-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "LLM3004",
+        "CourseTitle": "Intellectual Property - Emerging Forms",
+        "CourseType": "TH",
+        "Credits": "C 2.0",
+        "Grade": "D",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "05-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "LLM3104",
+        "CourseTitle": "Patent Drafting and Specification Writing",
+        "CourseType": "TH",
+        "Credits": "I 2.0",
+        "Grade": "B",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "05-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      }
+    ],
+    "curriculum_details": [
+      {
+        "CurriculumDistributionType": "Programme Core",
+        "OCreditsRequired": "8.0",
+        "CreditsEarned": "8.0"
+      },
+      {
+        "CurriculumDistributionType": "Programme Elective",
+        "OCreditsRequired": "4.0",
+        "CreditsEarned": "4.0"
+      },
+      {
+        "CurriculumDistributionType": "University Core",
+        "OCreditsRequired": "N 14.0",
+        "CreditsEarned": "14.0"
+      },
+      {
+        "CurriculumDistributionType": "Total Credits",
+        "OCreditsRequired": "26.0",
+        "CreditsEarned": "26.0"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "26.0",
+        "CreditsEarned": "26.0",
+        "Cgpa": "6.73",
+        "SGrades": "0",
+        "AGrades": "0",
+        "BGrades": "2",
+        "CGrades": "4",
+        "DGrades": "4",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

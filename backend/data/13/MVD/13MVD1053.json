@@ -1,0 +1,245 @@
+{
+  "student_information": {
+    "register_number": "13MVD1053",
+    "name": "SHIBIN K HASSAN"
+  },
+  "tables": {
+    "grade_history_combined": [
+      {
+        "Slno": "1",
+        "CourseCode": "ECE508",
+        "CourseTitle": "VLSI Testing and Testability",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "May-2014",
+        "ResultDeclaredOn": "19-Jun-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "EEE575",
+        "CourseTitle": "Scripting Languages and Verification",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "May-2014",
+        "ResultDeclaredOn": "19-Jun-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "EEE590",
+        "CourseTitle": "IC Technology",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "May-2014",
+        "ResultDeclaredOn": "19-Jun-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "EEE596",
+        "CourseTitle": "ASIC Design",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "D",
+        "ExamMonth": "May-2014",
+        "ResultDeclaredOn": "19-Jun-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "EEE597",
+        "CourseTitle": "Low Power IC Design",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "May-2014",
+        "ResultDeclaredOn": "19-Jun-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "ECE699",
+        "CourseTitle": "Masters Thesis",
+        "CourseType": "Lab",
+        "Credits": "20.0",
+        "Grade": "A",
+        "ExamMonth": "May-2015",
+        "ResultDeclaredOn": "20-May-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "EEE540",
+        "CourseTitle": "Embedded System Design",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2013",
+        "ResultDeclaredOn": "08-Jan-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "EEE587",
+        "CourseTitle": "Physics and Modeling of Semiconductor Devices",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2013",
+        "ResultDeclaredOn": "08-Jan-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "EEE588",
+        "CourseTitle": "Digital IC Design",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2013",
+        "ResultDeclaredOn": "08-Jan-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "EEE589",
+        "CourseTitle": "Analog IC Design",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2013",
+        "ResultDeclaredOn": "08-Jan-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "EEE609",
+        "CourseTitle": "Computational Techniques",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2013",
+        "ResultDeclaredOn": "08-Jan-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "EEE646",
+        "CourseTitle": "FPGA Based System Design",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2013",
+        "ResultDeclaredOn": "08-Jan-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "EEE647",
+        "CourseTitle": "FPGA Based System Design Lab",
+        "CourseType": "Lab",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2013",
+        "ResultDeclaredOn": "08-Jan-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "ENG601",
+        "CourseTitle": "Professional and Communication Skills",
+        "CourseType": "TheoryLab",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2013",
+        "ResultDeclaredOn": "08-Jan-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "ECE501",
+        "CourseTitle": "System-on-Chip Design",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2014",
+        "ResultDeclaredOn": "10-Mar-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "ECE620",
+        "CourseTitle": "Nanoelectronics",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "Nov-2014",
+        "ResultDeclaredOn": "15-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "EEE591",
+        "CourseTitle": "VLSI Digital Signal Processing",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2014",
+        "ResultDeclaredOn": "10-Mar-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "EEE601",
+        "CourseTitle": "Memory Design and Testing",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2014",
+        "ResultDeclaredOn": "15-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "1",
+        "CourseCode": "ENG602",
+        "CourseTitle": "Professional and Communication Skills - II",
+        "CourseType": "Lab",
+        "Credits": "1.0",
+        "Grade": "U",
+        "ExamMonth": "May-2014",
+        "ResultDeclaredOn": "19-Jun-2014",
+        "CourseOption": "Audit"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "ENG603",
+        "CourseTitle": "Professional and Communication Skills -",
+        "CourseType": "Lab",
+        "Credits": "1.0",
+        "Grade": "U",
+        "ExamMonth": "Nov-2014",
+        "ResultDeclaredOn": "15-Dec-2014",
+        "CourseOption": "Audit"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "73.0",
+        "CreditsEarned": "73.0",
+        "Cgpa": "7.40",
+        "SGrades": "0",
+        "AGrades": "1",
+        "BGrades": "4",
+        "CGrades": "7",
+        "DGrades": "5",
+        "EGrades": "1",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

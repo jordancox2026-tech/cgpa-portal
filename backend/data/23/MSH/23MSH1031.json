@@ -1,0 +1,378 @@
+{
+  "student_information": {
+    "register_number": "23MSH1031",
+    "name": "LAKSHMANAN R"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "CHY5001",
+        "CourseTitle": "Physical Chemistry",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "CHY5002",
+        "CourseTitle": "Organic Chemistry",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "CHY5003",
+        "CourseTitle": "Physical Chemistry Practical-I",
+        "CourseType": "LO",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "05-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "CHY5004",
+        "CourseTitle": "Organic Chemistry Practical-I",
+        "CourseType": "LO",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "L Dec-2023",
+        "ResultDeclaredOn": "05-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "ENG5003",
+        "CourseTitle": "English for Science and Technology",
+        "CourseType": "LO",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "05-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "MAT5001",
+        "CourseTitle": "Foundations of Mathematics",
+        "CourseType": "ETL",
+        "Credits": "3.0",
+        "Grade": "A B",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "RES5001",
+        "CourseTitle": "Research Methodology",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "SET5001",
+        "CourseTitle": "Science, Engineering and Technology Project - I",
+        "CourseType": "PJT",
+        "Credits": "2.0",
+        "Grade": "I A",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "29-Dec-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "STS4001",
+        "CourseTitle": "Essentials of Business Etiquettes",
+        "CourseType": "SS",
+        "Credits": "C 1.0",
+        "Grade": "E",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "05-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "CHY5005",
+        "CourseTitle": "Inorganic Chemistry",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "CHY5006",
+        "CourseTitle": "Analytical Chemistry",
+        "CourseType": "ETP",
+        "Credits": "I 4.0",
+        "Grade": "A",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "CHY5007",
+        "CourseTitle": "Inorganic Chemistry Practical-I",
+        "CourseType": "LO",
+        "Credits": "F 2.0",
+        "Grade": "S",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "28-May-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "CHY5008",
+        "CourseTitle": "Analytical Chemistry Practical-I",
+        "CourseType": "LO",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "28-May-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "CHY6003",
+        "CourseTitle": "Chemistry of Natural Products",
+        "CourseType": "F TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UE"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "CHY6010",
+        "CourseTitle": "Nanomaterials",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UE"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "CHY6025",
+        "CourseTitle": "O Materials Chemistry",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "SET5002",
+        "CourseTitle": "Science, Engineering and Technology Project - II",
+        "CourseType": "PJT",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "28-May-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "STS4002",
+        "CourseTitle": "N Preparing for Industry",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "D",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "28-May-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "CHY6012",
+        "CourseTitle": "Advanced Organic Chemistry",
+        "CourseType": "ETP",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "20",
+        "CourseCode": "CHY6021",
+        "CourseTitle": "U Analytical Quality Assurance for Process Industry",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "21",
+        "CourseCode": "CHY6022",
+        "CourseTitle": "General Organic and Inorganic Chemistry Practical I",
+        "CourseType": "LO",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "03-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "22",
+        "CourseCode": "CHY6024",
+        "CourseTitle": "Advanced Inorganic Chemistry",
+        "CourseType": "ETP",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "23",
+        "CourseCode": "CHY6036",
+        "CourseTitle": "Advanced Physical Chemistry",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "24",
+        "CourseCode": "CHY6039",
+        "CourseTitle": "Analytical and Physical Chemistry Practical II",
+        "CourseType": "LO",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "03-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "25",
+        "CourseCode": "SET5003",
+        "CourseTitle": "Science, Engineering and Technology Project - III",
+        "CourseType": "PJT",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Feb-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "26",
+        "CourseCode": "CHY6099",
+        "CourseTitle": "Masters Thesis",
+        "CourseType": "PJT",
+        "Credits": "14.0",
+        "Grade": "A",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "23-May-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      }
+    ],
+    "curriculum_details": [
+      {
+        "CurriculumDistributionType": "Programme Core",
+        "CreditsRequired": "23.0",
+        "CreditsEarned": "23.0"
+      },
+      {
+        "CurriculumDistributionType": "Programme Elective",
+        "CreditsRequired": "22.0",
+        "CreditsEarned": "22.0"
+      },
+      {
+        "CurriculumDistributionType": "University Core",
+        "CreditsRequired": "29.0",
+        "CreditsEarned": "29.0"
+      },
+      {
+        "CurriculumDistributionType": "University Elective",
+        "CreditsRequired": "6.0",
+        "CreditsEarned": "6.0"
+      },
+      {
+        "CurriculumDistributionType": "Total Credits",
+        "CreditsRequired": "80.0",
+        "CreditsEarned": "80.0"
+      }
+    ],
+    "basket_details": [
+      {
+        "BasketTitle": "English and Foreign Language",
+        "DistributionType": "A UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "2.0"
+      },
+      {
+        "BasketTitle": "Soft Skills",
+        "DistributionType": "UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "2.0"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "80.0",
+        "CreditsEarned": "80.0",
+        "Cgpa": "8.50",
+        "SGrades": "1",
+        "AGrades": "12",
+        "CBGrades": "10",
+        "CGrades": "1",
+        "DGrades": "1",
+        "EGrades": "1",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

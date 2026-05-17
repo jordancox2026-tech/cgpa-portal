@@ -1,0 +1,91 @@
+{
+  "student_information": {
+    "register_number": "22PHD1028",
+    "name": "SENTHAMILSELVI V"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "MMHA505L",
+        "CourseTitle": "Industrial Controllers",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Jan-2024",
+        "ResultDeclaredOn": "31-Jan-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "MMHA505P",
+        "CourseTitle": "Industrial Controllers Lab",
+        "CourseType": "Lab",
+        "Credits": "1.0",
+        "Grade": "S",
+        "ExamMonth": "Jan-2024",
+        "ResultDeclaredOn": "31-Jan-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "RES701",
+        "CourseTitle": "Research Methodology- SELECT",
+        "CourseType": "RM",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Feb-2023",
+        "ResultDeclaredOn": "28-Feb-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "RMC0001",
+        "CourseTitle": "Research and Publication Ethics-SELECT",
+        "CourseType": "RMC",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Feb-2023",
+        "ResultDeclaredOn": "28-Feb-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "RSS00340",
+        "CourseTitle": "MODEL PREDICTIVE CONTROL",
+        "CourseType": "Regular",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jul-2023",
+        "ResultDeclaredOn": "31-Jul-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "RSS00341",
+        "CourseTitle": "PROCESS CONTROL AND OPTIMIZATION",
+        "CourseType": "Regular",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jul-2023",
+        "ResultDeclaredOn": "31-Jul-2023",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "16.0",
+        "CreditsEarned": "16.0",
+        "Cgpa": "8.69",
+        "SGrades": "1",
+        "AGrades": "3",
+        "BGrades": "2",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

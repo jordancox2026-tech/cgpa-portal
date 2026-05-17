@@ -1,0 +1,58 @@
+{
+  "student_information": {
+    "register_number": "25MAI1025",
+    "name": "SENTHIL KUMAR R"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "MACSE501",
+        "CourseTitle": "Data Structures and Algorithm Analysis",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "MACSE512",
+        "CourseTitle": "Operating Systems",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "12-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "MASTS601",
+        "CourseTitle": "Competitive Coding I",
+        "CourseType": "SS",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "18-Dec-2025",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "11.0",
+        "CreditsEarned": "11.0",
+        "Cgpa": "8.73",
+        "SGrades": "0",
+        "AGrades": "2",
+        "BGrades": "1",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "student_information": {
+    "register_number": "14MES1057",
+    "name": "Not found"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "ECE504",
+        "CourseTitle": "Embedded Programming",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "May-2015",
+        "ResultDeclaredOn": "16-Jun-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "ECE505",
+        "CourseTitle": "Virtual Instrumentation Systems",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "May-2015",
+        "ResultDeclaredOn": "16-Jun-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "ECE506",
+        "CourseTitle": "Hardware-Software Co- Design",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2015",
+        "ResultDeclaredOn": "16-Jun-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "ECE507",
+        "CourseTitle": "Real-Time Operating Systems",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "May-2015",
+        "ResultDeclaredOn": "16-Jun-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "EEE616",
+        "CourseTitle": "Automotive Technology",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "May-2015",
+        "ResultDeclaredOn": "16-Jun-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "JAP101",
+        "CourseTitle": "Basic Japanese",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "D",
+        "ExamMonth": "May-2015",
+        "ResultDeclaredOn": "16-Jun-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "MEE503",
+        "CourseTitle": "Instrumentation and Automotive Electronics",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "May-2015",
+        "ResultDeclaredOn": "16-Jun-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "SET502",
+        "CourseTitle": "Science, Engineering and Technology Project - II",
+        "CourseType": "Lab",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "May-2015",
+        "ResultDeclaredOn": "16-Jun-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "ECE699_0101",
+        "CourseTitle": "Masters Thesis",
+        "CourseType": "Lab",
+        "Credits": "16.0",
+        "Grade": "B",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "04-May-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "ECE612",
+        "CourseTitle": "Automotive Standards",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Jul-2015",
+        "ResultDeclaredOn": "17-Jul-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "ECE613",
+        "CourseTitle": "Advanced Embedded Programming",
+        "CourseType": "TheoryLab",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jul-2015",
+        "ResultDeclaredOn": "17-Jul-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "EEE543",
+        "CourseTitle": "Automotive Electrical Systems",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Jul-2015",
+        "ResultDeclaredOn": "17-Jul-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "EEE547",
+        "CourseTitle": "In-Vehicle Networking",
+        "CourseType": "TheoryLab",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jul-2015",
+        "ResultDeclaredOn": "17-Jul-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "ECE503",
+        "CourseTitle": "Design and Analysis of Algorithms",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2014",
+        "ResultDeclaredOn": "15-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "EEE532",
+        "CourseTitle": "Network Security",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2014",
+        "ResultDeclaredOn": "15-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "EEE539",
+        "CourseTitle": "Electronic Hardware System Design",
+        "CourseType": "TheoryLab",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2014",
+        "ResultDeclaredOn": "15-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "EEE540",
+        "CourseTitle": "Embedded System Design",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2014",
+        "ResultDeclaredOn": "15-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "EEE615",
+        "CourseTitle": "Microcontrollers - Architecture and Organisation",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2014",
+        "ResultDeclaredOn": "15-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "ENG601",
+        "CourseTitle": "Professional and Communication Skills",
+        "CourseType": "TheoryLab",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2014",
+        "ResultDeclaredOn": "16-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "20",
+        "CourseCode": "MAT516",
+        "CourseTitle": "Computational Techniques",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2014",
+        "ResultDeclaredOn": "15-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "21",
+        "CourseCode": "SET501",
+        "CourseTitle": "Science, Engineering and Technology Project - I",
+        "CourseType": "Lab",
+        "Credits": "2.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2014",
+        "ResultDeclaredOn": "15-Dec-2014",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "76.0",
+        "CreditsEarned": "76.0",
+        "Cgpa": "8.01",
+        "SGrades": "0",
+        "AGrades": "6",
+        "BGrades": "9",
+        "CGrades": "4",
+        "DGrades": "2",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

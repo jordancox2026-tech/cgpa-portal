@@ -1,0 +1,113 @@
+{
+  "student_information": {
+    "register_number": "23PHD1264",
+    "name": "ANJAIAH JILLAPELLY"
+  },
+  "tables": {
+    "grade_history_combined": [
+      {
+        "Slno": "1",
+        "CourseCode": "RMC0001",
+        "CourseTitle": "RESEARCH AND PUBLICATION ETHICS",
+        "CourseType": "RMC",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "21-Jun-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RMC701",
+        "CourseTitle": "RESEARCH METHODOLOGY",
+        "CourseType": "RM",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "21-Jun-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "RSS01139",
+        "CourseTitle": "MODELING AND CONTROL OF POWER CONVERTERS",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2025",
+        "ResultDeclaredOn": "24-Jun-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "ONL00201",
+        "CourseTitle": "POWER ELECTRONICS WITH WIDE BAND GAP DEVICES",
+        "CourseType": "ONL",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Oct-2024",
+        "ResultDeclaredOn": "31-Oct-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "MELM501L",
+        "CourseTitle": "Electric Vehicle Technology",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "MELM503L",
+        "CourseTitle": "Design of Automotive Power Converters",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "MELM503P",
+        "CourseTitle": "Design of Automotive Power Converters Lab",
+        "CourseType": "Lab",
+        "Credits": "1.0",
+        "Grade": "A",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "03-Jan-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "1",
+        "CourseCode": "ENG5004",
+        "CourseTitle": "ENGLISH FOR RESEARCHERS",
+        "CourseType": "RM",
+        "Credits": "3.0",
+        "Grade": "P",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "21-Jun-2024",
+        "CourseOption": "NCPF"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "19.0",
+        "CreditsEarned": "19.0",
+        "Cgpa": "8.05",
+        "SGrades": "0",
+        "AGrades": "2",
+        "BGrades": "4",
+        "CGrades": "1",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

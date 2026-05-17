@@ -1,0 +1,80 @@
+{
+  "student_information": {
+    "register_number": "22PHD1197",
+    "name": "SARANYA M"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "6RCH501",
+        "CourseTitle": "APPLICATIONS OF ADVANCED INSTRUMENTS",
+        "CourseType": "RMC",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jan-2024",
+        "ResultDeclaredOn": "31-Jan-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RSS01171",
+        "CourseTitle": "WASTE WATER TREATMENT AND POLYMER TECHNOLOGY",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Jan-2025",
+        "ResultDeclaredOn": "13-Jan-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "RSS01172",
+        "CourseTitle": "NANO SCIENCE & TECHNOLOGY",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jan-2025",
+        "ResultDeclaredOn": "13-Jan-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "RES701",
+        "CourseTitle": "Research Methodology- SAS",
+        "CourseType": "RM",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Jul-2023",
+        "ResultDeclaredOn": "31-Jul-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "RMC0001",
+        "CourseTitle": "Research and Publication Ethics-SAS",
+        "CourseType": "RMC",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Jul-2023",
+        "ResultDeclaredOn": "31-Jul-2023",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "15.0",
+        "CreditsEarned": "15.0",
+        "Cgpa": "9.20",
+        "SGrades": "2",
+        "AGrades": "2",
+        "BGrades": "1",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

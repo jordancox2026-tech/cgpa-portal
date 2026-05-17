@@ -1,0 +1,91 @@
+{
+  "student_information": {
+    "register_number": "23PHD1037",
+    "name": "VISHAL M C"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "ONL00189",
+        "CourseTitle": "NUCLEAR ASTROPHYSICS",
+        "CourseType": "ONL",
+        "Credits": "2.0",
+        "Grade": "D",
+        "ExamMonth": "Jan-2024",
+        "ResultDeclaredOn": "31-Jan-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RMC0001",
+        "CourseTitle": "RESEARCH AND PUBLICATION ETHICS",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Jan-2024",
+        "ResultDeclaredOn": "31-Jan-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "RMC7001",
+        "CourseTitle": "RESEARCH METHODOLOGY",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Jan-2024",
+        "ResultDeclaredOn": "31-Jan-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "RSS01071",
+        "CourseTitle": "INTRODUCTION TO QUANTUM FIELD THEORY AND PARTICLE PHYSICS",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Jan-2025",
+        "ResultDeclaredOn": "13-Jan-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "MAT6005",
+        "CourseTitle": "Machine learning for Data Science",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "PHYR706",
+        "CourseTitle": "METHODS OF MATHEMATICAL PHYSICS",
+        "CourseType": "RMC",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "21-Jun-2024",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "18.0",
+        "CreditsEarned": "18.0",
+        "Cgpa": "7.72",
+        "SGrades": "0",
+        "AGrades": "1",
+        "BGrades": "3",
+        "CGrades": "1",
+        "DGrades": "1",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

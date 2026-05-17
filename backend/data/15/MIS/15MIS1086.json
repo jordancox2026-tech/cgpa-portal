@@ -1,0 +1,155 @@
+{
+  "student_information": {
+    "register_number": "15MIS1086",
+    "name": "RABEE V"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "CHY1001",
+        "CourseTitle": "Engineering Chemistry",
+        "CourseType": "ETLP",
+        "Credits": "5.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "23-Dec-2015",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "CSE1001",
+        "CourseTitle": "Problem Solving and Programming",
+        "CourseType": "LO",
+        "Credits": "3.0",
+        "Grade": "N1",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "23-Dec-2015",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "ENG1002",
+        "CourseTitle": "Effective English",
+        "CourseType": "ETL",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "23-Dec-2015",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "BC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "MAT1011",
+        "CourseTitle": "Calculus for Engineers",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "23-Dec-2015",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "PHY1001",
+        "CourseTitle": "Engineering Physics",
+        "CourseType": "ETLP",
+        "Credits": "5.0",
+        "Grade": "N",
+        "ExamMonth": "L Nov-2015",
+        "ResultDeclaredOn": "23-Dec-2015",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "SWE1001",
+        "CourseTitle": "Software Engineering",
+        "CourseType": "ETP",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "08-Jan-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "STS1021",
+        "CourseTitle": "Soft Skills",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "N",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "28-Jun-2016",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      }
+    ],
+    "c_curriculum_details": [
+      {
+        "CurriculumDistributionType": "Programme Core",
+        "CreditsRequired": "I 95.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Programme Elective",
+        "CreditsRequired": "F 65.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "University Core",
+        "CreditsRequired": "78.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "University Elective",
+        "CreditsRequired": "12.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Bridge Course",
+        "CreditsRequired": "F 0.0",
+        "CreditsEarned": "2.0"
+      },
+      {
+        "CurriculumDistributionType": "Total Credits",
+        "CreditsRequired": "250.0",
+        "CreditsEarned": "2.0"
+      }
+    ],
+    "basket_details": [
+      {
+        "BasketTitle": "N Co-Extra Curricular Basket",
+        "DistributionType": "UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "BasketTitle": "Foreign Language Course Basket",
+        "DistributionType": "UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "0.0"
+      }
+    ],
+    "u_cgpa_details": [
+      {
+        "CreditsRegistered": "24.0",
+        "CreditsEarned": "2.0",
+        "Cgpa": "0.67",
+        "SGrades": "0",
+        "AGrades": "0",
+        "BGrades": "1",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "6"
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "student_information": {
+    "register_number": "22PHD1119",
+    "name": "Not found"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "MCSE603L",
+        "CourseTitle": "Deep Learning",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "S",
+        "ExamMonth": "May-2023",
+        "ResultDeclaredOn": "01-Jun-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RES701",
+        "CourseTitle": "Research Methodology",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "May-2023",
+        "ResultDeclaredOn": "01-Jun-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "RMC0001",
+        "CourseTitle": "Research and Publication Ethics",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "May-2023",
+        "ResultDeclaredOn": "01-Jun-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "RSS00103",
+        "CourseTitle": "GEO-SPATIAL DATA MODELLING AND ITS APPPLICATIONS",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "May-2023",
+        "ResultDeclaredOn": "01-Jun-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "RSS00307",
+        "CourseTitle": "RECOMMENDER SYSTEMS FOR RENEWABLE ENERGY",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "May-2023",
+        "ResultDeclaredOn": "01-Jun-2023",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "14.0",
+        "CreditsEarned": "14.0",
+        "Cgpa": "8.86",
+        "SGrades": "1",
+        "AGrades": "3",
+        "BGrades": "1",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

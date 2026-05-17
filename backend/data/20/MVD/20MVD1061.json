@@ -1,0 +1,318 @@
+{
+  "student_information": {
+    "register_number": "20MVD1061",
+    "name": "SNEHA KAUSHIK"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "ECE5015",
+        "CourseTitle": "Digital IC Design",
+        "CourseType": "ETP",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "ECE5017",
+        "CourseTitle": "Digital Design with FPGA",
+        "CourseType": "ETLP",
+        "Credits": "4.0",
+        "Grade": "S",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "ECE5018",
+        "CourseTitle": "Physics of VLSI Devices",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "ECE5019",
+        "CourseTitle": "Computer Aided Design for VLSI",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "ECE5030",
+        "CourseTitle": "Scripting Languages for VLSI Design Automation",
+        "CourseType": "ETL",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "L Feb-2021",
+        "ResultDeclaredOn": "26-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "ENG5001",
+        "CourseTitle": "Fundamentals of Communication Skills",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "A",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "MAT5009",
+        "CourseTitle": "Advanced Computer Arithmetic",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A A",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "SET5001",
+        "CourseTitle": "Science, Engineering and Technology Project - I",
+        "CourseType": "PJT",
+        "Credits": "2.0",
+        "Grade": "I A",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "12-Mar-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "STS5001",
+        "CourseTitle": "Essentials of Business Etiquettes",
+        "CourseType": "SS",
+        "Credits": "C 1.0",
+        "Grade": "A",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Feb-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "ECE5014",
+        "CourseTitle": "ASIC Design",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "21-Jul-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "ECE5016",
+        "CourseTitle": "Analog IC Design",
+        "CourseType": "ETL",
+        "Credits": "I 4.0",
+        "Grade": "B",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "21-Jul-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "ECE5026",
+        "CourseTitle": "System Design with FPGA",
+        "CourseType": "ETP",
+        "Credits": "F 3.0",
+        "Grade": "B",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "21-Jul-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "ECE5029",
+        "CourseTitle": "VLSI Testing and Testability",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "21-Jul-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "ECE6024",
+        "CourseTitle": "VLSI Verification Methodologies",
+        "CourseType": "F ETP",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "21-Jul-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "ECE6025",
+        "CourseTitle": "Low Power IC Design",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "21-Jul-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "ENG5002",
+        "CourseTitle": "O Professional and Communication Skills",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "21-Jul-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "SET5002",
+        "CourseTitle": "Science, Engineering and Technology Project - II",
+        "CourseType": "PJT",
+        "Credits": "2.0",
+        "Grade": "S",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "22-Jul-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "STS5002",
+        "CourseTitle": "N Preparing for Industry",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "21-Jul-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "ECE5025",
+        "CourseTitle": "System-on-Chip Design",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Aug-2021",
+        "ResultDeclaredOn": "05-Sep-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "20",
+        "CourseCode": "ECE5027",
+        "CourseTitle": "U Advanced Computer Architecture",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Aug-2021",
+        "ResultDeclaredOn": "05-Sep-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "21",
+        "CourseCode": "ECE6099",
+        "CourseTitle": "Masters Thesis",
+        "CourseType": "PJT",
+        "Credits": "16.0",
+        "Grade": "S",
+        "ExamMonth": "Jun-2022",
+        "ResultDeclaredOn": "07-Jul-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      }
+    ],
+    "curriculum_details": [
+      {
+        "CurriculumDistributionType": "Programme Core",
+        "CreditsRequired": "19.0",
+        "CreditsEarned": "19.0"
+      },
+      {
+        "CurriculumDistributionType": "Programme Elective",
+        "CreditsRequired": "18.0",
+        "CreditsEarned": "24.0"
+      },
+      {
+        "CurriculumDistributionType": "University Core",
+        "CreditsRequired": "27.0",
+        "CreditsEarned": "27.0"
+      },
+      {
+        "CurriculumDistributionType": "University Elective",
+        "CreditsRequired": "6.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Total Credits",
+        "CreditsRequired": "70.0",
+        "CreditsEarned": "70.0"
+      }
+    ],
+    "basket_details": [
+      {
+        "BasketTitle": "Soft Skills",
+        "DistributionType": "UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "2.0"
+      },
+      {
+        "BasketTitle": "English and Foreign Language",
+        "DistributionType": "UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "2.0"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "70.0",
+        "CreditsEarned": "70.0",
+        "Cgpa": "8.86",
+        "SGrades": "5",
+        "AGrades": "6",
+        "BGrades": "8",
+        "CGrades": "L 1",
+        "DGrades": "1",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "student_information": {
+    "register_number": "22PHD1235",
+    "name": "M RAJKUMAR"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "RSS00766",
+        "CourseTitle": "PARTIAL DIFFERENTIAL EQUATIONS AND ITS APPLICATIONS",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "21-Jun-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RSS00767",
+        "CourseTitle": "NUMERICAL SOLUTIONS OF PDE USING FINITE ELEMENT METHOD",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "21-Jun-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "MATR706",
+        "CourseTitle": "Topics in Advanced Mathematics",
+        "CourseType": "Regular",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Jul-2023",
+        "ResultDeclaredOn": "31-Jul-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "RES701",
+        "CourseTitle": "Research Methodology- SAS",
+        "CourseType": "Regular",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Jul-2023",
+        "ResultDeclaredOn": "31-Jul-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "RMC0001",
+        "CourseTitle": "Research and Publication Ethics-SAS",
+        "CourseType": "Regular",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Jul-2023",
+        "ResultDeclaredOn": "31-Jul-2023",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "15.0",
+        "CreditsEarned": "15.0",
+        "Cgpa": "7.80",
+        "SGrades": "0",
+        "AGrades": "0",
+        "BGrades": "4",
+        "CGrades": "1",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

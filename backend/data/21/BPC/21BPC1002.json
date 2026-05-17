@@ -1,0 +1,31 @@
+{
+  "student_information": {
+    "register_number": "21BPC1002",
+    "name": "CHHAVI JHAWAR"
+  },
+  "tables": {
+    "l_basket_details": [
+      {
+        "BasketTitle": "Co-Extra Curricular Basket",
+        "DistributionType": "NGCR",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "0.0"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "0.0",
+        "CreditsEarned": "0.0",
+        "Cgpa": "0.00",
+        "SGrades": "0",
+        "AGrades": "0",
+        "BGrades": "C 0",
+        "ICGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

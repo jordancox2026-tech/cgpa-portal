@@ -1,0 +1,166 @@
+{
+  "student_information": {
+    "register_number": "20MIS1094",
+    "name": "MEKALA BHAVANA"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "CHY1701",
+        "CourseTitle": "Engineering Chemistry",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Mar-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "CSE1001",
+        "CourseTitle": "Problem Solving and Programming",
+        "CourseType": "LO",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "10-Mar-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "ENG1902",
+        "CourseTitle": "Technical English - II",
+        "CourseType": "LO",
+        "Credits": "2.0",
+        "Grade": "D",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "10-Mar-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "HUM1021",
+        "CourseTitle": "Ethics and Values",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "N3",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Mar-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "MAT1011",
+        "CourseTitle": "Calculus for Engineers",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "L Feb-2021",
+        "ResultDeclaredOn": "26-Mar-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "PHY1701",
+        "CourseTitle": "Engineering Physics",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Mar-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "STS1021",
+        "CourseTitle": "Introduction to Soft Skills",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "N3",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Mar-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      }
+    ],
+    "c_curriculum_details": [
+      {
+        "CurriculumDistributionType": "Programme Core",
+        "CreditsRequired": "I 76.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Programme Elective",
+        "CreditsRequired": "F 72.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "University Core",
+        "CreditsRequired": "61.0",
+        "CreditsEarned": "5.0"
+      },
+      {
+        "CurriculumDistributionType": "University Elective",
+        "CreditsRequired": "12.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Bridge Course",
+        "CreditsRequired": "F 4.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Non Credit Course",
+        "CreditsRequired": "5.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Total Credits",
+        "CreditsRequired": "O 221.0",
+        "CreditsEarned": "5.0"
+      }
+    ],
+    "basket_details": [
+      {
+        "NBasketTitle": "Soft Skills",
+        "DistributionType": "UC",
+        "CreditsRequired": "8.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "NBasketTitle": "Co-Extra Curricular Basket",
+        "DistributionType": "NC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "NBasketTitle": "U Foreign Language Course Basket",
+        "DistributionType": "UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "0.0"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "20.0",
+        "CreditsEarned": "5.0",
+        "Cgpa": "1.50",
+        "SGrades": "0",
+        "AGrades": "0",
+        "BGrades": "0",
+        "CGrades": "0",
+        "DGrades": "2",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "5"
+      }
+    ]
+  }
+}

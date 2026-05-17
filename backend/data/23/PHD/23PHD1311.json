@@ -1,0 +1,91 @@
+{
+  "student_information": {
+    "register_number": "23PHD1311",
+    "name": "Not found"
+  },
+  "tables": {
+    "grade_history_combined": [
+      {
+        "Slno": "1",
+        "CourseCode": "MATR706",
+        "CourseTitle": "TOPICS IN ADVANCED MATHEMATICS",
+        "CourseType": "RMC",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "21-Jun-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RMC0001",
+        "CourseTitle": "RESEARCH AND PUBLICATION ETHICS",
+        "CourseType": "RMC",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "21-Jun-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "RMC7001",
+        "CourseTitle": "RESEARCH METHODOLOGY",
+        "CourseType": "RM",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "21-Jun-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "ONL00218",
+        "CourseTitle": "INTRODUCTION TO MACHINE LEARNING",
+        "CourseType": "ONL",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Oct-2024",
+        "ResultDeclaredOn": "31-Oct-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "MAT6010",
+        "CourseTitle": "Optimization Techniques",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "1",
+        "CourseCode": "ENG5004",
+        "CourseTitle": "ENGLISH FOR RESEARCHERS",
+        "CourseType": "RM",
+        "Credits": "3.0",
+        "Grade": "P",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "21-Jun-2024",
+        "CourseOption": "NCPF"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "16.0",
+        "CreditsEarned": "16.0",
+        "Cgpa": "7.06",
+        "SGrades": "0",
+        "AGrades": "0",
+        "BGrades": "1",
+        "CGrades": "3",
+        "DGrades": "1",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

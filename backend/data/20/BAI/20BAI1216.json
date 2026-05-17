@@ -1,0 +1,43 @@
+{
+  "student_information": {
+    "register_number": "20BAI1216",
+    "name": "Not found"
+  },
+  "tables": {
+    "basket_details": [
+      {
+        "BasketTitle": "Soft Skills",
+        "DistributionType": "A UC",
+        "CreditsRequired": "6.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "BasketTitle": "Co-Extra Curricular Basket",
+        "DistributionType": "NC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "BasketTitle": "Foreign Language Course Basket",
+        "DistributionType": "I UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "0.0"
+      }
+    ],
+    "c_cgpa_details": [
+      {
+        "CreditsRegistered": "0.0",
+        "CreditsEarned": "0.0",
+        "Cgpa": "0.00",
+        "SGrades": "0",
+        "AGrades": "0",
+        "BGrades": "I 0",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

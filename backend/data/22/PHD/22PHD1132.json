@@ -1,0 +1,91 @@
+{
+  "student_information": {
+    "register_number": "22PHD1132",
+    "name": "ROSHAN TRIPATHI"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "RES7001",
+        "CourseTitle": "Research Methodology- SAS",
+        "CourseType": "RM",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Feb-2023",
+        "ResultDeclaredOn": "28-Feb-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RMC0001",
+        "CourseTitle": "Research and Publication Ethics-SAS",
+        "CourseType": "RMC",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Feb-2023",
+        "ResultDeclaredOn": "28-Feb-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "MCDM608L",
+        "CourseTitle": "Computational Fluid Dynamics",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "N",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "MCDM608L",
+        "CourseTitle": "Computational Fluid Dynamics",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "MCDM608P",
+        "CourseTitle": "Computational Fluid Dynamics Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "N",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "MCDM608P",
+        "CourseTitle": "Computational Fluid Dynamics Lab",
+        "CourseType": "Lab",
+        "Credits": "1.0",
+        "Grade": "N",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "28-May-2024",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "14.0",
+        "CreditsEarned": "6.0",
+        "Cgpa": "3.00",
+        "SGrades": "0",
+        "AGrades": "0",
+        "BGrades": "0",
+        "CGrades": "2",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "4"
+      }
+    ]
+  }
+}

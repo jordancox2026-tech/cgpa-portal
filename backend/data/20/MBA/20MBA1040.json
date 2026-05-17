@@ -1,0 +1,222 @@
+{
+  "student_information": {
+    "register_number": "20MBA1040",
+    "name": "SRIDHARAN S"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "BMT5111",
+        "CourseTitle": "Applied Economics for Management Decisions",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2020",
+        "ResultDeclaredOn": "16-Nov-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "BMT5112",
+        "CourseTitle": "Financial Accounting and Analysis",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2020",
+        "ResultDeclaredOn": "16-Nov-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "BMT5113",
+        "CourseTitle": "Data Analysis for Managers",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2020",
+        "ResultDeclaredOn": "16-Nov-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "BMT5114",
+        "CourseTitle": "IT for Managers",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "L Nov-2020",
+        "ResultDeclaredOn": "16-Nov-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "BMT5115",
+        "CourseTitle": "Organizational Behaviour",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2020",
+        "ResultDeclaredOn": "16-Nov-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "BMT5116",
+        "CourseTitle": "Corporate Legal Framework",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "A D",
+        "ExamMonth": "Nov-2020",
+        "ResultDeclaredOn": "16-Nov-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "BMT5117",
+        "CourseTitle": "Business Communication",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2020",
+        "ResultDeclaredOn": "16-Nov-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "BMT5118",
+        "CourseTitle": "Operations Management",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "I N3",
+        "ExamMonth": "Jan-2021",
+        "ResultDeclaredOn": "15-Mar-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "BMT5119",
+        "CourseTitle": "Marketing Management - Fundamentals",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N3",
+        "ExamMonth": "Jan-2021",
+        "ResultDeclaredOn": "15-Mar-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "BMT5120",
+        "CourseTitle": "Human Resource Management",
+        "CourseType": "TH",
+        "Credits": "C 3.0",
+        "Grade": "N3",
+        "ExamMonth": "Jan-2021",
+        "ResultDeclaredOn": "15-Mar-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "BMT5121",
+        "CourseTitle": "Corporate Governance and Ethics",
+        "CourseType": "TH",
+        "Credits": "I 1.0",
+        "Grade": "N3",
+        "ExamMonth": "Jan-2021",
+        "ResultDeclaredOn": "15-Mar-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "BMT6111",
+        "CourseTitle": "Macro Economics",
+        "CourseType": "TH",
+        "Credits": "F 2.0",
+        "Grade": "N3",
+        "ExamMonth": "Jan-2021",
+        "ResultDeclaredOn": "15-Mar-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "BMT6112",
+        "CourseTitle": "Basic Financial Management",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "N3",
+        "ExamMonth": "Jan-2021",
+        "ResultDeclaredOn": "15-Mar-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "BMT6113",
+        "CourseTitle": "Business Research Methods",
+        "CourseType": "F ETP",
+        "Credits": "3.0",
+        "Grade": "N",
+        "ExamMonth": "Jan-2021",
+        "ResultDeclaredOn": "15-Mar-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "STS5001",
+        "CourseTitle": "O Essentials of Business Etiquettes",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "N3",
+        "ExamMonth": "Jan-2021",
+        "ResultDeclaredOn": "15-Mar-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      }
+    ],
+    "curriculum_details": [
+      {
+        "UCurriculumDistributionType": "Programme Core",
+        "CreditsRequired": "60.0",
+        "CreditsEarned": "18.0"
+      },
+      {
+        "UCurriculumDistributionType": "Programme Elective",
+        "CreditsRequired": "48.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "UCurriculumDistributionType": "Total Credits",
+        "CreditsRequired": "102.0",
+        "CreditsEarned": "18.0"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "36.0",
+        "CreditsEarned": "18.0",
+        "Cgpa": "3.67",
+        "SGrades": "0",
+        "AGrades": "1",
+        "BGrades": "2",
+        "CGrades": "3",
+        "DGrades": "1",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "8"
+      }
+    ]
+  }
+}

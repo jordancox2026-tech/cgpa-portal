@@ -1,0 +1,121 @@
+{
+  "student_information": {
+    "register_number": "19MCA1060",
+    "name": "ASHISH"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "ENG5001",
+        "CourseTitle": "Fundamentals of Communication Skills",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "N2",
+        "ExamMonth": "Nov-2019",
+        "ResultDeclaredOn": "08-Feb-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UE"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "ITA5002",
+        "CourseTitle": "Problem solving with Data structures and Algorithms",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2019",
+        "ResultDeclaredOn": "08-Feb-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "ITA5003",
+        "CourseTitle": "Data Communication and Networking",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N2",
+        "ExamMonth": "Nov-2019",
+        "ResultDeclaredOn": "08-Feb-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "ITA5005",
+        "CourseTitle": "Object Oriented Software Engineering",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N2",
+        "ExamMonth": "L Nov-2019",
+        "ResultDeclaredOn": "08-Feb-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "ITA5006",
+        "CourseTitle": "Distributed Operating Systems",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "A N",
+        "ExamMonth": "Nov-2019",
+        "ResultDeclaredOn": "08-Feb-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "ITA5008",
+        "CourseTitle": "Database Technologies",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2019",
+        "ResultDeclaredOn": "08-Feb-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "MAT5007",
+        "CourseTitle": "Applied Statistical Methods",
+        "CourseType": "ETL",
+        "Credits": "3.0",
+        "Grade": "I N",
+        "ExamMonth": "Nov-2019",
+        "ResultDeclaredOn": "08-Feb-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "STS4011",
+        "CourseTitle": "Essentials of Business Etiquettes",
+        "CourseType": "SS",
+        "Credits": "C 1.0",
+        "Grade": "N2",
+        "ExamMonth": "Nov-2019",
+        "ResultDeclaredOn": "17-Feb-2020",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      }
+    ],
+    "n_cgpa_details": [
+      {
+        "CreditsRegistered": "22.0",
+        "CreditsEarned": "0.0",
+        "Cgpa": "0.00",
+        "SGrades": "U 0",
+        "AGrades": "0",
+        "BGrades": "0",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "8"
+      }
+    ]
+  }
+}

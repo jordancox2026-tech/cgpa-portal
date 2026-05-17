@@ -1,0 +1,731 @@
+{
+  "student_information": {
+    "register_number": "20BCE1009",
+    "name": "RISHIRAJ SARIT BISWAS"
+  },
+  "tables": {
+    "grade_history_combined": [
+      {
+        "Slno": "1",
+        "CourseCode": "CHY1701",
+        "CourseTitle": "Engineering Chemistry",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Mar-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "CSE1001",
+        "CourseTitle": "Problem Solving and Programming",
+        "CourseType": "LO",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "10-Mar-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "EEE1001",
+        "CourseTitle": "Basic Electrical and Electronics Engineering",
+        "CourseType": "ETL",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Mar-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "ENG1902",
+        "CourseTitle": "Technical English - II",
+        "CourseType": "LO",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "L Feb-2021",
+        "ResultDeclaredOn": "10-Mar-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "HUM1021",
+        "CourseTitle": "Ethics and Values",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "N2",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Mar-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "HUM1021",
+        "CourseTitle": "Ethics and Values",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "S",
+        "ExamMonth": "Jul-2021",
+        "ResultDeclaredOn": "18-Aug-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "MAT1011",
+        "CourseTitle": "Calculus for Engineers",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "A N",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Mar-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "MAT1011",
+        "CourseTitle": "Calculus for Engineers",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Jul-2021",
+        "ResultDeclaredOn": "18-Aug-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "STS1201",
+        "CourseTitle": "Introduction to Problem Solving",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "I N2",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Mar-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "STS1201",
+        "CourseTitle": "Introduction to Problem Solving",
+        "CourseType": "SS",
+        "Credits": "C 1.0",
+        "Grade": "A",
+        "ExamMonth": "Jul-2021",
+        "ResultDeclaredOn": "16-Aug-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "CHY1002",
+        "CourseTitle": "Environmental Sciences",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "06-Aug-2021",
+        "CourseOption": "NC",
+        "CourseDistribUtion": "NC"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "CSE1002",
+        "CourseTitle": "Problem Solving and Object Oriented Programming",
+        "CourseType": "LO",
+        "Credits": "I 3.0",
+        "Grade": "S",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "06-Aug-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "CSE1003",
+        "CourseTitle": "Digital Logic and Design",
+        "CourseType": "ETL",
+        "Credits": "F 4.0",
+        "Grade": "A",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "06-Aug-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "CSE2004",
+        "CourseTitle": "Database Management Systems",
+        "CourseType": "ETLP",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "06-Aug-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "GER1001",
+        "CourseTitle": "Grundstufe Deutsch",
+        "CourseType": "F TH",
+        "Credits": "2.0",
+        "Grade": "S",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "06-Aug-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "MAT2001",
+        "CourseTitle": "Statistics for Engineers",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "S",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "06-Aug-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "PHY1701",
+        "CourseTitle": "O Engineering Physics",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "06-Aug-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "STS1202",
+        "CourseTitle": "Introduction to Quantitative, Logical and Verbal Ability",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "S",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "06-Aug-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "CSE1004",
+        "CourseTitle": "N Network and Communication",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2021",
+        "ResultDeclaredOn": "29-Jan-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "20",
+        "CourseCode": "CSE2001",
+        "CourseTitle": "Computer Architecture and Organization",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2021",
+        "ResultDeclaredOn": "29-Jan-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "21",
+        "CourseCode": "CSE2011",
+        "CourseTitle": "U Data Structures and Algorithms",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Dec-2021",
+        "ResultDeclaredOn": "29-Jan-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "22",
+        "CourseCode": "CSE2013",
+        "CourseTitle": "Theory of Computation",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Dec-2021",
+        "ResultDeclaredOn": "29-Jan-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "23",
+        "CourseCode": "CSE3001",
+        "CourseTitle": "Software Engineering",
+        "CourseType": "ETLP",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2021",
+        "ResultDeclaredOn": "29-Jan-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "24",
+        "CourseCode": "HUM1012",
+        "CourseTitle": "Introduction to Sociology",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2021",
+        "ResultDeclaredOn": "29-Jan-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UE"
+      },
+      {
+        "Slno": "25",
+        "CourseCode": "MAT1014",
+        "CourseTitle": "Discrete Mathematics and Graph Theory",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2021",
+        "ResultDeclaredOn": "29-Jan-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "26",
+        "CourseCode": "STS2201",
+        "CourseTitle": "Numerical Ability and Cognitive Intelligence",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "A",
+        "ExamMonth": "Dec-2021",
+        "ResultDeclaredOn": "29-Jan-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "27",
+        "CourseCode": "CSE1007",
+        "CourseTitle": "Java Programming",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "May-2022",
+        "ResultDeclaredOn": "06-Jun-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "28",
+        "CourseCode": "CSE2005",
+        "CourseTitle": "Operating Systems",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "May-2022",
+        "ResultDeclaredOn": "06-Jun-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "29",
+        "CourseCode": "CSE2006",
+        "CourseTitle": "Microprocessor and Interfacing",
+        "CourseType": "ETLP",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "May-2022",
+        "ResultDeclaredOn": "06-Jun-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "30",
+        "CourseCode": "CSE2012",
+        "CourseTitle": "Design and analysis of algorithms",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "May-2022",
+        "ResultDeclaredOn": "06-Jun-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "31",
+        "CourseCode": "EXC1208",
+        "CourseTitle": "Game Development Club",
+        "CourseType": "ECA",
+        "Credits": "2.0",
+        "Grade": "P",
+        "ExamMonth": "May-2022",
+        "ResultDeclaredOn": "01-Jun-2022",
+        "CourseOption": "NC",
+        "CourseDistribUtion": "NC"
+      },
+      {
+        "Slno": "32",
+        "CourseCode": "HUM1043",
+        "CourseTitle": "Mass Media and Society",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2022",
+        "ResultDeclaredOn": "06-Jun-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UE"
+      },
+      {
+        "Slno": "33",
+        "CourseCode": "MGT1022",
+        "CourseTitle": "Lean Start-up Management",
+        "CourseType": "ETP",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "May-2022",
+        "ResultDeclaredOn": "06-Jun-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "34",
+        "CourseCode": "PHY1901",
+        "CourseTitle": "Introduction to Innovative Projects",
+        "CourseType": "TH",
+        "Credits": "1.0",
+        "Grade": "S",
+        "ExamMonth": "May-2022",
+        "ResultDeclaredOn": "06-Jun-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "35",
+        "CourseCode": "STS2202",
+        "CourseTitle": "Advanced Aptitude and Reasoning Skills",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "A",
+        "ExamMonth": "May-2022",
+        "ResultDeclaredOn": "06-Jun-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "36",
+        "CourseCode": "CSE3002",
+        "CourseTitle": "Internet and Web Programming",
+        "CourseType": "ETLP",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "L Nov-2022",
+        "ResultDeclaredOn": "10-Jan-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "37",
+        "CourseCode": "CSE3505",
+        "CourseTitle": "Foundations of Data Analytics",
+        "CourseType": "ETLP",
+        "Credits": "4.0",
+        "Grade": "A C",
+        "ExamMonth": "Nov-2022",
+        "ResultDeclaredOn": "24-Jan-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "38",
+        "CourseCode": "CSE4001",
+        "CourseTitle": "Parallel and Distributed Computing",
+        "CourseType": "ETLP",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2022",
+        "ResultDeclaredOn": "10-Jan-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "39",
+        "CourseCode": "CSE4020",
+        "CourseTitle": "Machine Learning",
+        "CourseType": "ETLP",
+        "Credits": "4.0",
+        "Grade": "I B",
+        "ExamMonth": "Nov-2022",
+        "ResultDeclaredOn": "10-Jan-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "40",
+        "CourseCode": "MAT3004",
+        "CourseTitle": "Applied Linear Algebra",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2022",
+        "ResultDeclaredOn": "10-Jan-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "41",
+        "CourseCode": "MGT1051",
+        "CourseTitle": "Business Analytics for Engineers",
+        "CourseType": "TH",
+        "Credits": "C 3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2022",
+        "ResultDeclaredOn": "10-Jan-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UE"
+      },
+      {
+        "Slno": "42",
+        "CourseCode": "STS3201",
+        "CourseTitle": "Programming Skills for Employment",
+        "CourseType": "SS",
+        "Credits": "I 1.0",
+        "Grade": "S",
+        "ExamMonth": "Nov-2022",
+        "ResultDeclaredOn": "10-Jan-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "43",
+        "CourseCode": "CSE1901",
+        "CourseTitle": "Technical Answers for Real World Problems (TARP)",
+        "CourseType": "ETP",
+        "Credits": "F 2.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2023",
+        "ResultDeclaredOn": "24-May-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "44",
+        "CourseCode": "CSE3011",
+        "CourseTitle": "Robotics and its Applications",
+        "CourseType": "F ETP",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Apr-2023",
+        "ResultDeclaredOn": "24-May-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "45",
+        "CourseCode": "CSE3013",
+        "CourseTitle": "Artificial Intelligence",
+        "CourseType": "ETP",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "Apr-2023",
+        "ResultDeclaredOn": "24-May-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "46",
+        "CourseCode": "CSE3021",
+        "CourseTitle": "O Social and Information Networks",
+        "CourseType": "ETP",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2023",
+        "ResultDeclaredOn": "24-May-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "47",
+        "CourseCode": "CSE3506",
+        "CourseTitle": "Essentials of Data Analytics",
+        "CourseType": "ETLP",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2023",
+        "ResultDeclaredOn": "24-May-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "48",
+        "CourseCode": "CSE4022",
+        "CourseTitle": "N Natural Language Processing",
+        "CourseType": "ETP",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Apr-2023",
+        "ResultDeclaredOn": "24-May-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "49",
+        "CourseCode": "STS3204",
+        "CourseTitle": "U JAVA Programming and Software Engineering Fundamentals",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "S",
+        "ExamMonth": "Apr-2023",
+        "ResultDeclaredOn": "13-May-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "50",
+        "CourseCode": "CSE1902",
+        "CourseTitle": "Industrial Internship",
+        "CourseType": "PJT",
+        "Credits": "1.0",
+        "Grade": "A",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "29-Dec-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "51",
+        "CourseCode": "CSE1903",
+        "CourseTitle": "Comprehensive Examination",
+        "CourseType": "PJT",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "29-Dec-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "52",
+        "CourseCode": "CSE3020",
+        "CourseTitle": "Data Visualization",
+        "CourseType": "ETLP",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "53",
+        "CourseCode": "CSE3024",
+        "CourseTitle": "Web Mining",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "54",
+        "CourseCode": "HUM1024",
+        "CourseTitle": "India and Contemporary World",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UE"
+      },
+      {
+        "Slno": "55",
+        "CourseCode": "CSE1904",
+        "CourseTitle": "Capstone Project",
+        "CourseType": "PJT",
+        "Credits": "12.0",
+        "Grade": "A",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "28-May-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      }
+    ],
+    "curriculum_details": [
+      {
+        "ProgrammeCore": "Programme Elective",
+        "610": "36.0"
+      },
+      {
+        "ProgrammeCore": "University Core",
+        "610": "53.0"
+      },
+      {
+        "ProgrammeCore": "University Elective",
+        "610": "12.0"
+      },
+      {
+        "ProgrammeCore": "Bridge Course",
+        "610": "0.0"
+      },
+      {
+        "ProgrammeCore": "Non Credit Course",
+        "610": "5.0"
+      },
+      {
+        "ProgrammeCore": "Total Credits",
+        "610": "167.0"
+      }
+    ],
+    "basket_details": [
+      {
+        "BasketTitle": "Soft Skills",
+        "ADistributionType": "UC",
+        "CreditsRequired": "6.0",
+        "CreditsEarned": "6.0"
+      },
+      {
+        "BasketTitle": "Co-Extra Curricular Basket",
+        "ADistributionType": "I NC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "2.0"
+      },
+      {
+        "BasketTitle": "Foreign Language Course Basket",
+        "ADistributionType": "UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "2.0"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "162.0",
+        "CreditsEarned": "162.0",
+        "Cgpa": "8.38",
+        "SGrades": "9",
+        "AGrades": "12",
+        "IBGrades": "F 25",
+        "CGrades": "3",
+        "DGrades": "1",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

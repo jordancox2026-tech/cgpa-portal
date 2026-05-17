@@ -1,0 +1,23 @@
+{
+  "student_information": {
+    "register_number": "14BLA1042",
+    "name": "SUDARKODINACHIAR P"
+  },
+  "tables": {
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "0.0",
+        "CreditsEarned": "0.0",
+        "Cgpa": "0.00",
+        "SGrades": "0",
+        "AGrades": "0",
+        "BGrades": "0",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

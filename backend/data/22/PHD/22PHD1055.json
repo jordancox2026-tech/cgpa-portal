@@ -1,0 +1,69 @@
+{
+  "student_information": {
+    "register_number": "22PHD1055",
+    "name": "GAYATHRI G"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "RES7001",
+        "CourseTitle": "Research Methodology- SAS",
+        "CourseType": "RM",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Feb-2023",
+        "ResultDeclaredOn": "28-Feb-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RMC0001",
+        "CourseTitle": "Research and Publication Ethics-SAS",
+        "CourseType": "RMC",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Feb-2023",
+        "ResultDeclaredOn": "28-Feb-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "RSS00480",
+        "CourseTitle": "PHYSICS OF NANOSCALE DEVICES",
+        "CourseType": "Regular",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Jul-2023",
+        "ResultDeclaredOn": "31-Jul-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "RSS00481",
+        "CourseTitle": "GRAPHENE AND 2- DIMENSIONAL MATERIALS",
+        "CourseType": "Regular",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Jul-2023",
+        "ResultDeclaredOn": "31-Jul-2023",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "12.0",
+        "CreditsEarned": "12.0",
+        "Cgpa": "8.00",
+        "SGrades": "0",
+        "AGrades": "0",
+        "BGrades": "4",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

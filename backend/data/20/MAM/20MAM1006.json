@@ -1,0 +1,268 @@
+{
+  "student_information": {
+    "register_number": "20MAM1006",
+    "name": "AWZAF MOHIDEEN H"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "MAT5005",
+        "CourseTitle": "Advanced Mathematical Methods",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Mar-2021",
+        "ResultDeclaredOn": "21-Apr-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "MEE5013",
+        "CourseTitle": "Advanced Mechanics of Solids",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Mar-2021",
+        "ResultDeclaredOn": "21-Apr-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "MEE5027",
+        "CourseTitle": "System Design and Control",
+        "CourseType": "ETP",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Mar-2021",
+        "ResultDeclaredOn": "21-Apr-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "MAM5004",
+        "CourseTitle": "Machine vision and augmented reality",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "L Aug-2021",
+        "ResultDeclaredOn": "09-Sep-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "MEE5009",
+        "CourseTitle": "Autotronics and Vehicle Intelligence",
+        "CourseType": "ETP",
+        "Credits": "4.0",
+        "Grade": "A B",
+        "ExamMonth": "Aug-2021",
+        "ResultDeclaredOn": "09-Sep-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "MEE5015",
+        "CourseTitle": "Finite Element Methods",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Aug-2021",
+        "ResultDeclaredOn": "09-Sep-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "MAM5001",
+        "CourseTitle": "Automotive Noise, Vibration, and Harshness",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "I B",
+        "ExamMonth": "Dec-2021",
+        "ResultDeclaredOn": "21-Jul-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "MAM5003",
+        "CourseTitle": "Driving Assistance Systems",
+        "CourseType": "ETP",
+        "Credits": "C 3.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2021",
+        "ResultDeclaredOn": "21-Jul-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "MEE5032",
+        "CourseTitle": "Artificial Intelligence and Machine Learning",
+        "CourseType": "ETP",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Dec-2021",
+        "ResultDeclaredOn": "21-Jul-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "MAM5005",
+        "CourseTitle": "Power Electronics and Drives",
+        "CourseType": "TH",
+        "Credits": "I 3.0",
+        "Grade": "B",
+        "ExamMonth": "Aug-2022",
+        "ResultDeclaredOn": "01-Sep-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "MAM6003",
+        "CourseTitle": "Autonomous Vehicles",
+        "CourseType": "ETP",
+        "Credits": "F 3.0",
+        "Grade": "B",
+        "ExamMonth": "Aug-2022",
+        "ResultDeclaredOn": "01-Sep-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "MEE5031",
+        "CourseTitle": "Digital Manufacturing and Factory Automation",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Aug-2022",
+        "ResultDeclaredOn": "01-Sep-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "MAM5002",
+        "CourseTitle": "Electric and Hybrid Vehicle Systems",
+        "CourseType": "F ETP",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Feb-2023",
+        "ResultDeclaredOn": "28-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "MAM6004",
+        "CourseTitle": "O Ergonomics and Human Comfort for Automotive Applications",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Feb-2023",
+        "ResultDeclaredOn": "28-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "MAM6006",
+        "CourseTitle": "Electronic Reliability",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Feb-2023",
+        "ResultDeclaredOn": "28-Mar-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "MAM6098",
+        "CourseTitle": "N Project Work - I",
+        "CourseType": "PJT",
+        "Credits": "6.0",
+        "Grade": "A",
+        "ExamMonth": "Feb-2023",
+        "ResultDeclaredOn": "02-Aug-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "MAM5007",
+        "CourseTitle": "Seminar Presentation",
+        "CourseType": "PJT",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Jul-2023",
+        "ResultDeclaredOn": "04-Aug-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "MAM6099",
+        "CourseTitle": "Project Work - II",
+        "CourseType": "PJT",
+        "Credits": "12.0",
+        "Grade": "A",
+        "ExamMonth": "Jul-2023",
+        "ResultDeclaredOn": "04-Aug-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      }
+    ],
+    "curriculum_details": [
+      {
+        "CurriculumDistributionType": "Programme Core",
+        "CreditsRequired": "23.0",
+        "CreditsEarned": "23.0"
+      },
+      {
+        "CurriculumDistributionType": "Programme Elective",
+        "CreditsRequired": "18.0",
+        "CreditsEarned": "26.0"
+      },
+      {
+        "CurriculumDistributionType": "University Core",
+        "CreditsRequired": "23.0",
+        "CreditsEarned": "23.0"
+      },
+      {
+        "CurriculumDistributionType": "University Elective",
+        "CreditsRequired": "6.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Total Credits",
+        "CreditsRequired": "70.0",
+        "CreditsEarned": "72.0"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "72.0",
+        "CreditsEarned": "72.0",
+        "Cgpa": "8.65",
+        "SGrades": "1",
+        "AGrades": "9",
+        "BGrades": "8",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

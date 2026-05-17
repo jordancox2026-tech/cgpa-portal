@@ -1,0 +1,349 @@
+{
+  "student_information": {
+    "register_number": "23MIS1114",
+    "name": "G HOSHIKA"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "ICSE101E",
+        "CourseTitle": "Computer Programming: Python",
+        "CourseType": "ETL",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "12-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBES"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "IENG101L",
+        "CourseTitle": "Technical English Communication",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "12-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCHSS M"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "IENG101P",
+        "CourseTitle": "Technical English Communication Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "12-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCHSS M"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "IESP101L",
+        "CourseTitle": "Spanish I",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "L Dec-2023",
+        "ResultDeclaredOn": "12-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCHSS M"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "IHUM107L",
+        "CourseTitle": "Sustainability and Society",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A B",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "12-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCHSS M"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "IMAT101L",
+        "CourseTitle": "Calculus",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "12-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "IMAT101P",
+        "CourseTitle": "Calculus Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "I B",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "12-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "IPHY101L",
+        "CourseTitle": "Engineering Physics",
+        "CourseType": "TH",
+        "Credits": "C 3.0",
+        "Grade": "C",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "12-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "IPHY101P",
+        "CourseTitle": "Engineering Physics Lab",
+        "CourseType": "LO",
+        "Credits": "I 1.0",
+        "Grade": "S",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "12-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "ISTS101P",
+        "CourseTitle": "Qualitative Skills Practice I",
+        "CourseType": "SS",
+        "Credits": "F 1.5",
+        "Grade": "C",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "12-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCHSS M"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "ISWE101N",
+        "CourseTitle": "Introduction to Engineering",
+        "CourseType": "PJT",
+        "Credits": "1.0",
+        "Grade": "P",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "12-Jan-2024",
+        "CourseOption": "NCPF",
+        "CourseDistribUtion": "NGCR"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "ICHY101L",
+        "CourseTitle": "Engineering Chemistry",
+        "CourseType": "F TH",
+        "Credits": "3.0",
+        "Grade": "N2",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "ICHY101P",
+        "CourseTitle": "O Engineering Chemistry Lab",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "N2",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "28-May-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "ICSE102L",
+        "CourseTitle": "Structured and Object Oriented Programming",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "N2",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBES"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "ICSE102P",
+        "CourseTitle": "N Structured and Object Oriented Programming Lab",
+        "CourseType": "LO",
+        "Credits": "2.0",
+        "Grade": "N2",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "28-May-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBES"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "IEEE102L",
+        "CourseTitle": "Basic Electrical and Electronics Engineering",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N2",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBES"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "IEEE102P",
+        "CourseTitle": "U Basic Electrical and Electronics Engineering LAb",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "N3",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "28-May-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBES"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "IENG102P",
+        "CourseTitle": "Technical Report Writing",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "N3",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "28-May-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCHSS M"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "IMAT102L",
+        "CourseTitle": "Differential Equations and Transforms",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "N2",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBS M"
+      },
+      {
+        "Slno": "20",
+        "CourseCode": "ISTS102P",
+        "CourseTitle": "Quantitative Skills Practice I",
+        "CourseType": "SS",
+        "Credits": "1.5",
+        "Grade": "N2",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "28-May-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCHSS M"
+      },
+      {
+        "Slno": "21",
+        "CourseCode": "ISWE101L",
+        "CourseTitle": "Software Engineering",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N2",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "12-Jun-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "FCBES"
+      }
+    ],
+    "curriculum_details": [
+      {
+        "FoundationCoreBasicSciencesAndMathematics": "Foundation Core - Basic Engineering Sciences",
+        "240": "17.0",
+        "80": "3.0"
+      },
+      {
+        "FoundationCoreBasicSciencesAndMathematics": "Foundation Core - Humanities, Social Sciences and Management",
+        "240": "15.0",
+        "80": "9.5"
+      },
+      {
+        "FoundationCoreBasicSciencesAndMathematics": "Discipline-linked Engineering Sciences",
+        "240": "L 12.0",
+        "80": "0.0"
+      },
+      {
+        "FoundationCoreBasicSciencesAndMathematics": "Discipline Core",
+        "240": "68.0",
+        "80": "0.0"
+      },
+      {
+        "FoundationCoreBasicSciencesAndMathematics": "Discipline Elective",
+        "240": "30.0",
+        "80": "0.0"
+      },
+      {
+        "FoundationCoreBasicSciencesAndMathematics": "Projects and Internship",
+        "240": "A 35.0",
+        "80": "0.0"
+      },
+      {
+        "FoundationCoreBasicSciencesAndMathematics": "Open Elective",
+        "240": "15.0",
+        "80": "0.0"
+      },
+      {
+        "FoundationCoreBasicSciencesAndMathematics": "Non-graded Core Requirement",
+        "240": "I 11.0",
+        "80": "1.0"
+      },
+      {
+        "FoundationCoreBasicSciencesAndMathematics": "Bridge Course",
+        "240": "2.0",
+        "80": "0.0"
+      },
+      {
+        "FoundationCoreBasicSciencesAndMathematics": "Total Credits",
+        "240": "C 216.0",
+        "80": "21.5"
+      }
+    ],
+    "i_basket_details": [
+      {
+        "BasketTitle": "Elective",
+        "FDistributionType": "FCHSSM",
+        "CreditsRequired": "3.0",
+        "CreditsEarned": "3.0"
+      },
+      {
+        "BasketTitle": "Extra curricular activities",
+        "FDistributionType": "NGCR",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "BasketTitle": "Foreign Language",
+        "FDistributionType": "F FCHSSM",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "2.0"
+      }
+    ],
+    "o_cgpa_details": [
+      {
+        "CreditsRegistered": "42.0",
+        "CreditsEarned": "20.5",
+        "Cgpa": "3.63",
+        "SGrades": "1",
+        "AGrades": "0",
+        "BGrades": "5",
+        "CGrades": "3",
+        "DGrades": "1",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "10"
+      }
+    ]
+  }
+}

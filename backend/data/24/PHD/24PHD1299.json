@@ -1,0 +1,47 @@
+{
+  "student_information": {
+    "register_number": "24PHD1299",
+    "name": "VIGNESH KUMAR D"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "RSS01595",
+        "CourseTitle": "CRIMINAL LAW AND PENOLOGY",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "19-Dec-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RSS01596",
+        "CourseTitle": "PRISON REFORMS AND CORRECTIONAL INSTITUTIONS",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "19-Dec-2025",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "6.0",
+        "CreditsEarned": "6.0",
+        "Cgpa": "8.00",
+        "SGrades": "0",
+        "AGrades": "0",
+        "BGrades": "2",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

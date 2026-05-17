@@ -1,0 +1,298 @@
+{
+  "student_information": {
+    "register_number": "24MST1014",
+    "name": "NITISH KUMAR T K"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "MENG501P",
+        "CourseTitle": "Technical Report Writing",
+        "CourseType": "LO",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "03-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "SE"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "MMAT502L",
+        "CourseTitle": "Advanced Mathematical Methods",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N1",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "MMAT502L",
+        "CourseTitle": "Advanced Mathematical Methods",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Jun-2025",
+        "ResultDeclaredOn": "23-Jul-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "MSTE501L",
+        "CourseTitle": "Theory of Elasticity and Plasticity",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N1",
+        "ExamMonth": "L Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "MSTE501L",
+        "CourseTitle": "Theory of Elasticity and Plasticity",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "MSTE502L",
+        "CourseTitle": "Design of Concrete Structural Systems",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "A N1",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "MSTE502L",
+        "CourseTitle": "Design of Concrete Structural Systems",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "I D",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "MSTE503L",
+        "CourseTitle": "Structural Dynamics",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "E",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "MSTE504L",
+        "CourseTitle": "Advanced Design of Steel Structures",
+        "CourseType": "TH",
+        "Credits": "C 3.0",
+        "Grade": "N1",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "04-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "MSTS501P",
+        "CourseTitle": "Qualitative Skills Practice",
+        "CourseType": "SS",
+        "Credits": "I 1.5",
+        "Grade": "E",
+        "ExamMonth": "Dec-2024",
+        "ResultDeclaredOn": "03-Jan-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "SE"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "MSTE505L",
+        "CourseTitle": "Finite Element Analysis",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N1",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "02-Jun-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "MSTE505P",
+        "CourseTitle": "Finite Element Analysis Lab",
+        "CourseType": "LO",
+        "Credits": "F 1.0",
+        "Grade": "D",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "20-May-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "MSTE506L",
+        "CourseTitle": "Prestressed Concrete Structures",
+        "CourseType": "F TH",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "02-Jun-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DC"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "MSTE602L",
+        "CourseTitle": "Design of Bridges",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "02-Jun-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "MSTE605L",
+        "CourseTitle": "O Advanced Concrete Materials and Technology",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "02-Jun-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "MSTE607L",
+        "CourseTitle": "Earthquake Resistant Design",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "02-Jun-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "MSTE608L",
+        "CourseTitle": "N Analysis and Design of Tall Structures",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "02-Jun-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "DE"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "MSTS502P",
+        "CourseTitle": "Quantitative Skills Practice",
+        "CourseType": "SS",
+        "Credits": "1.5",
+        "Grade": "D",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "20-May-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "SE"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "MSTS601L",
+        "CourseTitle": "U Advanced Competitive Coding",
+        "CourseType": "SS",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "20-May-2025",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "OE"
+      }
+    ],
+    "course_change_history": [
+      {
+        "CourseCode": "MASTE501",
+        "CourseTitle": "Theory of Elasticity and Plasticity",
+        "ExamMonth": "Nov-2025",
+        "PreviousCode": "MSTE501L",
+        "PreviousTitle": "Theory of Elasticity and Plasticity",
+        "ChangeType": ""
+      },
+      {
+        "CourseCode": "MASTE502",
+        "CourseTitle": "Design of Concrete Structural Systems",
+        "ExamMonth": "Nov-2025",
+        "PreviousCode": "MSTE502L",
+        "PreviousTitle": "Design of Concrete Structural Systems",
+        "ChangeType": ""
+      }
+    ],
+    "curriculum_details": [
+      {
+        "DisciplineCore": "Discipline Elective",
+        "240": "12.0",
+        "180": "12.0"
+      },
+      {
+        "DisciplineCore": "Projects and Internship",
+        "240": "26.0",
+        "180": "0.0"
+      },
+      {
+        "DisciplineCore": "Open Elective",
+        "240": "3.0",
+        "180": "3.0"
+      },
+      {
+        "DisciplineCore": "Skill Enhancement",
+        "240": "5.0",
+        "180": "5.0"
+      },
+      {
+        "DisciplineCore": "Total Credits",
+        "240": "70.0",
+        "180": "38.0"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "37.0",
+        "CreditsEarned": "31.0",
+        "Cgpa": "4.74",
+        "SGrades": "0",
+        "AGrades": "0",
+        "BGrades": "C 1",
+        "ICGrades": "1",
+        "DGrades": "4",
+        "EGrades": "6",
+        "FGrades": "2",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

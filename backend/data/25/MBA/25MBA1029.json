@@ -1,0 +1,113 @@
+{
+  "student_information": {
+    "register_number": "25MBA1029",
+    "name": "PALLETI RUCHITHA"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "PAMBA501",
+        "CourseTitle": "Organisational Behaviour",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "PAMBA502",
+        "CourseTitle": "Economics for Business Decisions",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "PAMBA503",
+        "CourseTitle": "Accounting for Managerial Practices",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "PAMBA504",
+        "CourseTitle": "Quantitative Techniques",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "PAMBA505",
+        "CourseTitle": "Information Systems",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "F",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "PAMBA506",
+        "CourseTitle": "Marketing Management",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "PAMBA507",
+        "CourseTitle": "Legal Aspects of Business",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "PAMBA510",
+        "CourseTitle": "Business Research Methods",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "24.0",
+        "CreditsEarned": "21.0",
+        "Cgpa": "5.50",
+        "SGrades": "0",
+        "AGrades": "0",
+        "BGrades": "0",
+        "CGrades": "2",
+        "DGrades": "5",
+        "EGrades": "0",
+        "FGrades": "1",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

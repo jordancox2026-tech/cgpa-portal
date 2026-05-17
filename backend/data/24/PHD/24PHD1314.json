@@ -1,0 +1,47 @@
+{
+  "student_information": {
+    "register_number": "24PHD1314",
+    "name": "PRIYADHARSHINI D"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "MAEDS612",
+        "CourseTitle": "Machine Learning and Deep Learning",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "S",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RSS01616",
+        "CourseTitle": "HEATHCARE ANALYTICS",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "19-Dec-2025",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "7.0",
+        "CreditsEarned": "7.0",
+        "Cgpa": "9.14",
+        "SGrades": "1",
+        "AGrades": "0",
+        "BGrades": "1",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

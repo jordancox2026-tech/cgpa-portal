@@ -1,0 +1,80 @@
+{
+  "student_information": {
+    "register_number": "22PHD1148",
+    "name": "THUSHARA PV"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "BMT6140",
+        "CourseTitle": "Brand Management",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2023",
+        "ResultDeclaredOn": "01-Jun-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RES703",
+        "CourseTitle": "Research MethodS FOR MANAGEMENT",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "May-2023",
+        "ResultDeclaredOn": "01-Jun-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "RMC0001",
+        "CourseTitle": "Research and Publication Ethics",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "May-2023",
+        "ResultDeclaredOn": "01-Jun-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "RSS00366",
+        "CourseTitle": "ESSENTIAL TOOLS AND TECHNIQUES FOR SOCIAL SCIENCE RESEARCH",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "May-2023",
+        "ResultDeclaredOn": "01-Jun-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "RSS00367",
+        "CourseTitle": "BUSINESS STRATEGIES FOR THE BASE OF THE PYRAMID",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "May-2023",
+        "ResultDeclaredOn": "01-Jun-2023",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "15.0",
+        "CreditsEarned": "15.0",
+        "Cgpa": "8.80",
+        "SGrades": "2",
+        "AGrades": "0",
+        "BGrades": "3",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

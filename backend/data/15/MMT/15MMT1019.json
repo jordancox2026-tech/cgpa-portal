@@ -1,0 +1,267 @@
+{
+  "student_information": {
+    "register_number": "15MMT1019",
+    "name": "SUMEDH RAJENDRA KHARE"
+  },
+  "tables": {
+    "grade_history_combined": [
+      {
+        "Slno": "1",
+        "CourseCode": "EEE504_20",
+        "CourseTitle": "Power Electronics and Drives",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "10-Jun-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "ENG601_20",
+        "CourseTitle": "Professional and Communication Skills",
+        "CourseType": "TheoryLab",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "10-Jun-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "MEE528_20",
+        "CourseTitle": "Fluid Power Systems and Factory Automation",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "S",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "10-Jun-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "MEE533_20",
+        "CourseTitle": "Robot Dynamics and Analysis",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "10-Jun-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "MEE536",
+        "CourseTitle": "Micro Electro-mechanical Systems",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "10-Jun-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "MEE545",
+        "CourseTitle": "Modelling and Control of Mechatronic Systems",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "10-Jun-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "MEE553",
+        "CourseTitle": "Industrial Automation",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "10-Jun-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "SET502",
+        "CourseTitle": "Science, Engineering and Technology Project - II",
+        "CourseType": "Lab",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "29-Jun-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "STS502",
+        "CourseTitle": "Soft Skills",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "C",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "28-Jun-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "MEE699",
+        "CourseTitle": "Masters Thesis",
+        "CourseType": "Lab",
+        "Credits": "16.0",
+        "Grade": "A",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "14-Jun-2017",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "EEE544",
+        "CourseTitle": "Data Acquisition and Signal Conditioning",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Jul-2016",
+        "ResultDeclaredOn": "22-Jul-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "MEE546",
+        "CourseTitle": "Mobile and Autonomous Robots",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Jul-2016",
+        "ResultDeclaredOn": "22-Jul-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "MEE603",
+        "CourseTitle": "Reliability Engineering",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jul-2016",
+        "ResultDeclaredOn": "22-Jul-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "ECE510",
+        "CourseTitle": "Microcontroller System Design and its Applications",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "23-Dec-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "EEE502_20",
+        "CourseTitle": "Advanced Instrumentation and data acquisition systems",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "23-Dec-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "MAT502_20",
+        "CourseTitle": "Applied Engineering Mathematics",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "23-Dec-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "MEE531_20",
+        "CourseTitle": "Principles of Electronic Devices",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "23-Dec-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "MEE534",
+        "CourseTitle": "Machine Vision System",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "23-Dec-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "MEE537",
+        "CourseTitle": "Mechatronics System Design",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "23-Dec-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "20",
+        "CourseCode": "SET501",
+        "CourseTitle": "Science, Engineering and Technology Project - I",
+        "CourseType": "Lab",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "02-Feb-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "21",
+        "CourseCode": "STS501",
+        "CourseTitle": "Soft Skills",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "24-Dec-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "1",
+        "CourseCode": "ENG602",
+        "CourseTitle": "Professional and Communication Skills - II",
+        "CourseType": "Lab",
+        "Credits": "1.0",
+        "Grade": "U",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "23-Dec-2015",
+        "CourseOption": "Audit"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "77.0",
+        "CreditsEarned": "77.0",
+        "Cgpa": "8.58",
+        "SGrades": "1",
+        "AGrades": "9",
+        "BGrades": "10",
+        "CGrades": "1",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

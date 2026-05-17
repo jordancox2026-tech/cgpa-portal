@@ -1,0 +1,710 @@
+{
+  "student_information": {
+    "register_number": "20BME1060",
+    "name": "BHASKAR GOYAL"
+  },
+  "tables": {
+    "grade_history_combined": [
+      {
+        "Slno": "1",
+        "CourseCode": "CHY1701",
+        "CourseTitle": "Engineering Chemistry",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Mar-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "ENG1902",
+        "CourseTitle": "Technical English - II",
+        "CourseType": "LO",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "10-Mar-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "HUM1021",
+        "CourseTitle": "Ethics and Values",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Mar-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "MAT1011",
+        "CourseTitle": "Calculus for Engineers",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Mar-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "MEE1002",
+        "CourseTitle": "Engineering Mechanics",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Mar-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "MEE1003",
+        "CourseTitle": "Engineering Thermodynamics",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "L Feb-2021",
+        "ResultDeclaredOn": "26-Mar-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "STS1201",
+        "CourseTitle": "Introduction to Problem Solving",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "A A",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "26-Mar-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "CHY1002",
+        "CourseTitle": "Environmental Sciences",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "06-Aug-2021",
+        "CourseOption": "NC",
+        "CourseDistribUtion": "NC"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "CSE1001",
+        "CourseTitle": "Problem Solving and Programming",
+        "CourseType": "LO",
+        "Credits": "3.0",
+        "Grade": "I B",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "06-Aug-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "GER1001",
+        "CourseTitle": "Grundstufe Deutsch",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "S",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "06-Aug-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "MAT2001",
+        "CourseTitle": "Statistics for Engineers",
+        "CourseType": "ETL",
+        "Credits": "C 4.0",
+        "Grade": "A",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "06-Aug-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "MEE1005",
+        "CourseTitle": "Materials Engineering and Technology",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "06-Aug-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "PHY1701",
+        "CourseTitle": "Engineering Physics",
+        "CourseType": "ETL",
+        "Credits": "I 4.0",
+        "Grade": "S",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "06-Aug-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "PHY1901",
+        "CourseTitle": "Introduction to Innovative Projects",
+        "CourseType": "TH",
+        "Credits": "F 1.0",
+        "Grade": "S",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "06-Aug-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "STS1202",
+        "CourseTitle": "Introduction to Quantitative, Logical and Verbal Ability",
+        "CourseType": "F SS",
+        "Credits": "1.0",
+        "Grade": "S",
+        "ExamMonth": "Jun-2021",
+        "ResultDeclaredOn": "06-Aug-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "EEE1001",
+        "CourseTitle": "Basic Electrical and Electronics Engineering",
+        "CourseType": "ETL",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Dec-2021",
+        "ResultDeclaredOn": "29-Jan-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "MAT2002",
+        "CourseTitle": "O Applications of Differential and Difference Equations",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Dec-2021",
+        "ResultDeclaredOn": "29-Jan-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "MEE1001",
+        "CourseTitle": "N Engineering Drawing",
+        "CourseType": "ETL",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Dec-2021",
+        "ResultDeclaredOn": "29-Jan-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "MEE1004",
+        "CourseTitle": "Fluid Mechanics",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Dec-2021",
+        "ResultDeclaredOn": "29-Jan-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "20",
+        "CourseCode": "MEE1007",
+        "CourseTitle": "Manufacturing Processes",
+        "CourseType": "ETL",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2021",
+        "ResultDeclaredOn": "29-Jan-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "21",
+        "CourseCode": "MEE2002",
+        "CourseTitle": "Strength of Materials",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2021",
+        "ResultDeclaredOn": "29-Jan-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "22",
+        "CourseCode": "MGT1022",
+        "CourseTitle": "U Lean Start-up Management",
+        "CourseType": "ETP",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Dec-2021",
+        "ResultDeclaredOn": "29-Jan-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "23",
+        "CourseCode": "STS2201",
+        "CourseTitle": "Numerical Ability and Cognitive Intelligence",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "A",
+        "ExamMonth": "Dec-2021",
+        "ResultDeclaredOn": "29-Jan-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "24",
+        "CourseCode": "MAT3003",
+        "CourseTitle": "Complex Variables and Partial Differential Equations",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "May-2022",
+        "ResultDeclaredOn": "06-Jun-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "25",
+        "CourseCode": "MEE1014",
+        "CourseTitle": "Industrial Engineering and Management",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "May-2022",
+        "ResultDeclaredOn": "06-Jun-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "26",
+        "CourseCode": "MEE1030",
+        "CourseTitle": "Robotics",
+        "CourseType": "ETL",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "May-2022",
+        "ResultDeclaredOn": "06-Jun-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "27",
+        "CourseCode": "MEE2001",
+        "CourseTitle": "Machine Drawing",
+        "CourseType": "ETL",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "May-2022",
+        "ResultDeclaredOn": "06-Jun-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "28",
+        "CourseCode": "MEE2003",
+        "CourseTitle": "Thermal Engineering Systems",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "May-2022",
+        "ResultDeclaredOn": "06-Jun-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "29",
+        "CourseCode": "MEE2004",
+        "CourseTitle": "Mechanics of Machines",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "May-2022",
+        "ResultDeclaredOn": "06-Jun-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "30",
+        "CourseCode": "MEE2006",
+        "CourseTitle": "Machining Processes and Metrology",
+        "CourseType": "ETL",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "May-2022",
+        "ResultDeclaredOn": "06-Jun-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "31",
+        "CourseCode": "STS2202",
+        "CourseTitle": "Advanced Aptitude and Reasoning Skills",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "May-2022",
+        "ResultDeclaredOn": "06-Jun-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "32",
+        "CourseCode": "CSE1002",
+        "CourseTitle": "Problem Solving and Object Oriented Programming",
+        "CourseType": "LO",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2022",
+        "ResultDeclaredOn": "10-Jan-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "33",
+        "CourseCode": "MAT3005",
+        "CourseTitle": "Applied Numerical Methods",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "L Nov-2022",
+        "ResultDeclaredOn": "10-Jan-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "34",
+        "CourseCode": "MEE2005",
+        "CourseTitle": "Heat Transfer",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2022",
+        "ResultDeclaredOn": "10-Jan-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "35",
+        "CourseCode": "MEE2011",
+        "CourseTitle": "Welding Engineering",
+        "CourseType": "ETP",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2022",
+        "ResultDeclaredOn": "10-Jan-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "36",
+        "CourseCode": "MEE2022",
+        "CourseTitle": "Power Plant Engineering",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "A A",
+        "ExamMonth": "Nov-2022",
+        "ResultDeclaredOn": "10-Jan-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "37",
+        "CourseCode": "MEE3001",
+        "CourseTitle": "Design of Machine Elements",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "I A",
+        "ExamMonth": "Nov-2022",
+        "ResultDeclaredOn": "10-Jan-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "38",
+        "CourseCode": "MGT1028",
+        "CourseTitle": "Accounting and Financial Management",
+        "CourseType": "ETP",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2022",
+        "ResultDeclaredOn": "10-Jan-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UE"
+      },
+      {
+        "Slno": "39",
+        "CourseCode": "STS3401",
+        "CourseTitle": "Foundation to Programming Skills",
+        "CourseType": "SS",
+        "Credits": "C 1.0",
+        "Grade": "S",
+        "ExamMonth": "Nov-2022",
+        "ResultDeclaredOn": "10-Jan-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "40",
+        "CourseCode": "EXC1138",
+        "CourseTitle": "Health Through Exercise",
+        "CourseType": "ECA",
+        "Credits": "I 2.0",
+        "Grade": "P",
+        "ExamMonth": "Apr-2023",
+        "ResultDeclaredOn": "22-Jun-2023",
+        "CourseOption": "NCPF",
+        "CourseDistribUtion": "NC"
+      },
+      {
+        "Slno": "41",
+        "CourseCode": "MEE1011",
+        "CourseTitle": "Renewable Energy Sources",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "S",
+        "ExamMonth": "Apr-2023",
+        "ResultDeclaredOn": "24-May-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "42",
+        "CourseCode": "MEE1015",
+        "CourseTitle": "Total Quality Management and Reliability",
+        "CourseType": "TH",
+        "Credits": "F 3.0",
+        "Grade": "A",
+        "ExamMonth": "Apr-2023",
+        "ResultDeclaredOn": "24-May-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "43",
+        "CourseCode": "MEE1901",
+        "CourseTitle": "Technical Answers for Real World Problems (TARP)",
+        "CourseType": "F ETP",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Apr-2023",
+        "ResultDeclaredOn": "24-May-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "44",
+        "CourseCode": "MEE1902",
+        "CourseTitle": "O Industrial Internship",
+        "CourseType": "PJT",
+        "Credits": "1.0",
+        "Grade": "S",
+        "ExamMonth": "Apr-2023",
+        "ResultDeclaredOn": "13-May-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "45",
+        "CourseCode": "MEE2007",
+        "CourseTitle": "CAD/CAM",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "S",
+        "ExamMonth": "Apr-2023",
+        "ResultDeclaredOn": "24-May-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "46",
+        "CourseCode": "MEE2015",
+        "CourseTitle": "Non Destructive Testing",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2023",
+        "ResultDeclaredOn": "24-May-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "47",
+        "CourseCode": "MEE3002",
+        "CourseTitle": "N Finite Element Analysis",
+        "CourseType": "ETL",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Apr-2023",
+        "ResultDeclaredOn": "24-May-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "48",
+        "CourseCode": "MGT1044",
+        "CourseTitle": "Global Brand Marketing Strategies",
+        "CourseType": "ETP",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Apr-2023",
+        "ResultDeclaredOn": "24-May-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UE"
+      },
+      {
+        "Slno": "49",
+        "CourseCode": "STS3205",
+        "CourseTitle": "U Advanced JAVA Programming",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "Apr-2023",
+        "ResultDeclaredOn": "13-May-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "50",
+        "CourseCode": "MEE1903",
+        "CourseTitle": "Comprehensive Examination",
+        "CourseType": "PJT",
+        "Credits": "1.0",
+        "Grade": "A",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "29-Dec-2023",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "51",
+        "CourseCode": "MEE3005",
+        "CourseTitle": "Refrigeration and Airconditioning",
+        "CourseType": "TH",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "52",
+        "CourseCode": "MGT1023",
+        "CourseTitle": "Fundamentals of Human Resource Management",
+        "CourseType": "ETP",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2023",
+        "ResultDeclaredOn": "07-Jan-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UE"
+      },
+      {
+        "Slno": "53",
+        "CourseCode": "MEE1904",
+        "CourseTitle": "Capstone Project",
+        "CourseType": "PJT",
+        "Credits": "12.0",
+        "Grade": "S",
+        "ExamMonth": "May-2024",
+        "ResultDeclaredOn": "28-May-2024",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      }
+    ],
+    "curriculum_details": [
+      {
+        "CurriculumDistributionType": "Programme Core",
+        "CreditsRequired": "60.0",
+        "CreditsEarned": "60.0"
+      }
+    ],
+    "curriculum_details_1": [
+      {
+        "ProgrammeElective": "University Core",
+        "350": "53.0"
+      },
+      {
+        "ProgrammeElective": "University Elective",
+        "350": "12.0"
+      },
+      {
+        "ProgrammeElective": "Bridge Course",
+        "350": "0.0"
+      },
+      {
+        "ProgrammeElective": "Non Credit Course",
+        "350": "5.0"
+      },
+      {
+        "ProgrammeElective": "Total Credits",
+        "350": "165.0"
+      }
+    ],
+    "basket_details": [
+      {
+        "BasketTitle": "Soft Skills",
+        "DistributionType": "A UC",
+        "CreditsRequired": "6.0",
+        "CreditsEarned": "6.0"
+      },
+      {
+        "BasketTitle": "Co-Extra Curricular Basket",
+        "DistributionType": "NC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "2.0"
+      },
+      {
+        "BasketTitle": "Foreign Language Course Basket",
+        "DistributionType": "I UC",
+        "CreditsRequired": "2.0",
+        "CreditsEarned": "2.0"
+      }
+    ],
+    "c_cgpa_details": [
+      {
+        "CreditsRegistered": "160.0",
+        "CreditsEarned": "160.0",
+        "Cgpa": "9.07",
+        "SGrades": "14",
+        "AGrades": "26",
+        "BGrades": "I 10",
+        "CGrades": "1",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

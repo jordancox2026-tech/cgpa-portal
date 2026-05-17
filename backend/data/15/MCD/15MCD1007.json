@@ -1,0 +1,267 @@
+{
+  "student_information": {
+    "register_number": "15MCD1007",
+    "name": "GOVARDHAN REDDY I"
+  },
+  "tables": {
+    "grade_history_combined": [
+      {
+        "Slno": "1",
+        "CourseCode": "ENG601_20",
+        "CourseTitle": "Professional and Communication Skills",
+        "CourseType": "TheoryLab",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "10-Jun-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "MEE515",
+        "CourseTitle": "Product Design and Life Cycle Management",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "10-Jun-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "MEE521_11",
+        "CourseTitle": "Finite Element Methods",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "10-Jun-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "MEE549",
+        "CourseTitle": "Advanced Vibration Engineering",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "10-Jun-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "MEE551_20",
+        "CourseTitle": "Advanced Manufacturing Technology",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "D",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "10-Jun-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "MEE575",
+        "CourseTitle": "Manufacturing of Composite Materials",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "10-Jun-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "MEE602",
+        "CourseTitle": "Fracture Mechanics and Fatigue",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "10-Jun-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "SET502",
+        "CourseTitle": "Science, Engineering and Technology Project - II",
+        "CourseType": "Lab",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "29-Jun-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "STS502",
+        "CourseTitle": "Soft Skills",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "E",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "28-Jun-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "MEE699",
+        "CourseTitle": "Masters Thesis",
+        "CourseType": "Lab",
+        "Credits": "16.0",
+        "Grade": "A",
+        "ExamMonth": "May-2017",
+        "ResultDeclaredOn": "14-Jun-2017",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "MEE505",
+        "CourseTitle": "Vehicle Dynamics",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "D",
+        "ExamMonth": "Jul-2016",
+        "ResultDeclaredOn": "22-Jul-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "MEE543_0200",
+        "CourseTitle": "Computational Fluid Dynamics",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "Jul-2016",
+        "ResultDeclaredOn": "22-Jul-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "MEE574",
+        "CourseTitle": "Additive Manufacturing Technology",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Jul-2016",
+        "ResultDeclaredOn": "22-Jul-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "MAT502_20",
+        "CourseTitle": "Applied Engineering Mathematics",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "23-Dec-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "MEE522_12",
+        "CourseTitle": "Computer Integrated Manufacturing",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "23-Dec-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "MEE523",
+        "CourseTitle": "Advanced Strength of Materials",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "23-Dec-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "MEE550",
+        "CourseTitle": "Design for Manufacturing",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "23-Dec-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "MEE557",
+        "CourseTitle": "Advanced Materials and Processing",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "23-Dec-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "MEE564_20",
+        "CourseTitle": "Computer Graphics and Geometric Modeling",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "23-Dec-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "20",
+        "CourseCode": "SET501",
+        "CourseTitle": "Science, Engineering and Technology Project - I",
+        "CourseType": "Lab",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "02-Feb-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "21",
+        "CourseCode": "STS501",
+        "CourseTitle": "Soft Skills",
+        "CourseType": "SS",
+        "Credits": "1.0",
+        "Grade": "E",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "02-Feb-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "1",
+        "CourseCode": "ENG602",
+        "CourseTitle": "Professional and Communication Skills - II",
+        "CourseType": "Lab",
+        "Credits": "1.0",
+        "Grade": "U",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "23-Dec-2015",
+        "CourseOption": "Audit"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "76.0",
+        "CreditsEarned": "76.0",
+        "Cgpa": "7.24",
+        "SGrades": "0",
+        "AGrades": "3",
+        "BGrades": "4",
+        "CGrades": "4",
+        "DGrades": "7",
+        "EGrades": "3",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

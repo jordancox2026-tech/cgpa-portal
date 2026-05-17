@@ -1,0 +1,58 @@
+{
+  "student_information": {
+    "register_number": "24PHD1283",
+    "name": "TRYPHENA OLIVE SEELAN M"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "PMBA615L",
+        "CourseTitle": "Security Analysis and Portfolio Management",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RSS01607",
+        "CourseTitle": "ALGORITHMIC TRADING IN STOCK MARKET",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "19-Dec-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "RSS01608",
+        "CourseTitle": "HERDING BEHAVIOUR IN STOCK MARKETS",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "19-Dec-2025",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "9.0",
+        "CreditsEarned": "9.0",
+        "Cgpa": "8.00",
+        "SGrades": "0",
+        "AGrades": "2",
+        "BGrades": "0",
+        "CGrades": "0",
+        "DGrades": "1",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

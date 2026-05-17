@@ -1,0 +1,69 @@
+{
+  "student_information": {
+    "register_number": "22PHD1276",
+    "name": "C NIRMALA"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "RSS00717",
+        "CourseTitle": "FLUID DYNAMICS",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Jan-2024",
+        "ResultDeclaredOn": "31-Jan-2024",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "MATR705",
+        "CourseTitle": "Topics in Applicable Mathematics",
+        "CourseType": "RMC",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "Jul-2023",
+        "ResultDeclaredOn": "31-Jul-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "RES7001",
+        "CourseTitle": "Research Methodology",
+        "CourseType": "RM",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Jul-2023",
+        "ResultDeclaredOn": "31-Jul-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "RMC0001",
+        "CourseTitle": "Research and Publication Ethics",
+        "CourseType": "RMC",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Jul-2023",
+        "ResultDeclaredOn": "31-Jul-2023",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "12.0",
+        "CreditsEarned": "12.0",
+        "Cgpa": "8.08",
+        "SGrades": "1",
+        "AGrades": "1",
+        "BGrades": "1",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "1",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

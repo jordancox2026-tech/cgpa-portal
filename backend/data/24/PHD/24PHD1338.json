@@ -1,0 +1,58 @@
+{
+  "student_information": {
+    "register_number": "24PHD1338",
+    "name": "SHABANA BANU M"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "PMBA657E",
+        "CourseTitle": "Marketing Analytics",
+        "CourseType": "TheoryLab",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RSS01669",
+        "CourseTitle": "SUSTAINABLE CONSUMPTION BEHAVIOUR AND BUSINESS STRATEGY",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "19-Dec-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "RSS01670",
+        "CourseTitle": "TECHNOLOGY - DRIVEN SUSTAINABLE MARKETING AND DIGITAL MEDIA",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "19-Dec-2025",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "9.0",
+        "CreditsEarned": "9.0",
+        "Cgpa": "8.00",
+        "SGrades": "1",
+        "AGrades": "1",
+        "BGrades": "0",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "1",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

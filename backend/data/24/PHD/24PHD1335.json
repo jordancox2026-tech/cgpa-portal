@@ -1,0 +1,47 @@
+{
+  "student_information": {
+    "register_number": "24PHD1335",
+    "name": "SWARLATA PANDEY"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "RSS01745",
+        "CourseTitle": "HEALTH LAW AND THE SUSTAINABLE DEVELOPMENT GOALS IN INDIA",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "19-Dec-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RSS01746",
+        "CourseTitle": "MATERNAL HEALTH, THE LAW AND POLICY IN INDIA",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "19-Dec-2025",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "6.0",
+        "CreditsEarned": "6.0",
+        "Cgpa": "8.00",
+        "SGrades": "0",
+        "AGrades": "0",
+        "BGrades": "2",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

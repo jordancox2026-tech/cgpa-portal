@@ -1,0 +1,245 @@
+{
+  "student_information": {
+    "register_number": "12MCD1011",
+    "name": "SANDEEP O S"
+  },
+  "tables": {
+    "grade_history_combined": [
+      {
+        "Slno": "1",
+        "CourseCode": "MAT502",
+        "CourseTitle": "Applied Engineering Mathematics",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "May-2013",
+        "ResultDeclaredOn": "10-Jul-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "MAT502",
+        "CourseTitle": "Applied Engineering Mathematics",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "F",
+        "ExamMonth": "Nov-2012",
+        "ResultDeclaredOn": "29-Jan-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "MEE521",
+        "CourseTitle": "Finite Element Methods",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "May-2013",
+        "ResultDeclaredOn": "10-Jul-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "MEE522",
+        "CourseTitle": "Computer Integrated Manufacturing",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "May-2013",
+        "ResultDeclaredOn": "10-Jul-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "MEE536",
+        "CourseTitle": "Micro Electro-mechanical Systems",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "May-2013",
+        "ResultDeclaredOn": "10-Jul-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "MEE549",
+        "CourseTitle": "Advanced Vibration Engineering",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2013",
+        "ResultDeclaredOn": "10-Jul-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "MEE602",
+        "CourseTitle": "Fracture Mechanics and Fatigue",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2013",
+        "ResultDeclaredOn": "10-Jul-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "MEE620",
+        "CourseTitle": "Mechanics of Composite Materials",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "May-2013",
+        "ResultDeclaredOn": "10-Jul-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "MEE699",
+        "CourseTitle": "Master Thesis",
+        "CourseType": "Lab",
+        "Credits": "20.0",
+        "Grade": "A",
+        "ExamMonth": "May-2014",
+        "ResultDeclaredOn": "19-Jun-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "ENG601",
+        "CourseTitle": "Professional and Communication Skills",
+        "CourseType": "TheoryLab",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2012",
+        "ResultDeclaredOn": "29-Jan-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "MEE523",
+        "CourseTitle": "Advanced Strength of Materials",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2012",
+        "ResultDeclaredOn": "29-Jan-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "MEE550",
+        "CourseTitle": "Design for Manufacturing",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2012",
+        "ResultDeclaredOn": "29-Jan-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "MEE557",
+        "CourseTitle": "Advanced Materials and Processing",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2012",
+        "ResultDeclaredOn": "29-Jan-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "MEE564",
+        "CourseTitle": "Computer Graphics and Geometric Modeling",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2012",
+        "ResultDeclaredOn": "29-Jan-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "MEE575",
+        "CourseTitle": "Manufacturing of Composite Materials",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2012",
+        "ResultDeclaredOn": "29-Jan-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "MEE543",
+        "CourseTitle": "Computational Fluid Dynamics",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2013",
+        "ResultDeclaredOn": "08-Jan-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "MEE551",
+        "CourseTitle": "Advanced Manufacturing Technology",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2013",
+        "ResultDeclaredOn": "08-Jan-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "MEE574",
+        "CourseTitle": "Additive Manufacturing Technology",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2013",
+        "ResultDeclaredOn": "08-Jan-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "1",
+        "CourseCode": "ENG602",
+        "CourseTitle": "Professional and Communication Skills",
+        "CourseType": "Lab",
+        "Credits": "1.0",
+        "Grade": "U",
+        "ExamMonth": "May-2013",
+        "ResultDeclaredOn": "10-Jul-2013",
+        "CourseOption": "Audit"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "ENG603",
+        "CourseTitle": "Professional and Communication Skills -",
+        "CourseType": "Lab",
+        "Credits": "1.0",
+        "Grade": "U",
+        "ExamMonth": "Nov-2013",
+        "ResultDeclaredOn": "08-Jan-2014",
+        "CourseOption": "Audit"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "73.0",
+        "CreditsEarned": "73.0",
+        "Cgpa": "7.77",
+        "SGrades": "0",
+        "AGrades": "2",
+        "BGrades": "7",
+        "CGrades": "4",
+        "DGrades": "4",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

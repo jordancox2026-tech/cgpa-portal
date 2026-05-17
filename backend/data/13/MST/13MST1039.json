@@ -1,0 +1,230 @@
+{
+  "student_information": {
+    "register_number": "13MST1039",
+    "name": "POLAPALA SAI PRADEEP"
+  },
+  "tables": {
+    "grade_history_combined": [
+      {
+        "Slno": "1",
+        "CourseCode": "CLE507",
+        "CourseTitle": "Theory of Elasticity and Plasticity",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2014",
+        "ResultDeclaredOn": "19-Jun-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "CLE508",
+        "CourseTitle": "Structural Dynamics",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "May-2014",
+        "ResultDeclaredOn": "19-Jun-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "CLE509",
+        "CourseTitle": "Finite Element Analysis",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "May-2014",
+        "ResultDeclaredOn": "19-Jun-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "CLE517",
+        "CourseTitle": "Pre-stressed Concrete Structures",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "May-2014",
+        "ResultDeclaredOn": "19-Jun-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "CLE518",
+        "CourseTitle": "Limit State Design of Steel Structures",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "F",
+        "ExamMonth": "May-2014",
+        "ResultDeclaredOn": "19-Jun-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "CLE518",
+        "CourseTitle": "Limit State Design of Steel Structures",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2014",
+        "ResultDeclaredOn": "22-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "CLE526",
+        "CourseTitle": "Energy Efficient Buildings",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2014",
+        "ResultDeclaredOn": "19-Jun-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "CLE699",
+        "CourseTitle": "Masters Thesis",
+        "CourseType": "Lab",
+        "Credits": "20.0",
+        "Grade": "A",
+        "ExamMonth": "May-2015",
+        "ResultDeclaredOn": "20-May-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "CLE504",
+        "CourseTitle": "Computational Mathematics",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2013",
+        "ResultDeclaredOn": "08-Jan-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "CLE505",
+        "CourseTitle": "Design of Concrete Structural Systems",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2013",
+        "ResultDeclaredOn": "08-Jan-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "CLE506",
+        "CourseTitle": "Matrix Methods of Structural Analysis",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2013",
+        "ResultDeclaredOn": "08-Jan-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "CLE513",
+        "CourseTitle": "Advanced Concrete Technology",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2013",
+        "ResultDeclaredOn": "08-Jan-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "ENG601",
+        "CourseTitle": "Professional and Communication Skills",
+        "CourseType": "TheoryLab",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2013",
+        "ResultDeclaredOn": "08-Jan-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "CLE511",
+        "CourseTitle": "Prefabricated Structures",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2014",
+        "ResultDeclaredOn": "15-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "CLE514",
+        "CourseTitle": "Design of Concrete Bridges",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2014",
+        "ResultDeclaredOn": "15-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "CLE516",
+        "CourseTitle": "Earthquake Resistant Design",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2014",
+        "ResultDeclaredOn": "15-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "CLE527",
+        "CourseTitle": "Maintenance and Rehabilitation of Structures",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2014",
+        "ResultDeclaredOn": "15-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "CLE537",
+        "CourseTitle": "Experimental Stress Analysis",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2014",
+        "ResultDeclaredOn": "15-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "1",
+        "CourseCode": "ENG602",
+        "CourseTitle": "Professional and Communication Skills - II",
+        "CourseType": "Lab",
+        "Credits": "1.0",
+        "Grade": "U",
+        "ExamMonth": "May-2014",
+        "ResultDeclaredOn": "19-Jun-2014",
+        "CourseOption": "Audit"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "ENG603",
+        "CourseTitle": "Professional and Communication Skills -",
+        "CourseType": "Lab",
+        "Credits": "1.0",
+        "Grade": "U",
+        "ExamMonth": "Nov-2014",
+        "ResultDeclaredOn": "15-Dec-2014",
+        "CourseOption": "Audit"
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "student_information": {
+    "register_number": "12MPE1025",
+    "name": "RAJ KIRAN B"
+  },
+  "tables": {
+    "grade_history_combined": [
+      {
+        "Slno": "1",
+        "CourseCode": "EEE573",
+        "CourseTitle": "Microcontroller Applications in Power Electronics",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "May-2013",
+        "ResultDeclaredOn": "10-Jul-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "EEE576",
+        "CourseTitle": "Digital Control",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "May-2013",
+        "ResultDeclaredOn": "10-Jul-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "EEE583",
+        "CourseTitle": "Modeling, Simulation and Control of Power Electronic Systems",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2013",
+        "ResultDeclaredOn": "10-Jul-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "EEE584",
+        "CourseTitle": "Power Electronics Applications in Renewable Energy Systems",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "May-2013",
+        "ResultDeclaredOn": "10-Jul-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "EEE628",
+        "CourseTitle": "Solid State DC Drives",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "May-2013",
+        "ResultDeclaredOn": "10-Jul-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "EEE629",
+        "CourseTitle": "Solid State AC Drives",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "May-2013",
+        "ResultDeclaredOn": "10-Jul-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "EEE632",
+        "CourseTitle": "Microcontroller Applications in Power Electronics Lab",
+        "CourseType": "Lab",
+        "Credits": "1.0",
+        "Grade": "A",
+        "ExamMonth": "May-2013",
+        "ResultDeclaredOn": "10-Jul-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "EEE699",
+        "CourseTitle": "Master Thesis",
+        "CourseType": "Lab",
+        "Credits": "20.0",
+        "Grade": "S",
+        "ExamMonth": "May-2014",
+        "ResultDeclaredOn": "19-Jun-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "EEE571",
+        "CourseTitle": "Generalized Machine Theory",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2012",
+        "ResultDeclaredOn": "29-Jan-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "EEE574",
+        "CourseTitle": "Power Electronics Applications in Power Systems",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2012",
+        "ResultDeclaredOn": "29-Jan-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "EEE625",
+        "CourseTitle": "Advanced Semiconductor Devices",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2012",
+        "ResultDeclaredOn": "29-Jan-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "EEE626",
+        "CourseTitle": "Analysis of Converter",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2012",
+        "ResultDeclaredOn": "29-Jan-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "EEE627",
+        "CourseTitle": "Analysis of Inverters",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2012",
+        "ResultDeclaredOn": "29-Jan-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "EEE630",
+        "CourseTitle": "Power Electronics Hardware Lab",
+        "CourseType": "Lab",
+        "Credits": "1.0",
+        "Grade": "S",
+        "ExamMonth": "Nov-2012",
+        "ResultDeclaredOn": "29-Jan-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "EEE631",
+        "CourseTitle": "Power Electronics Simulation lab",
+        "CourseType": "Lab",
+        "Credits": "1.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2012",
+        "ResultDeclaredOn": "29-Jan-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "ENG601",
+        "CourseTitle": "Professional and Communication Skills",
+        "CourseType": "TheoryLab",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2012",
+        "ResultDeclaredOn": "29-Jan-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "MAT506",
+        "CourseTitle": "Advanced Mathematics",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2012",
+        "ResultDeclaredOn": "29-Jan-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "EEE577",
+        "CourseTitle": "Intelligent Control",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2013",
+        "ResultDeclaredOn": "08-Jan-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "EEE578",
+        "CourseTitle": "Special Machines and Control",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "S",
+        "ExamMonth": "Nov-2013",
+        "ResultDeclaredOn": "08-Jan-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "20",
+        "CourseCode": "EEE650",
+        "CourseTitle": "DSP Based Control of Electrical Machines and Drives",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2013",
+        "ResultDeclaredOn": "08-Jan-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "21",
+        "CourseCode": "EEE651",
+        "CourseTitle": "DSP Based Control of Electrical Machines and Drives Laboratory",
+        "CourseType": "Lab",
+        "Credits": "1.0",
+        "Grade": "S",
+        "ExamMonth": "Nov-2013",
+        "ResultDeclaredOn": "08-Jan-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "22",
+        "CourseCode": "EEE698",
+        "CourseTitle": "Seminar",
+        "CourseType": "Lab",
+        "Credits": "1.0",
+        "Grade": "S",
+        "ExamMonth": "Nov-2013",
+        "ResultDeclaredOn": "08-Jan-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "1",
+        "CourseCode": "ENG602",
+        "CourseTitle": "Professional and Communication Skills",
+        "CourseType": "Lab",
+        "Credits": "1.0",
+        "Grade": "U",
+        "ExamMonth": "May-2013",
+        "ResultDeclaredOn": "10-Jul-2013",
+        "CourseOption": "Audit"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "ENG603",
+        "CourseTitle": "Professional and Communication Skills -",
+        "CourseType": "Lab",
+        "Credits": "1.0",
+        "Grade": "U",
+        "ExamMonth": "Nov-2013",
+        "ResultDeclaredOn": "08-Jan-2014",
+        "CourseOption": "Audit"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "74.0",
+        "CreditsEarned": "74.0",
+        "Cgpa": "9.26",
+        "SGrades": "6",
+        "AGrades": "12",
+        "BGrades": "4",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

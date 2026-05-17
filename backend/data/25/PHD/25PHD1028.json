@@ -1,0 +1,69 @@
+{
+  "student_information": {
+    "register_number": "25PHD1028",
+    "name": "ABINAYA J K"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "PENG504N",
+        "CourseTitle": "English For Researchers",
+        "CourseType": "TheoryLab",
+        "Credits": "3.0",
+        "Grade": "P",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "PRES705L",
+        "CourseTitle": "Research Methodology For English",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "PRMC001L",
+        "CourseTitle": "Research And Publication Ethics",
+        "CourseType": "Theory",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "STC025",
+        "CourseTitle": "Literary Theory, Linguistics and Language Teaching",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "12.0",
+        "CreditsEarned": "9.0",
+        "Cgpa": "6.50",
+        "SGrades": "0",
+        "AGrades": "2",
+        "BGrades": "1",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

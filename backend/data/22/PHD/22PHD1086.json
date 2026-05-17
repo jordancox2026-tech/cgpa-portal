@@ -1,0 +1,113 @@
+{
+  "student_information": {
+    "register_number": "22PHD1086",
+    "name": "ISHFAQ AHMAD BHAT"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "MATR706",
+        "CourseTitle": "Topics in Advanced Mathematics",
+        "CourseType": "RMC",
+        "Credits": "3.0",
+        "Grade": "F",
+        "ExamMonth": "Feb-2023",
+        "ResultDeclaredOn": "28-Feb-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "MATR706",
+        "CourseTitle": "Topics in Advanced Mathematics",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Apr-2025",
+        "ResultDeclaredOn": "02-Jun-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "RES7001",
+        "CourseTitle": "Research Methodology- SAS",
+        "CourseType": "RM",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Feb-2023",
+        "ResultDeclaredOn": "28-Feb-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "RSS00422",
+        "CourseTitle": "ADVANCED FUNCTIONAL ANALYSIS",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "May-2025",
+        "ResultDeclaredOn": "24-Jun-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "RSS00422",
+        "CourseTitle": "ADVANCED FUNCTIONAL ANALYSIS",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "Jul-2023",
+        "ResultDeclaredOn": "31-Jul-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "RSS00495",
+        "CourseTitle": "INTRODUCTION TO VARIATIONAL INEQUALITIES",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "F",
+        "ExamMonth": "May-2025",
+        "ResultDeclaredOn": "24-Jun-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "RSS00495",
+        "CourseTitle": "INTRODUCTION TO VARIATIONAL INEQUALITIES",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "Jul-2023",
+        "ResultDeclaredOn": "31-Jul-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "RMC0001",
+        "CourseTitle": "Research and Publication Ethics-SAS",
+        "CourseType": "RMC",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "Jul-2023",
+        "ResultDeclaredOn": "31-Jul-2023",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "15.0",
+        "CreditsEarned": "15.0",
+        "Cgpa": "6.00",
+        "SGrades": "0",
+        "AGrades": "0",
+        "BGrades": "0",
+        "CGrades": "2",
+        "DGrades": "1",
+        "EGrades": "2",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

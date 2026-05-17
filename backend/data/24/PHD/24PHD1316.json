@@ -1,0 +1,47 @@
+{
+  "student_information": {
+    "register_number": "24PHD1316",
+    "name": "HEMAMALINI D"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "RSS01597",
+        "CourseTitle": "CRIMINAL LAW AND POST CONVICTION JUSTICE : PRINCIPLES, PRACTICE AND REFORMS",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "19-Dec-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RSS01598",
+        "CourseTitle": "FORENSIC SCIENCE AND DNA TECHNOLOGY IN CRIMINAL JUSTICE",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "19-Dec-2025",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "6.0",
+        "CreditsEarned": "6.0",
+        "Cgpa": "9.00",
+        "SGrades": "0",
+        "AGrades": "2",
+        "BGrades": "0",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

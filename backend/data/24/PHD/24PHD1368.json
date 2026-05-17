@@ -1,0 +1,36 @@
+{
+  "student_information": {
+    "register_number": "24PHD1368",
+    "name": "RAMPRASATH C"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "RSS01738",
+        "CourseTitle": "AGRICULTURAL MARKETING, TRADE AND PRICES",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "19-Dec-2025",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "3.0",
+        "CreditsEarned": "3.0",
+        "Cgpa": "6.00",
+        "SGrades": "0",
+        "AGrades": "0",
+        "BGrades": "0",
+        "CGrades": "0",
+        "DGrades": "1",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

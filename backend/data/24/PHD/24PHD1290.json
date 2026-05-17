@@ -1,0 +1,47 @@
+{
+  "student_information": {
+    "register_number": "24PHD1290",
+    "name": "AISWARYA V A"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "RSS01562",
+        "CourseTitle": "INDIAN ENGLISH LITERATURE : HISTORY, FICTION AND CHILDREN'S LITERATURE",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "19-Dec-2025",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RSS01563",
+        "CourseTitle": "CULTURE, SPACE AND LITERATURE : A THEORETICAL EXPLORATION",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "19-Dec-2025",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "6.0",
+        "CreditsEarned": "6.0",
+        "Cgpa": "9.00",
+        "SGrades": "0",
+        "AGrades": "2",
+        "BGrades": "0",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

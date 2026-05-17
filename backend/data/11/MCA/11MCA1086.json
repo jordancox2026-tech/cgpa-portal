@@ -1,0 +1,553 @@
+{
+  "student_information": {
+    "register_number": "11MCA1086",
+    "name": "JASMINE JAIN"
+  },
+  "tables": {
+    "grade_history_combined": [
+      {
+        "Slno": "1",
+        "CourseCode": "ITA401",
+        "CourseTitle": "Introduction to Computer organization",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "May-2012",
+        "ResultDeclaredOn": "17-Aug-2012",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "ITA401",
+        "CourseTitle": "Introduction to Computer organization",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "F",
+        "ExamMonth": "Nov-2011",
+        "ResultDeclaredOn": "10-Jan-2012",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "ITA405",
+        "CourseTitle": "Microprocessors",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "F",
+        "ExamMonth": "May-2012",
+        "ResultDeclaredOn": "17-Aug-2012",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "ITA405",
+        "CourseTitle": "Microprocessors",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Dec-2012",
+        "ResultDeclaredOn": "11-Feb-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "ITA407",
+        "CourseTitle": "Computer Architecture",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "F",
+        "ExamMonth": "May-2012",
+        "ResultDeclaredOn": "17-Aug-2012",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "ITA407",
+        "CourseTitle": "Computer Architecture",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "Nov-2012",
+        "ResultDeclaredOn": "29-Jan-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "ITA408",
+        "CourseTitle": "Database Management Systems",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "May-2012",
+        "ResultDeclaredOn": "17-Aug-2012",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "ITA409",
+        "CourseTitle": "Programming in Java",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2012",
+        "ResultDeclaredOn": "17-Aug-2012",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "ITA414",
+        "CourseTitle": "Theory of Computation",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "F",
+        "ExamMonth": "May-2012",
+        "ResultDeclaredOn": "17-Aug-2012",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "ITA414",
+        "CourseTitle": "Theory of Computation",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "E",
+        "ExamMonth": "Nov-2012",
+        "ResultDeclaredOn": "29-Jan-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "ITA417",
+        "CourseTitle": "Database Management Systems Laboratory",
+        "CourseType": "Lab",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "May-2012",
+        "ResultDeclaredOn": "17-Aug-2012",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "ITA418",
+        "CourseTitle": "Programming in Java Laboratory",
+        "CourseType": "Lab",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "May-2012",
+        "ResultDeclaredOn": "17-Aug-2012",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "MAT509",
+        "CourseTitle": "Probability, Statistics and Operations Research",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "F",
+        "ExamMonth": "May-2012",
+        "ResultDeclaredOn": "17-Aug-2012",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "MAT509",
+        "CourseTitle": "Probability, Statistics and Operations Research",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Jul-2013",
+        "ResultDeclaredOn": "30-Jul-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "MAT509",
+        "CourseTitle": "Probability, Statistics and Operations Research",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "F",
+        "ExamMonth": "Nov-2012",
+        "ResultDeclaredOn": "29-Jan-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "ITA411",
+        "CourseTitle": "Software Engineering",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "May-2013",
+        "ResultDeclaredOn": "10-Jul-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "ITA411",
+        "CourseTitle": "Software Engineering",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "F",
+        "ExamMonth": "Nov-2012",
+        "ResultDeclaredOn": "29-Jan-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "ITA412",
+        "CourseTitle": "Computer Networks",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "May-2013",
+        "ResultDeclaredOn": "10-Jul-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "ITA413",
+        "CourseTitle": "Computer Graphics and Multimedia Systems",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "May-2013",
+        "ResultDeclaredOn": "10-Jul-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "20",
+        "CourseCode": "ITA413",
+        "CourseTitle": "Computer Graphics and Multimedia Systems",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "F",
+        "ExamMonth": "Nov-2012",
+        "ResultDeclaredOn": "29-Jan-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "21",
+        "CourseCode": "ITA501",
+        "CourseTitle": "Advanced Database Management Systems",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2013",
+        "ResultDeclaredOn": "10-Jul-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "22",
+        "CourseCode": "ITA502",
+        "CourseTitle": "Unified Modeling Language",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "May-2013",
+        "ResultDeclaredOn": "10-Jul-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "23",
+        "CourseCode": "ITA505",
+        "CourseTitle": "Digital Image processing",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "May-2013",
+        "ResultDeclaredOn": "10-Jul-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "24",
+        "CourseCode": "ITA505",
+        "CourseTitle": "Digital Image processing",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "F",
+        "ExamMonth": "Nov-2012",
+        "ResultDeclaredOn": "29-Jan-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "25",
+        "CourseCode": "ITA507",
+        "CourseTitle": "Data warehousing and Data Mining",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "May-2013",
+        "ResultDeclaredOn": "10-Jul-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "26",
+        "CourseCode": "ITA509",
+        "CourseTitle": "Open Source Programming",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "May-2013",
+        "ResultDeclaredOn": "10-Jul-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "27",
+        "CourseCode": "ITA512",
+        "CourseTitle": "Software Project Management",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "May-2013",
+        "ResultDeclaredOn": "10-Jul-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "28",
+        "CourseCode": "ITA520",
+        "CourseTitle": "Software Testing",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "May-2013",
+        "ResultDeclaredOn": "10-Jul-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "29",
+        "CourseCode": "MGT307",
+        "CourseTitle": "Principles of Marketing",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "May-2013",
+        "ResultDeclaredOn": "10-Jul-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "30",
+        "CourseCode": "ITA699",
+        "CourseTitle": "Master Thesis",
+        "CourseType": "Lab",
+        "Credits": "20.0",
+        "Grade": "A",
+        "ExamMonth": "May-2014",
+        "ResultDeclaredOn": "19-Jun-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "31",
+        "CourseCode": "ITA503",
+        "CourseTitle": "Mobile Computing",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "Jun-2014",
+        "ResultDeclaredOn": "30-Jun-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "32",
+        "CourseCode": "ITA503",
+        "CourseTitle": "Mobile Computing",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "F",
+        "ExamMonth": "Nov-2013",
+        "ResultDeclaredOn": "08-Jan-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "33",
+        "CourseCode": "ITA506",
+        "CourseTitle": "Compiler Construction",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Jul-2013",
+        "ResultDeclaredOn": "30-Jul-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "34",
+        "CourseCode": "ITA506",
+        "CourseTitle": "Compiler Construction",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "F",
+        "ExamMonth": "Nov-2012",
+        "ResultDeclaredOn": "29-Jan-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "35",
+        "CourseCode": "ENG601",
+        "CourseTitle": "Professional and Communication Skills",
+        "CourseType": "TheoryLab",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2011",
+        "ResultDeclaredOn": "10-Jan-2012",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "36",
+        "CourseCode": "ITA403",
+        "CourseTitle": "Accounting and Financial Management",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2011",
+        "ResultDeclaredOn": "10-Jan-2012",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "37",
+        "CourseCode": "ITA404",
+        "CourseTitle": "Data Structures",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "Nov-2011",
+        "ResultDeclaredOn": "10-Jan-2012",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "38",
+        "CourseCode": "ITA406",
+        "CourseTitle": "Object Oriented Programming in C++",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2011",
+        "ResultDeclaredOn": "10-Jan-2012",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "39",
+        "CourseCode": "ITA416",
+        "CourseTitle": "Data Structure Using C++ Laboratory",
+        "CourseType": "Lab",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Nov-2011",
+        "ResultDeclaredOn": "10-Jan-2012",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "40",
+        "CourseCode": "ITA419",
+        "CourseTitle": "Programming in C and Algorithm Design",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2011",
+        "ResultDeclaredOn": "10-Jan-2012",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "41",
+        "CourseCode": "MAT510",
+        "CourseTitle": "Discrete Mathematics and Linear Algebra",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "E",
+        "ExamMonth": "Nov-2011",
+        "ResultDeclaredOn": "10-Jan-2012",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "42",
+        "CourseCode": "ITA410",
+        "CourseTitle": "Operating Systems",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "Nov-2012",
+        "ResultDeclaredOn": "29-Jan-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "43",
+        "CourseCode": "ITA504",
+        "CourseTitle": "Programming in C# with Visual Studio .Net",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2012",
+        "ResultDeclaredOn": "29-Jan-2013",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "44",
+        "CourseCode": "ITA511",
+        "CourseTitle": "Enterprise Computing",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2013",
+        "ResultDeclaredOn": "08-Jan-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "45",
+        "CourseCode": "ITA515",
+        "CourseTitle": "Distributed Computing",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2013",
+        "ResultDeclaredOn": "08-Jan-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "46",
+        "CourseCode": "ITA519",
+        "CourseTitle": "Grid Computing",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2013",
+        "ResultDeclaredOn": "08-Jan-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "47",
+        "CourseCode": "ITA522",
+        "CourseTitle": "Service Oriented Architecture",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2013",
+        "ResultDeclaredOn": "08-Jan-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "48",
+        "CourseCode": "ITA524",
+        "CourseTitle": "Advanced Java Programming",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2013",
+        "ResultDeclaredOn": "08-Jan-2014",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "133.0",
+        "CreditsEarned": "133.0",
+        "Cgpa": "7.10",
+        "SGrades": "0",
+        "AGrades": "2",
+        "BGrades": "12",
+        "CGrades": "10",
+        "DGrades": "4",
+        "EGrades": "9",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "student_information": {
+    "register_number": "22PHD1098",
+    "name": "BOTCHA GAYATRI"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "RES701",
+        "CourseTitle": "Research Methodology- SELECT",
+        "CourseType": "RM",
+        "Credits": "3.0",
+        "Grade": "F",
+        "ExamMonth": "Feb-2023",
+        "ResultDeclaredOn": "28-Feb-2023",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "RMC0001",
+        "CourseTitle": "Research and Publication Ethics-SELECT",
+        "CourseType": "RMC",
+        "Credits": "3.0",
+        "Grade": "F",
+        "ExamMonth": "Feb-2023",
+        "ResultDeclaredOn": "28-Feb-2023",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "6.0",
+        "CreditsEarned": "0.0",
+        "Cgpa": "0.00",
+        "SGrades": "0",
+        "AGrades": "0",
+        "BGrades": "0",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "2",
+        "NGrades": "0"
+      }
+    ]
+  }
+}

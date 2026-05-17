@@ -1,0 +1,355 @@
+{
+  "student_information": {
+    "register_number": "14MPE1004",
+    "name": "ADITHYA KUMAR S"
+  },
+  "tables": {
+    "grade_history_combined": [
+      {
+        "Slno": "1",
+        "CourseCode": "EEE584",
+        "CourseTitle": "Power Electronics Applications in Renewable Energy Systems",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "May-2015",
+        "ResultDeclaredOn": "16-Jun-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "EEE670",
+        "CourseTitle": "Switch Mode Power Conversion",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "May-2015",
+        "ResultDeclaredOn": "16-Jun-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "EEE671",
+        "CourseTitle": "Industrial Electric Drives",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "B",
+        "ExamMonth": "May-2015",
+        "ResultDeclaredOn": "16-Jun-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "EEE675",
+        "CourseTitle": "Power Quality Analysis and Mitigation Techniques",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "F",
+        "ExamMonth": "May-2015",
+        "ResultDeclaredOn": "16-Jun-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "EEE675",
+        "CourseTitle": "Power Quality Analysis and Mitigation Techniques",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "Dec-2015",
+        "ResultDeclaredOn": "20-Jan-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "EEE681",
+        "CourseTitle": "Control System Design",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "F",
+        "ExamMonth": "May-2015",
+        "ResultDeclaredOn": "18-Aug-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "EEE681",
+        "CourseTitle": "Control System Design",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "Dec-2015",
+        "ResultDeclaredOn": "20-Jan-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "ENG601",
+        "CourseTitle": "Professional and Communication Skills",
+        "CourseType": "TheoryLab",
+        "Credits": "2.0",
+        "Grade": "C",
+        "ExamMonth": "May-2015",
+        "ResultDeclaredOn": "16-Jun-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "ENG601",
+        "CourseTitle": "Professional and Communication Skills",
+        "CourseType": "TheoryLab",
+        "Credits": "2.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2014",
+        "ResultDeclaredOn": "16-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "SET502",
+        "CourseTitle": "Science, Engineering and Technology Project - II",
+        "CourseType": "Lab",
+        "Credits": "2.0",
+        "Grade": "N",
+        "ExamMonth": "May-2015",
+        "ResultDeclaredOn": "16-Jun-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "11",
+        "CourseCode": "EEE699_0101",
+        "CourseTitle": "Masters Thesis",
+        "CourseType": "Lab",
+        "Credits": "18.0",
+        "Grade": "B",
+        "ExamMonth": "May-2016",
+        "ResultDeclaredOn": "04-May-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "12",
+        "CourseCode": "EEE625",
+        "CourseTitle": "Advanced Semiconductor Devices",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "F",
+        "ExamMonth": "Jun-2015",
+        "ResultDeclaredOn": "23-Jun-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "13",
+        "CourseCode": "EEE625",
+        "CourseTitle": "Advanced Semiconductor Devices",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "Jun-2016",
+        "ResultDeclaredOn": "20-Jun-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "14",
+        "CourseCode": "EEE625",
+        "CourseTitle": "Advanced Semiconductor Devices",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "F",
+        "ExamMonth": "Nov-2014",
+        "ResultDeclaredOn": "15-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "15",
+        "CourseCode": "EEE625",
+        "CourseTitle": "Advanced Semiconductor Devices",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "F",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "23-Dec-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "16",
+        "CourseCode": "EEE669",
+        "CourseTitle": "Design and Control of Power Converters",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "C",
+        "ExamMonth": "Jun-2015",
+        "ResultDeclaredOn": "23-Jun-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "17",
+        "CourseCode": "EEE669",
+        "CourseTitle": "Design and Control of Power Converters",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "F",
+        "ExamMonth": "Nov-2014",
+        "ResultDeclaredOn": "15-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "18",
+        "CourseCode": "MAT506",
+        "CourseTitle": "Advanced Mathematics",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "F",
+        "ExamMonth": "Jun-2015",
+        "ResultDeclaredOn": "23-Jun-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "19",
+        "CourseCode": "MAT506",
+        "CourseTitle": "Advanced Mathematics",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "E",
+        "ExamMonth": "Jun-2016",
+        "ResultDeclaredOn": "20-Jun-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "20",
+        "CourseCode": "MAT506",
+        "CourseTitle": "Advanced Mathematics",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "F",
+        "ExamMonth": "Nov-2014",
+        "ResultDeclaredOn": "15-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "21",
+        "CourseCode": "MAT506",
+        "CourseTitle": "Advanced Mathematics",
+        "CourseType": "Theory",
+        "Credits": "4.0",
+        "Grade": "F",
+        "ExamMonth": "Nov-2015",
+        "ResultDeclaredOn": "23-Dec-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "22",
+        "CourseCode": "EEE577",
+        "CourseTitle": "Intelligent Control",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "Jul-2015",
+        "ResultDeclaredOn": "17-Jul-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "23",
+        "CourseCode": "EEE635",
+        "CourseTitle": "High Voltage Direct Current Transmission",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "Jul-2015",
+        "ResultDeclaredOn": "17-Jul-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "24",
+        "CourseCode": "EEE672",
+        "CourseTitle": "Advanced Processors for Power Electronics and Drives",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "E",
+        "ExamMonth": "Jul-2015",
+        "ResultDeclaredOn": "17-Jul-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "25",
+        "CourseCode": "EEE680",
+        "CourseTitle": "Electric and Hybrid Electric Vehicles",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "E",
+        "ExamMonth": "Jul-2015",
+        "ResultDeclaredOn": "17-Jul-2015",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "26",
+        "CourseCode": "EEE674",
+        "CourseTitle": "Microgrid Technologies",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Jul-2016",
+        "ResultDeclaredOn": "22-Jul-2016",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "27",
+        "CourseCode": "EEE571",
+        "CourseTitle": "Generalized Machine Theory",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2014",
+        "ResultDeclaredOn": "15-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "28",
+        "CourseCode": "EEE668",
+        "CourseTitle": "Modern Control Theory",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Nov-2014",
+        "ResultDeclaredOn": "15-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "29",
+        "CourseCode": "EEE673",
+        "CourseTitle": "Analog Circuit Design",
+        "CourseType": "TheoryLab",
+        "Credits": "4.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2014",
+        "ResultDeclaredOn": "15-Dec-2014",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "30",
+        "CourseCode": "SET501",
+        "CourseTitle": "Science, Engineering and Technology Project - I",
+        "CourseType": "Lab",
+        "Credits": "2.0",
+        "Grade": "D",
+        "ExamMonth": "Nov-2014",
+        "ResultDeclaredOn": "15-Dec-2014",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "77.0",
+        "CreditsEarned": "75.0",
+        "Cgpa": "6.35",
+        "SGrades": "0",
+        "AGrades": "0",
+        "BGrades": "4",
+        "CGrades": "4",
+        "DGrades": "2",
+        "EGrades": "9",
+        "FGrades": "0",
+        "NGrades": "1"
+      }
+    ]
+  }
+}

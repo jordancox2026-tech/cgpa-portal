@@ -1,0 +1,58 @@
+{
+  "student_information": {
+    "register_number": "24PHD1373",
+    "name": "SOPHIA FLORENCE J"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "MACDM610",
+        "CourseTitle": "Design and Analysis of Experiments",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "MASTE610",
+        "CourseTitle": "Repair and Rehabilitation of Structures",
+        "CourseType": "Theory",
+        "Credits": "3.0",
+        "Grade": "N",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "02-Jan-2026",
+        "CourseOption": "NIL"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "RSS01791",
+        "CourseTitle": "MODERN CONSTRUCTION MATERIALS",
+        "CourseType": "SSC",
+        "Credits": "3.0",
+        "Grade": "F",
+        "ExamMonth": "Nov-2025",
+        "ResultDeclaredOn": "19-Dec-2025",
+        "CourseOption": "NIL"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "9.0",
+        "CreditsEarned": "3.0",
+        "Cgpa": "2.33",
+        "SGrades": "0",
+        "AGrades": "0",
+        "BGrades": "0",
+        "CGrades": "1",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "1",
+        "NGrades": "1"
+      }
+    ]
+  }
+}

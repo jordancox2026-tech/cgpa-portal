@@ -1,0 +1,126 @@
+{
+  "student_information": {
+    "register_number": "22MBA1006",
+    "name": "POOMATHI V"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "BMT5111",
+        "CourseTitle": "Applied Economics for Management Decisions",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N2",
+        "ExamMonth": "Oct-2022",
+        "ResultDeclaredOn": "07-Nov-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "BMT5112",
+        "CourseTitle": "Financial Accounting and Analysis",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N2",
+        "ExamMonth": "Oct-2022",
+        "ResultDeclaredOn": "07-Nov-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "BMT5113",
+        "CourseTitle": "Data Analysis for Managers",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N2",
+        "ExamMonth": "Oct-2022",
+        "ResultDeclaredOn": "07-Nov-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "BMT5114",
+        "CourseTitle": "IT for Managers",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N2",
+        "ExamMonth": "L Oct-2022",
+        "ResultDeclaredOn": "07-Nov-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "BMT5115",
+        "CourseTitle": "Organizational Behaviour",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "N2",
+        "ExamMonth": "Oct-2022",
+        "ResultDeclaredOn": "07-Nov-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "BMT5116",
+        "CourseTitle": "Corporate Legal Framework",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "A N3",
+        "ExamMonth": "Oct-2022",
+        "ResultDeclaredOn": "07-Nov-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "BMT5117",
+        "CourseTitle": "Business Communication",
+        "CourseType": "LO",
+        "Credits": "1.0",
+        "Grade": "A",
+        "ExamMonth": "Oct-2022",
+        "ResultDeclaredOn": "07-Nov-2022",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      }
+    ],
+    "i_curriculum_details": [
+      {
+        "CurriculumDistributionType": "Programme Core",
+        "CreditsRequired": "F 60.0",
+        "CreditsEarned": "1.0"
+      },
+      {
+        "CurriculumDistributionType": "Programme Elective",
+        "CreditsRequired": "48.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Total Credits",
+        "CreditsRequired": "F 108.0",
+        "CreditsEarned": "1.0"
+      }
+    ],
+    "n_cgpa_details": [
+      {
+        "CreditsRegistered": "18.0",
+        "CreditsEarned": "1.0",
+        "Cgpa": "0.50",
+        "SGrades": "U 0",
+        "AGrades": "1",
+        "BGrades": "0",
+        "CGrades": "0",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "6"
+      }
+    ]
+  }
+}

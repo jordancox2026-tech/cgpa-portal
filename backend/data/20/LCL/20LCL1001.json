@@ -1,0 +1,167 @@
+{
+  "student_information": {
+    "register_number": "20LCL1001",
+    "name": "AASHUTOSH K S"
+  },
+  "tables": {
+    "grade_history": [
+      {
+        "Slno": "1",
+        "CourseCode": "LLM1001",
+        "CourseTitle": "Research Methods and Legal Writing",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "16-Aug-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "2",
+        "CourseCode": "LLM1002",
+        "CourseTitle": "Comparative Public Law",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "B",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "16-Aug-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "3",
+        "CourseCode": "LLM4001",
+        "CourseTitle": "Law of Corporate Governance",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "16-Aug-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "4",
+        "CourseCode": "LLM4004",
+        "CourseTitle": "Modern Company Law",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "L Feb-2021",
+        "ResultDeclaredOn": "16-Aug-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "5",
+        "CourseCode": "LLM4102",
+        "CourseTitle": "Bankruptcy & Insolvency",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "A",
+        "ExamMonth": "Feb-2021",
+        "ResultDeclaredOn": "16-Aug-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      },
+      {
+        "Slno": "6",
+        "CourseCode": "LLM1003",
+        "CourseTitle": "Law and Justice in a Globalizing World",
+        "CourseType": "TH",
+        "Credits": "3.0",
+        "Grade": "C",
+        "ExamMonth": "Jul-2021",
+        "ResultDeclaredOn": "29-Jul-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "7",
+        "CourseCode": "LLM1004",
+        "CourseTitle": "Dissertation",
+        "CourseType": "PJT",
+        "Credits": "5.0",
+        "Grade": "A A",
+        "ExamMonth": "Jul-2021",
+        "ResultDeclaredOn": "16-Aug-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "UC"
+      },
+      {
+        "Slno": "8",
+        "CourseCode": "LLM4002",
+        "CourseTitle": "Law of Corporate Finance",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "B",
+        "ExamMonth": "Jul-2021",
+        "ResultDeclaredOn": "29-Jul-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "9",
+        "CourseCode": "LLM4003",
+        "CourseTitle": "Law Relating Mergers and Acquisitions",
+        "CourseType": "TH",
+        "Credits": "2.0",
+        "Grade": "I A",
+        "ExamMonth": "Jul-2021",
+        "ResultDeclaredOn": "29-Jul-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PC"
+      },
+      {
+        "Slno": "10",
+        "CourseCode": "LLM4104",
+        "CourseTitle": "Regulation of Capital and Securities Market",
+        "CourseType": "TH",
+        "Credits": "C 2.0",
+        "Grade": "A",
+        "ExamMonth": "Jul-2021",
+        "ResultDeclaredOn": "29-Jul-2021",
+        "CourseOption": "NIL",
+        "CourseDistribUtion": "PE"
+      }
+    ],
+    "f_curriculum_details": [
+      {
+        "CurriculumDistributionType": "Programme Core",
+        "CreditsRequired": "45.0",
+        "CreditsEarned": "8.0"
+      },
+      {
+        "CurriculumDistributionType": "University Core",
+        "CreditsRequired": "O 45.0",
+        "CreditsEarned": "14.0"
+      },
+      {
+        "CurriculumDistributionType": "University Elective",
+        "CreditsRequired": "45.0",
+        "CreditsEarned": "0.0"
+      },
+      {
+        "CurriculumDistributionType": "Total Credits",
+        "CreditsRequired": "26.0",
+        "CreditsEarned": "26.0"
+      }
+    ],
+    "cgpa_details": [
+      {
+        "CreditsRegistered": "26.0",
+        "CreditsEarned": "26.0",
+        "Cgpa": "8.27",
+        "SGrades": "0",
+        "AGrades": "5",
+        "BGrades": "3",
+        "CGrades": "2",
+        "DGrades": "0",
+        "EGrades": "0",
+        "FGrades": "0",
+        "NGrades": "0"
+      }
+    ]
+  }
+}
